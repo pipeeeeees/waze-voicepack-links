@@ -21,6 +21,31 @@ I'll start with a table, and as this matures it will become alphabetized and org
 | Jay Leno |https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE|U-Turn|9/10|
 | C-3PO |https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0||9/10|
 | T-Pain |https://waze.com/ul?acvp=F756E1E3-C1ED-4673-9567-336A65B81550||10/10|
-|||||
+| Arnold Schwarzenegger ||||
+| Boy George ||||
+| Christina Aguilera (English) ||||
+| Christina Aguilera (Spenish) ||||
+| Elvis Presley ||||
+| Kevin Conroy ||||
+| Liam Neeson ||||
+| Neil Patrick Harris ||||
+| Roberts Lejasmeijers ||||
+| Stephen Colbert ||||
+| Terry Crews ||||
+| DJ Khaled ||||
+| Escharum (Halo) ||||
+| Cupid ||||
+| Madea ||||
+| Safe Mode Kids ||||
+| Vlade Divac ||||
+| KITT (Knight Rider) |||| may be community created -unsure
+| C-3PO (Spanish) ||||
+| Tony Fernandes (AirAsia) ||||
+| Ichabod Crane (Sleepy Hollow) ||||
+| Ultron (Spanish, The Avengers) ||||
+| Dog ||||
+| Cat ||||
+
+
 
 *On a scale from 1-10. 10 being studio quality, 1 being very grainy. May change rating system in future
