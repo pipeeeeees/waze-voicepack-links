@@ -1,4 +1,4 @@
-# Waze Voice Links
+# Waze Voicepack Links
 
 Waze's custom navigation voice directions is feature within the popular navigation app Waze that allows users to customize the voice that provides directions and alerts during their journeys. Instead of the default voice, users can choose from a variety of celebrity or character voices, as well as user-generated voice packs. The purpose of Waze custom naviation voices is to make the driving experience more enjoyable and personalized for users. By using a unique or entertaining voice, users can add some personality to their navigation experience and make their trips more memorable.
 Below is a list of Waze Voicepack links curated by the user community. 
@@ -33,9 +33,9 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c)      |                            |9/10                          |
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=10E95E2D-157D-4F60-B472-72A5185DAABD)      |Most phrases; unusable      |8/10                          |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC)      |                            |3/10, grainy                  |
-<br>
 
-# Missing Waze Official Celebrity Voices (to be found or made in future)
+
+# Missing Waze Official Celebrity Voices (to be found or made in future, not a comprehensive list)
 | Title                             | Link                                                                      | Missing Phrases            | Audio Clarity                |
 | --------------------------------- | ------------------------------------------------------------------------- | -------------------------- | ---------------------------- |
 | Christina Aguilera (English)      |[]()                                                                       |                            |                              |
@@ -43,7 +43,7 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Kevin Conroy                      |[]()                                                                       |                            |                              |
 | Roberts Lejasmeijers              |[]()                                                                       |                            |                              |
 | DJ Khaled                         |[]()                                                                       |                            |                              |
-<br>
+<br><br><br>
 
 # Waze Official Character Voices
 | Title                             | Link                                                                      | Missing Phrases            | Audio Clarity                |
@@ -59,9 +59,8 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=2A2745BD-EB06-4577-9EB6-DBCA2B2F2F45)      |U-Turn                      |7/10                          |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a)      |                            |7/10, poor SNR                |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=5C1F6F08-BE6F-4578-A2F7-7A01D0FA8044)      |U-Turn                      |6/10, poor SNR                |
-<br>
 
-# Missing Waze Official Character Voices (to be found or made in future)
+# Missing Waze Official Character Voices (to be found or made in future, not a comprehensive list)
 | Title                             | Link                                                                      | Missing Phrases            | Audio Clarity                |
 | --------------------------------- | ------------------------------------------------------------------------- | -------------------------- | ---------------------------- |
 | Forza Horizon                     |[]()                                                                       |                            |                              |
@@ -81,7 +80,7 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Shizbox (Insulting British Guy) by u/BoxterMaiti |[Link](https://waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)      |                            |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)      |                            |
 
-<br>
+<br><br>
 
 ## Credits to these threads and websites for sourcing information and links for this list's 'cold start':
 - https://www.reddit.com/r/waze/comments/3pi5yl/waze_voice_packs/
