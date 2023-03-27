@@ -70,6 +70,7 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Cat                               |[]()                                                                       |                            |                              |
 | Ichabod Crane (Sleepy Hollow)     |[]()                                                                       |                            |                              |
 | Safe Mode Kids                    |[]()                                                                       |                            |                              |
+| Boy Band                          |[]()                                                                       |                            |                              |
 <br><br>
 
 # Popular Community-Made Voices
