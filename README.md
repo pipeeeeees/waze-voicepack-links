@@ -34,7 +34,6 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=10E95E2D-157D-4F60-B472-72A5185DAABD)      |Most phrases; unusable      |8/10                          |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC)      |                            |3/10, grainy                  |
 
-
 # Missing Waze Official Celebrity Voices (to be found or made in future, not a comprehensive list)
 | Title                             | Link                                                                      | Missing Phrases            | Audio Clarity                |
 | --------------------------------- | ------------------------------------------------------------------------- | -------------------------- | ---------------------------- |
@@ -80,8 +79,10 @@ The vision of this repository is to have a comprehensive list of all the highest
 | James Veitch (English Comedian)   |[Link](https://waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)      |                            |
 | Shizbox (Insulting British Guy) by u/BoxterMaiti |[Link](https://waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)      |                            |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)      |                            |
-
 <br><br>
+
+## Debugging
+For some users running Android devices (specifically it seems to be Android 13, but could be others as well), they are reports that only the default voice plays for their custom voices. To resolve this, it seems that changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that is of issue > Scroll to the bottom and change `Default voice`. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Credits to these threads and websites for sourcing information and links for this list's 'cold start':
 - https://www.reddit.com/r/waze/comments/3pi5yl/waze_voice_packs/
@@ -91,6 +92,3 @@ The vision of this repository is to have a comprehensive list of all the highest
 - https://robots.net/tech-reviews/how-to-install-different-waze-voices/
 - https://www.reddit.com/r/waze/comments/p49wdy/old_waze_voice_packs/
 - https://www.reddit.com/r/waze/comments/cj2pxd/custom_voice_packsstill_doable/
-
-## From pipeeeeees:
-As a fan of Waze navigation for many years, I've looked into ways to keep the voice packs I love the most. I've rooted/jailbroken phones, used app side loaders, and swapped mp3 files to get my favorite voices to work. I don't do that sort of stuff anymore as it is increasingly difficult, but I know some people still do. I hope this repository can serve as a place for our collective intelligence to share these voicepacks with all users!
