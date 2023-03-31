@@ -7,9 +7,6 @@ Below is a list of Waze Voicepack links curated by the user community.
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
 3. Select the voice of your choosing in the Waze app by going to `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap on the new voice.
-
-## Repository Objective
-The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links below are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. Your mileage may vary. If **you** have a higher quality copy of a voicepack below, or are able to share a voicepack that does not yet exist in the list below, please see the contribution instructions in `contributing.md`.
 <br><br>
 
 # Waze Official Celebrity Voices
@@ -18,7 +15,7 @@ The vision of this repository is to have a comprehensive list of all the highest
 | Morgan Freeman                    |[Link](https://waze.com/ul?acvp=9E5BC409-A342-4C3F-8E90-FF511D6D5ED5)      |                            |10/10                         |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=F756E1E3-C1ED-4673-9567-336A65B81550)      |                            |10/10                         |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=B6A59A15-F67A-49D2-9739-41973CBEEB20)      |                            |10/10                         |
-| Arnold Schwarzenegger             |[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B)      |                            |10/10                         |
+| Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B)      |                            |10/10                         |
 | Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=CEAC8239-71A1-40E4-899A-661FB43A77B5)      |U-Turn, one intro phrase    |10/10                         |
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7)      |U-Turn                      |10/10                         |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c)      |                            |10/10                         |
@@ -83,6 +80,9 @@ The vision of this repository is to have a comprehensive list of all the highest
 
 ## Debugging
 For some users running Android devices (specifically it seems to be Android 13, but could be others as well), they are reports that only the default voice plays for their custom voices. To resolve this, it seems that changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that is of issue > Scroll to the bottom and change `Default voice`. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
+
+## Repository Objective
+The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links below are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. Your mileage may vary. If **you** have a higher quality copy of a voicepack below, or are able to share a voicepack that does not yet exist in the list below, please see the contribution instructions in `contributing.md`.
 
 ## Credits to these threads and websites for sourcing information and links for this list's 'cold start':
 - https://www.reddit.com/r/waze/comments/3pi5yl/waze_voice_packs/
