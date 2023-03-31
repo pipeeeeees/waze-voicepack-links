@@ -7,6 +7,7 @@ Below is a list of Waze Voicepack links curated by the user community.
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
 3. Select the voice of your choosing in the Waze app by going to `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap on the new voice.
+If you are experiencing a bug where the custom voice is not playing and is only playing the default voice (usually 'Amy'), scroll down to the `Debugging` section to learn about a possible workaround. 
 <br><br>
 
 # Waze Official Celebrity Voices
