@@ -60,7 +60,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Ichabod Crane (Sleepy Hollow)     |[]()                                                                       |                            |                              |
 | Safe Mode Kids                    |[]()                                                                       |                            |                              |
 | Boy Band                          |[]()                                                                       |                            |                              |
-
+| Soccer Commentator                |[]()                                                                       |                            |                              |
 
 # Popular Community-Made Voices
 | Title                             | Link                                                                      | Missing Phrases            |
