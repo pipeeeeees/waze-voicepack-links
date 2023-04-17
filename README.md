@@ -67,7 +67,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | --------------------------------- | ------------------------------------------------------------------------- | -------------------------- |
 | Angry Batman                      |[Link](https://waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)      |                            |
 | James Veitch (English Comedian)   |[Link](https://waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)      |                            |
-| Shizbox (Insulting British Guy) by u/BoxterMaiti |[Link](https://waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)      |                            |
+| Shizbox (Insulting British Guy) by u/BoxterMaiti |[Link](https://waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)      |                            |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)      |                            |
 
 <br>
