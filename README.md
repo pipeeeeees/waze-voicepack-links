@@ -61,6 +61,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Safe Mode Kids                    |[]()                                                                       |                            |                              |
 | Boy Band                          |[]()                                                                       |                            |                              |
 | Soccer Commentator                |[]()                                                                       |                            |                              |
+| Kehlani                           |[]().                                                                      |                            |                              |
 
 
 
