@@ -61,8 +61,32 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Safe Mode Kids                    |[]()                                                                       |                            |                              |
 | Boy Band                          |[]()                                                                       |                            |                              |
 | Soccer Commentator                |[]()                                                                       |                            |                              |
-| Kehlani                           |[]().                                                                      |                            |                              |
-
+| Kehlani                           |[]()                                                                       |                            |                              |
+| Karamo |[]()|||
+| Fraggle Rock |[]()|||
+| PAW Patrol |[]()|||
+| DJ 70's |[]()|||
+| Aerobic Instructor 80's |[]()|||
+| Pop Star 90's |[]()|||
+| Aries |[]()|||
+| Taurus |[]()|||
+| Gemini |[]()|||
+| Cancer |[]()|||
+| Leo |[]()|||
+| Virgo |[]()|||
+| Libra |[]()|||
+| Scorpio |[]()|||
+| Sagittarius |[]()|||
+| Capricorn |[]()|||
+| Aquarious |[]()|||
+| Pisces |[]()|||
+| Biz Jargon |[]()|||
+| Red |[]()|||
+| Headspace |[]()|||
+| Zombie |[]()|||
+| Survivalist |[]()|||
+| Andy Field (FNAF) |[]()|||
+| Honkai Star Rail |[]()|||
 
 
 # Popular Community-Made Voices
