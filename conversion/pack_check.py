@@ -5,18 +5,17 @@ Bitrate: Constant 64 kbps
 Channels/Modus: Mono
 Sample frequency: 44100Hz
 
+requires `ffmpeg.exe` in the conversion directory on windows. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
+
+I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine
 """
 
 import os, shutil
 from pydub import AudioSegment
 from pydub.utils import mediainfo
 
-"""
-requires `ffmpeg.exe` in the conversion directory. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
-I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine. 
-"""
-AudioSegment.converter = "ffmpeg"
 
+AudioSegment.converter = "ffmpeg"
 required_voices = []
 not_required_voices = []
 list_of_input_packs = []
@@ -106,14 +105,13 @@ def make_output_folders():
             list_of_output_packs[input_folder_name] = input_folder_name + '_FORMATTED'
 
 def convert_mp3(input_path, output_path):
-    # load the input MP3 file
-    audio = AudioSegment.from_file(input_path, format="mp3")
-
     """
     specifications for audio quality that is accepted by the Waze app can be found here: https://www.reddit.com/r/waze/comments/wiq9iq/comment/ijdki4p/?utm_source=share&utm_medium=web2x&context=3
     
     extremely useful, u/BosterMaiti
     """
+    # load the input MP3 file
+    audio = AudioSegment.from_file(input_path, format="mp3")
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
@@ -131,18 +129,12 @@ def convert_mp3(input_path, output_path):
         audio = audio.set_channels(1)
         print("Audio converted to mono.")
 
-    output_file_path = os.path.join(output_path, "output.mp3")
+    #output_file_path = os.path.join(output_path, "output.mp3")
 
     audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
-    print("Modified audio saved to:", output_path)
-
-    return True
+    #print("Modified audio saved to:", output_path)
 
 def main():
-    global required_voices
-    global not_required_voices
-    global list_of_input_packs
-
     # pull Waze mp3 file requirements from `prompt_names.txt`
     set_mp3_requirements()
 
@@ -155,8 +147,25 @@ def main():
     # create an output folder
     make_output_folders()
     
-    # TEST: successfully format an mp3 in bitrate, channels, and sample freq
-    convert_mp3(r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\input_pack\vp_eng_cat_voice\200.mp3', r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\output_pack\vp_eng_cat_voice_FORMATTED\output1.mp3')
+    # go thru each folder and convert each
+    for input_pack in list_of_output_packs.keys():
+        # preset base paths for each mp3 file
+        base_input_path = os.path.join(current_path, local_path)
+        base_input_path = os.path.join(base_input_path, 'input_pack')
+        base_input_path = os.path.join(base_input_path, input_pack)
+        base_output_path = os.path.join(current_path, local_path)
+        base_output_path = os.path.join(base_output_path, 'output_pack')
+        base_output_path = os.path.join(base_output_path, list_of_output_packs[input_pack])
+        for required_file in required_voices:
+            # try converting each mp3 file
+            try:
+                input_path = os.path.join(base_input_path, required_file)
+                output_path = os.path.join(base_output_path, required_file)
+                convert_mp3(input_path, output_path)
+            except:
+                print(f'Failed to convert {input_pack} due to {input_path}')
+                print('This could be because this file does not exist in the input file folder.')
+                break
 
 if __name__ == '__main__':
     main()
