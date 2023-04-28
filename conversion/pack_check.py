@@ -9,6 +9,7 @@ Sample frequency: 44100Hz
 
 import os, shutil
 from pydub import AudioSegment
+from pydub.utils import mediainfo
 
 """
 requires `ffmpeg.exe` in the conversion directory. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
@@ -114,28 +115,26 @@ def convert_mp3(input_path, output_path):
     extremely useful, u/BosterMaiti
     """
 
+    TARGET_SAMPLE_RATE = 44100
+    TARGET_AUDIO_CHANNELS = 1 #mono
+    TARGET_BITRATE = '64k'
+
     ## SAMPLE FREQUENCY CONVERSION
-    if audio.frame_rate != 44100:
+    if audio.frame_rate != TARGET_SAMPLE_RATE:
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
         print("Sample frequency modified to 44100Hz.")
 
     ## CHANNELS CONVERSION
-    if audio.channels != 1:
+    if audio.channels != TARGET_AUDIO_CHANNELS:
         # Convert stereo or other formats to mono
         audio = audio.set_channels(1)
         print("Audio converted to mono.")
 
-    ## BITRATE CONVERSION
-    if audio.frame_rate != 64000:
-        # Set the bitrate to 64 kbps
-        audio = audio.set_frame_rate(64000)
-        print("Bitrate set to 64 kbps.")
-
     output_file_path = os.path.join(output_path, "output.mp3")
 
-    audio.export(output_path, format="mp3")
-    print("Modified audio saved to:", output_file_path)
+    audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
+    print("Modified audio saved to:", output_path)
 
     return True
 
