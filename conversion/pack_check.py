@@ -9,6 +9,11 @@ Sample frequency: 44100Hz
 
 import os, shutil
 from pydub import AudioSegment
+
+"""
+requires `ffmpeg.exe` in the conversion directory. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
+I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine. 
+"""
 AudioSegment.converter = "ffmpeg"
 
 required_voices = []
@@ -100,22 +105,36 @@ def make_output_folders():
             list_of_output_packs[input_folder_name] = input_folder_name + '_FORMATTED'
 
 def convert_mp3(input_path, output_path):
-    # Load the input MP3 file
+    # load the input MP3 file
     audio = AudioSegment.from_file(input_path, format="mp3")
 
-    # Check the current sample frequency
-    sample_frequency = audio.frame_rate
-    print("Current sample frequency:", sample_frequency, "Hz")
+    """
+    specifications for audio quality that is accepted by the Waze app can be found here: https://www.reddit.com/r/waze/comments/wiq9iq/comment/ijdki4p/?utm_source=share&utm_medium=web2x&context=3
+    
+    extremely useful, u/BosterMaiti
+    """
 
-    # Check if the sample frequency needs to be modified
-    if sample_frequency != 44100:
+    ## SAMPLE FREQUENCY CONVERSION
+    if audio.frame_rate != 44100:
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
         print("Sample frequency modified to 44100Hz.")
 
+    ## CHANNELS CONVERSION
+    if audio.channels != 1:
+        # Convert stereo or other formats to mono
+        audio = audio.set_channels(1)
+        print("Audio converted to mono.")
+
+    ## BITRATE CONVERSION
+    if audio.frame_rate != 64000:
+        # Set the bitrate to 64 kbps
+        audio = audio.set_frame_rate(64000)
+        print("Bitrate set to 64 kbps.")
+
     output_file_path = os.path.join(output_path, "output.mp3")
 
-    audio.export(r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\output_pack\vp_eng_cat_voice_FORMATTED\output1.mp3', format="mp3")
+    audio.export(output_path, format="mp3")
     print("Modified audio saved to:", output_file_path)
 
     return True
@@ -138,7 +157,7 @@ def main():
     make_output_folders()
     
     # TEST: successfully format an mp3 in bitrate, channels, and sample freq
-    convert_mp3(r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\input_pack\vp_eng_cat_voice\200.mp3', local_path + 'output_file' + path_slash + 'vp_eng_cat_voice_FORMATTED')
+    convert_mp3(r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\input_pack\vp_eng_cat_voice\200.mp3', r'C:\Users\pipee\Desktop\waze-voicepack-links\conversion\output_pack\vp_eng_cat_voice_FORMATTED\output1.mp3')
 
 if __name__ == '__main__':
     main()
