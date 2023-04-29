@@ -1,2 +1,4 @@
 
 *.mp3
+.DS_Store
+*.exe
