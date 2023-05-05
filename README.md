@@ -65,9 +65,9 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Karamo |[]()|||
 | Fraggle Rock |[]()|||
 | PAW Patrol |[]()|||
-| DJ 70's |[]()|||
-| Aerobic Instructor 80's |[]()|||
-| Pop Star 90's |[]()|||
+| DJ 70's |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5)|||
+| Aerobic Instructor 80's |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031)|||
+| Pop Star 90's |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183)|||
 | Aries |[]()|||
 | Taurus |[]()|||
 | Gemini |[]()|||
