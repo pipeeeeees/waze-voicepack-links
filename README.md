@@ -122,13 +122,4 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Repository Objective
-The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links below are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. Your mileage may vary. If **you** have a higher quality copy of a voicepack below, or are able to share a voicepack that does not yet exist in the list below, please see the contribution instructions in `contributing.md`.
-
-## Credits to these threads and websites for sourcing information and links for this list's 'cold start':
-- https://www.reddit.com/r/waze/comments/3pi5yl/waze_voice_packs/
-- https://www.reddit.com/r/waze/comments/3dngfq/elvis_voice_files_or_get_elvis_back/
-- https://www.reddit.com/r/waze/comments/57t2ue/waze_voice_pack_archive/
-- https://www.mikeyip.com/2016/04/celebrity-for-waze.html
-- https://robots.net/tech-reviews/how-to-install-different-waze-voices/
-- https://www.reddit.com/r/waze/comments/p49wdy/old_waze_voice_packs/
-- https://www.reddit.com/r/waze/comments/cj2pxd/custom_voice_packsstill_doable/
+The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links below are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. If **you** have a higher quality copy of a voicepack, or are able to share the zip files to a voicepack that does not yet exist in the list above, please see the contribution instructions in `contributing.md`.
