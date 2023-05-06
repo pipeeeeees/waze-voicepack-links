@@ -38,11 +38,13 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150)      |9/10                          | English |U-Turn                      |
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=74A17DB5-DB93-4DF1-8036-CDFA99692144)      |9/10, some annoying clicks    | English |U-Turn, 0.1 mile            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c)      |9/10                          | English |                            |
-| Elvis Presley                     |[Link](https://waze.com/ul?acvp=10E95E2D-157D-4F60-B472-72A5185DAABD)      |8/10                          | English |Most phrases; unusable      |
+| Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b)      |10/10                         | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=2A2745BD-EB06-4577-9EB6-DBCA2B2F2F45)      |7/10                          | English |U-Turn                      |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a)      |7/10, poor SNR                | English |                            |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=5C1F6F08-BE6F-4578-A2F7-7A01D0FA8044)      |6/10, poor SNR                | English |U-Turn                      |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC)      |3/10, grainy                  | English |                            |
+| Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24)      |9/10                          | English |                            |
+| Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05)      |10/10                         | English |                            |
 
 # Missing Waze Official Voices
 | Title                             | Link                                                                      | Missing Phrases            | Audio Clarity                |
@@ -61,13 +63,12 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Safe Mode Kids                    |[]()                                                                       |                            |                              |
 | Boy Band                          |[]()                                                                       |                            |                              |
 | Soccer Commentator                |[]()                                                                       |                            |                              |
-| Kehlani                           |[]()                                                                       |                            |                              |
 | Karamo |[]()|||
 | Fraggle Rock |[]()|||
 | PAW Patrol |[]()|||
-| DJ 70's |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5)|||
-| Aerobic Instructor 80's |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031)|||
-| Pop Star 90's |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183)|||
+| DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5)      |                            |                              |
+| Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031)      |                            |                              |
+| Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183)      |                            |                              |
 | Aries |[]()|||
 | Taurus |[]()|||
 | Gemini |[]()|||
@@ -85,7 +86,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Headspace |[]()|||
 | Zombie |[]()|||
 | Survivalist |[]()|||
-| Andy Field (FNAF) |[]()|||
 | Honkai Star Rail |[]()|||
 
 

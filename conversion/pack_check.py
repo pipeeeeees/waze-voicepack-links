@@ -115,21 +115,21 @@ def convert_mp3(input_path, output_path):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '32k'
+    TARGET_BITRATE = '48k'
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
         old_audio_frame_rate = int(audio.frame_rate)
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
-        print(f"Sample frequency modified to 44100Hz from {old_audio_frame_rate}Hz.")
+        #print(f"Sample frequency modified to 44100Hz from {old_audio_frame_rate}Hz.")
 
     ## CHANNELS CONVERSION
     if audio.channels != TARGET_AUDIO_CHANNELS:
         # Convert stereo or other formats to mono
         old_audio_channels = audio.channels
         audio = audio.set_channels(1)
-        print(f"Audio converted to mono from {old_audio_channels}.")
+        #print(f"Audio converted to mono from {old_audio_channels}.")
 
     #output_file_path = os.path.join(output_path, "output.mp3")
 
