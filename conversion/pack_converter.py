@@ -1,7 +1,7 @@
 """
-checks directories in `input_packs/`, and will check if files are present, formatted correctly, and return a valid output pack
+checks directories in `input_packs/`, and will check if mp3 files are present, format all mp3's to be accepted by Waze's file system, and return a valid output pack
 
-Bitrate: Constant 32 kbps
+Bitrate: Constant 48 kbps
 Channels/Modus: Mono
 Sample frequency: 44100Hz
 
@@ -22,6 +22,7 @@ list_of_input_packs = []
 list_of_output_packs = {}
 
 #set OS independent relative paths and slash flags
+#did this to work locally on my mac, but ffmpeg.exe was too hard to find a mac equivalent... largely due to laziness... this effort was wasted in the end but ill keep it here as I am lazy. I think os has functions to handle this anyway...
 current_path = os.getcwd()
 if '\\' in current_path:
     path_slash = '\\'

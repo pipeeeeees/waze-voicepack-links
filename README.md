@@ -18,7 +18,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | T-Pain                            |[Link](https://waze.com/ul?acvp=F756E1E3-C1ED-4673-9567-336A65B81550) |10/10 | English |                            |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=B6A59A15-F67A-49D2-9739-41973CBEEB20) |10/10 | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) |10/10 | English |                            |
-| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=CEAC8239-71A1-40E4-899A-661FB43A77B5) |10/10 | English |Missing U-Turn, one intro phrase |
+| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) |10/10 | English |                            |
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) |10/10 | English |Missing U-Turn              |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) |10/10 | English |                            |
 | Morgan Freeman                    |[Link](https://waze.com/ul?acvp=9E5BC409-A342-4C3F-8E90-FF511D6D5ED5) |10/10 | English |                            |
@@ -36,10 +36,10 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) |9/10  | English |some annoying mic clicks    |
 | Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) |9/10  | English |Missing U-Turn              |
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) |9/10  | English |Missing U-Turn              |
-| Terry Crews                       |[Link](https://waze.com/ul?acvp=74A17DB5-DB93-4DF1-8036-CDFA99692144) |9/10  | English |Missing U-Turn, 0.1 mile, some annoying clicks |
+| Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) |10/10 | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) |9/10  | English |                            |
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) |10/10 | English |                            |
-| Vlade Divac                       |[Link](https://waze.com/ul?acvp=2A2745BD-EB06-4577-9EB6-DBCA2B2F2F45) |7/10  | English |Missing U-Turn              |
+| Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) |10/10 | English |                            |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) |7/10  | English |poor SNR                    |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=5C1F6F08-BE6F-4578-A2F7-7A01D0FA8044) |6/10  | English |Missing U-Turn, poor SNR    |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) |3/10  | English |grainy                      |
