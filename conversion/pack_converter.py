@@ -123,7 +123,7 @@ def make_output_folders():
             os.makedirs(output_file_path + input_folder_name + '_FORMATTED')
             list_of_output_packs[input_folder_name] = input_folder_name + '_FORMATTED'
 
-def convert_mp3(input_path, output_path):
+def convert_mp3(input_path, output_path, filename):
     """
     specifications for audio quality that is accepted by the Waze app can be found here: https://www.reddit.com/r/waze/comments/wiq9iq/comment/ijdki4p/?utm_source=share&utm_medium=web2x&context=3
     
@@ -134,11 +134,11 @@ def convert_mp3(input_path, output_path):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '60k'
+    TARGET_BITRATE = '61k'
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
-        old_audio_frame_rate = int(audio.frame_rate)
+        #old_audio_frame_rate = int(audio.frame_rate)
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
         #print(f"Sample frequency modified to 44100Hz from {old_audio_frame_rate}Hz.")
@@ -152,7 +152,34 @@ def convert_mp3(input_path, output_path):
 
     #output_file_path = os.path.join(output_path, "output.mp3")
 
-    audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
+    rank1_mp3s = ['TickerPoints.mp3', 'Fifth.mp3', 'Sixth.mp3', 'Seventh.mp3']
+    rank2_mp3s = ['200.mp3',
+                  '200meters.mp3',
+                  '400.mp3',
+                  '400meters.mp3',
+                  '800.mp3',
+                  '800meters.mp3',
+                  '1000meters.mp3',
+                  '1500.mp3',
+                  '1500meters.mp3',
+                  'AndThen.mp3',
+                  'ExitLeft.mp3',
+                  'ExitRight.mp3',
+                  'KeepLeft.mp3',
+                  'KeepRight.mp3',
+                  'Second.mp3',
+                  'First.mp3',
+                  'Fourth.mp3',
+                  'Straight.mp3',
+                  'Third.mp3',
+                  'TurnLeft.mp3',
+                  'TurnRight.mp3'] 
+    if filename in rank1_mp3s:
+        audio.export(output_path, bitrate='36k', format="mp3")
+    elif filename in rank2_mp3s:
+        audio.export(output_path, bitrate='44k', format="mp3")
+    else:
+        audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
     #print("Modified audio saved to:", output_path)
 
 def main():
@@ -182,7 +209,7 @@ def main():
             try:
                 input_path = os.path.join(base_input_path, required_file)
                 output_path = os.path.join(base_output_path, required_file)
-                convert_mp3(input_path, output_path)
+                convert_mp3(input_path, output_path, required_file)
             except:
                 print(f'Failed to convert {input_pack} due to {input_path}')
                 print('This could be because this file does not exist in the input file folder.')
