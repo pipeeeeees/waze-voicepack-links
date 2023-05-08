@@ -9,7 +9,7 @@ requires `ffmpeg.exe` in the conversion directory on windows. download from here
 
 I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine
 
-1.6MB total output is the absolute max it seems...
+root/data/user/0/com.waze/waze/custom_prompts_temp
 """
 
 import os, shutil
