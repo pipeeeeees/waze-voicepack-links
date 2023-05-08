@@ -14,7 +14,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 # Waze Official Voices
 | Title                             | Link                                                                 | Audio Clarity | Language | Notes            |
 | --------------------------------- | -------------------------------------------------------------------- | ------------- | -------- | ---------------- |
-| Morgan Freeman                    |[Link](https://waze.com/ul?acvp=9E5BC409-A342-4C3F-8E90-FF511D6D5ED5) |10/10 | English |                            |
+| Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) |10/10 | English |                            |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=F756E1E3-C1ED-4673-9567-336A65B81550) |10/10 | English |                            |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=B6A59A15-F67A-49D2-9739-41973CBEEB20) |10/10 | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) |10/10 | English |                            |
