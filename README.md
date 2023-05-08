@@ -49,6 +49,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) |10/10 | English |                            |
 | Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) |10/10 | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) |10/10 | English |                            |
+| Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) |10/10 | English |                            |
 
 # Missing Waze Official Voices
 | Title                             | Link                                                                      |
@@ -86,7 +87,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Headspace |[]()|
 | Zombie |[]()|
 | Survivalist |[]()|
-| Honkai Star Rail |[]()|
+
 
 
 # Popular Community-Made Voices
