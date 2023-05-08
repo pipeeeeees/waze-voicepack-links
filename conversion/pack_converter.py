@@ -1,13 +1,15 @@
 """
-checks directories in `input_packs/`, and will check if files are present, formatted correctly, and return a valid output pack
+checks directories in `input_packs/`, and will check if mp3 files are present, format all mp3's to be accepted by Waze's file system, and return a valid output pack
 
-Bitrate: Constant 64 kbps
+Bitrate: Constant 48 kbps
 Channels/Modus: Mono
 Sample frequency: 44100Hz
 
 requires `ffmpeg.exe` in the conversion directory on windows. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
 
 I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine
+
+1.6MB total output is the absolute max it seems...
 """
 
 import os, shutil
@@ -22,6 +24,7 @@ list_of_input_packs = []
 list_of_output_packs = {}
 
 #set OS independent relative paths and slash flags
+#did this to work locally on my mac, but ffmpeg.exe was too hard to find a mac equivalent... largely due to laziness... this effort was wasted in the end but ill keep it here as I am lazy. I think os has functions to handle this anyway...
 current_path = os.getcwd()
 if '\\' in current_path:
     path_slash = '\\'
@@ -43,6 +46,22 @@ else:
     print('something went wrong')
     exit(0)
 
+def get_folder_size(folder_path):
+    """
+    Get the size of a folder in bytes.
+
+    Args:
+        folder_path (str): The path to the folder.
+
+    Returns:
+        int: The size of the folder in bytes.
+    """
+    total_size = 0
+    for dirpath, dirnames, filenames in os.walk(folder_path):
+        for f in filenames:
+            fp = os.path.join(dirpath, f)
+            total_size += os.path.getsize(fp)
+    return total_size
 
 def set_mp3_requirements():
     global required_voices
@@ -118,16 +137,18 @@ def convert_mp3(input_path, output_path):
     TARGET_BITRATE = '64k'
 
     ## SAMPLE FREQUENCY CONVERSION
-    if audio.frame_rate != TARGET_SAMPLE_RATE:
+    if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
+        old_audio_frame_rate = int(audio.frame_rate)
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
-        print("Sample frequency modified to 44100Hz.")
+        #print(f"Sample frequency modified to 44100Hz from {old_audio_frame_rate}Hz.")
 
     ## CHANNELS CONVERSION
     if audio.channels != TARGET_AUDIO_CHANNELS:
         # Convert stereo or other formats to mono
+        old_audio_channels = audio.channels
         audio = audio.set_channels(1)
-        print("Audio converted to mono.")
+        #print(f"Audio converted to mono from {old_audio_channels}.")
 
     #output_file_path = os.path.join(output_path, "output.mp3")
 
@@ -166,6 +187,9 @@ def main():
                 print(f'Failed to convert {input_pack} due to {input_path}')
                 print('This could be because this file does not exist in the input file folder.')
                 break
+        num_bytes = round(float(get_folder_size(base_output_path))/1000000, 2)
+
+        print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
 
 if __name__ == '__main__':
     main()
