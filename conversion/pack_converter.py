@@ -8,6 +8,8 @@ Sample frequency: 44100Hz
 requires `ffmpeg.exe` in the conversion directory on windows. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
 
 I used `ffmpeg-master-latest-win64-gpl.zip` for my windows machine
+
+1.6MB total output is the absolute max it seems...
 """
 
 import os, shutil
@@ -44,6 +46,22 @@ else:
     print('something went wrong')
     exit(0)
 
+def get_folder_size(folder_path):
+    """
+    Get the size of a folder in bytes.
+
+    Args:
+        folder_path (str): The path to the folder.
+
+    Returns:
+        int: The size of the folder in bytes.
+    """
+    total_size = 0
+    for dirpath, dirnames, filenames in os.walk(folder_path):
+        for f in filenames:
+            fp = os.path.join(dirpath, f)
+            total_size += os.path.getsize(fp)
+    return total_size
 
 def set_mp3_requirements():
     global required_voices
@@ -116,7 +134,7 @@ def convert_mp3(input_path, output_path):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '48k'
+    TARGET_BITRATE = '64k'
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
@@ -169,7 +187,9 @@ def main():
                 print(f'Failed to convert {input_pack} due to {input_path}')
                 print('This could be because this file does not exist in the input file folder.')
                 break
-        print(f"{input_pack} successfully converted!")
+        num_bytes = round(float(get_folder_size(base_output_path))/1000000, 2)
+
+        print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
 
 if __name__ == '__main__':
     main()

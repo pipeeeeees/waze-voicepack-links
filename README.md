@@ -41,11 +41,14 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) |10/10 | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) |10/10 | English |                            |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) |7/10  | English |poor SNR                    |
-| Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=5C1F6F08-BE6F-4578-A2F7-7A01D0FA8044) |6/10  | English |Missing U-Turn, poor SNR    |
+| Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) |10/10 | English |                            |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) |3/10  | English |grainy                      |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) |9/10  | English |                            |
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) |10/10 | English |                            |
 | Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) |10/10 | English |                            |
+| DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) |10/10 | English |                            |
+| Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) |10/10 | English |                            |
+| Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) |10/10 | English |                            |
 
 # Missing Waze Official Voices
 | Title                             | Link                                                                      |
@@ -66,9 +69,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Karamo |[]()|
 | Fraggle Rock |[]()|
 | PAW Patrol |[]()|
-| DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) |
-| Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) |
-| Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) |
 | Aries |[]()|
 | Taurus |[]()|
 | Gemini |[]()|
