@@ -46,7 +46,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) |9/10  | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) |10/10 | English |                            |
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) |9/10  | English |Missing U-Turn              |
-| Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=B6A59A15-F67A-49D2-9739-41973CBEEB20) |10/10 | English |                            |
+| Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) |10/10 | English |                            |
 | Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) |10/10 | English |Missing U-Turn              |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) |10/10 | English |                            |
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) |10/10 | English |                            |
