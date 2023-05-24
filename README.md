@@ -1,12 +1,5 @@
 # Waze Voicepack Links
 
-Waze is a popular navigation app that helps users navigate through traffic and get to their destinations quickly through peer reporting. One of the standout features of Waze is its custom navigation voice directions. This feature allows users to personalize the voice that provides directions and alerts during their journeys. Instead of the default voice, users can choose from a wide variety of celebrity or character voices, as well as user-generated voice packs. The purpose of Waze's custom navigation voices is to make the driving experience more enjoyable and personalized for users. By using a unique or entertaining voice, users can add some personality to their navigation experience and make their trips more memorable.
-Below is a curated list of Waze Voicepack links. 
-
-<img src="docs/waze-logo-black-and-white.png" alt= “” width="400">
-
-Waze link: https://www.waze.com/live-map/
-
 ## How to Download a Voicepack 
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
@@ -16,43 +9,43 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 <br>
 
 # Waze Official Voices
-| Title                             | Link                                                                 | Audio Clarity | Language | Notes            |
-| --------------------------------- | -------------------------------------------------------------------- | ------------- | -------- | ---------------- |
-| Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) |10/10 | English |                            |
-| Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) |10/10 | English |                            |
-| Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) |10/10 | English |                            |
-| Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) |9/10  | English |                            |
-| C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) |9/10  | English |                            |
-| C-3PO (Star Wars, Spanish)        |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) |9/10  | Spanish |Missing Crash Reported      |
-| Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) |10/10 | English |                            |
-| Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) |10/10 | English |                            |
-| Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) |7/10  | English |poor SNR                    |
-| Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) |9/10  | English |                            |
-| Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=b7f530dd-09f9-4256-89a3-2a759554a2e5) |10/10 | English |Missing All mile phrases    |
-| DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) |10/10 | English |                            |
-| Dog                               |[Link](https://waze.com/ul?acvp=590c035b-986a-4bc7-a665-a3c271017894) |10/10 | English |                            |
-| Ed Helms                          |[Link](https://waze.com/ul?acvp=241CD4A3-3E35-4EBB-822B-BAC71CB3563A) |9/10  | English |                            |
-| Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) |10/10 | English |                            |
-| Escharum (Halo)                   |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) |9/10  | English |                            |
-| Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) |10/10 | English |                            |
-| Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) |9/10  | English |Missing U-Turn              |
-| Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) |9/10  | English |                            |
-| Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) |10/10 | English |Missing U-Turn              |
-| Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) |10/10 | English |                            |
-| Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) |9/10  | English |Missing All four mile phrases |
-| Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) |10/10 | English |                            |
-| Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) |3/10  | English |grainy                      |
-| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) |10/10 | English |                            |
-| Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) |9/10  | English |                            |
-| Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) |10/10 | English |                            |
-| Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) |9/10  | English |Missing U-Turn              |
-| Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) |10/10 | English |                            |
-| Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) |10/10 | English |Missing U-Turn              |
-| T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) |10/10 | English |                            |
-| Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) |10/10 | English |                            |
-| The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) |9/10  | English |some annoying mic clicks    |
-| Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) |10/10 | English |                            |
-| Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) |10/10 | English |                            |
+| Title                             | Link                                                                 | Language | Notes            |
+| --------------------------------- | -------------------------------------------------------------------- | -------- | ---------------- |
+| Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English |                            |
+| Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
+| Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) | English |                            |
+| Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
+| C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
+| C-3PO (Star Wars, Spanish)        |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish |Missing Crash Reported      |
+| Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English |                            |
+| Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
+| Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor SNR                    |
+| Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
+| Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=b7f530dd-09f9-4256-89a3-2a759554a2e5) | English |Missing All mile phrases    |
+| DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English |                            |
+| Dog                               |[Link](https://waze.com/ul?acvp=590c035b-986a-4bc7-a665-a3c271017894) | English |                            |
+| Ed Helms                          |[Link](https://waze.com/ul?acvp=241CD4A3-3E35-4EBB-822B-BAC71CB3563A) | English |                            |
+| Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) | English |                            |
+| Escharum (Halo)                   |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) | English |                            |
+| Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) | English |                            |
+| Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English |Missing U-Turn              |
+| Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
+| Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English |Missing U-Turn              |
+| Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
+| Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English |Missing All four mile phrases |
+| Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
+| Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English |grainy, poor quality        |
+| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English |                            |
+| Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
+| Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
+| Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English |Missing U-Turn              |
+| Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
+| Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English |Missing U-Turn              |
+| T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
+| Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
+| The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) | English |some annoying mic clicks    |
+| Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
+| Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
 
 
 # Missing Waze Official Voices
