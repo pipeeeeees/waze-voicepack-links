@@ -43,19 +43,23 @@ for root, dirs, files in os.walk(input_dir):
         elif root.split("\\")[-1] in first_choice:
             copy_file_with_new_name(root + '\\' + '1.mp3', file_name, output_dir + '\\' + root.split("\\")[2])
         elif root.split("\\")[-1] == 'StartDrive':
-            taken = []
-            for i in range(9):
-                phrase = root.split("\\")[-1]
-                title = root.split("\\")[-2]
-                print(f'\nFor {phrase} ({title}), pick from the following:')
-                num = 1
-                for file in files:
-                    if num not in taken:
-                        print(f'\t{num}: {file}')
-                    num += 1
-                value = int(input('   Pick your choice: '))
-                copy_file_with_new_name(root + '\\' + files[value-1], 'StartDrive' + str(i+1) + '.mp3', output_dir + '\\' + root.split("\\")[2])
-                taken.append(value)
+            if len(files) == 9:
+                for i in range(9):
+                    copy_file_with_new_name(root + '\\' + files[i], 'StartDrive' + str(i+1) + '.mp3', output_dir + '\\' + root.split("\\")[2])
+            else:
+                taken = []
+                for i in range(9):
+                    phrase = root.split("\\")[-1]
+                    title = root.split("\\")[-2]
+                    print(f'\nFor {phrase} ({title}), pick from the following:')
+                    num = 1
+                    for file in files:
+                        if num not in taken:
+                            print(f'\t{num}: {file}')
+                        num += 1
+                    value = int(input('   Pick your choice: '))
+                    copy_file_with_new_name(root + '\\' + files[value-1], 'StartDrive' + str(i+1) + '.mp3', output_dir + '\\' + root.split("\\")[2])
+                    taken.append(value)
         else:
             phrase = root.split("\\")[-1]
             title = root.split("\\")[-2]
