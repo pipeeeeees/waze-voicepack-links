@@ -134,7 +134,7 @@ def convert_mp3(input_path, output_path, filename):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '64k'
+    TARGET_BITRATE = '60k'
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
