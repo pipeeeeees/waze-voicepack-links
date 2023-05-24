@@ -64,26 +64,26 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Safe Mode Kids                    |[]() |
 | Boy Band                          |[]() |
 | Soccer Commentator                |[]() |
-| Karamo |[]()|
-| Fraggle Rock |[]()|
-| PAW Patrol |[]()|
-| Aries |[]()|
-| Taurus |[]()|
-| Gemini |[]()|
-| Cancer |[]()|
-| Leo |[]()|
-| Virgo |[]()|
-| Libra |[]()|
-| Scorpio |[]()|
-| Sagittarius |[]()|
-| Capricorn |[]()|
-| Aquarious |[]()|
-| Pisces |[]()|
-| Biz Jargon |[]()|
-| Red |[]()|
-| Headspace |[]()|
-| Zombie |[]()|
-| Survivalist |[]()|
+| Karamo                            |[]() |
+| Fraggle Rock                      |[]() |
+| PAW Patrol                        |[]() |
+| Aries                             |[]() |
+| Taurus                            |[]() |
+| Gemini                            |[]() |
+| Cancer                            |[]() |
+| Leo                               |[]() |
+| Virgo                             |[]() |
+| Libra                             |[]() |
+| Scorpio                           |[]() |
+| Sagittarius                       |[]() |
+| Capricorn                         |[]() |
+| Aquarious                         |[]() |
+| Pisces                            |[]() |
+| Biz Jargon                        |[]() |
+| Red                               |[]() |
+| Headspace                         |[]() |
+| Zombie                            |[]() |
+| Survivalist                       |[]() |
 
 
 # Popular Community-Made Voices
