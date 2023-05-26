@@ -45,6 +45,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
 | The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) | English |some annoying mic clicks    |
 | Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
+| UK Football Commentator           |[Link](https://waze.com/ul?acvp=f03c84cd-1159-4d2f-b9e3-dca37261ab05) | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
 
 
@@ -63,7 +64,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Ichabod Crane (Sleepy Hollow)     |[]() |
 | Safe Mode Kids                    |[]() |
 | Boy Band                          |[]() |
-| Soccer Commentator                |[]() |
+
 | Karamo                            |[]() |
 | Fraggle Rock                      |[]() |
 | PAW Patrol                        |[]() |
