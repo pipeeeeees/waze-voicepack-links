@@ -64,6 +64,9 @@ def get_folder_size(folder_path):
     return total_size
 
 def set_mp3_requirements():
+    """
+    some mp3 files are necessary, some others are not. check out prompt_names.txt for this info
+    """
     global required_voices
     global not_required_voices
 
@@ -92,9 +95,6 @@ def set_mp3_requirements():
 
 def check_input_packs():
     global list_of_input_packs
-
-      # Flag to track if all files in the folder are .mp3 files
-
     input_pack_path = local_path + 'input_pack'
 
     file_list = os.listdir(input_pack_path)
@@ -135,6 +135,7 @@ def convert_mp3(input_path, output_path, filename):
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
     TARGET_BITRATE = '60k'
+    TARGET_VOLUME_INCREASE = 3.48 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
@@ -143,16 +144,18 @@ def convert_mp3(input_path, output_path, filename):
         audio = audio.set_frame_rate(44100)
         #print(f"Sample frequency modified to 44100Hz from {old_audio_frame_rate}Hz.")
 
-    ## CHANNELS CONVERSION
+    ## CHANNELS CONVERSION (must be mono)
     if audio.channels != TARGET_AUDIO_CHANNELS:
-        # Convert stereo or other formats to mono
-        old_audio_channels = audio.channels
+        #old_audio_channels = audio.channels
         audio = audio.set_channels(1)
         #print(f"Audio converted to mono from {old_audio_channels}.")
 
-    #output_file_path = os.path.join(output_path, "output.mp3")
+    ## VOLUME CONVERSION (make it a a bit louder)
+    audio = audio + TARGET_VOLUME_INCREASE
 
+    # voice phrases whose quality could be reduced greatly (for space limitations)
     rank1_mp3s = ['TickerPoints.mp3', 'Fifth.mp3', 'Sixth.mp3', 'Seventh.mp3']
+    # voice phrases who need decent quality, but are not the most entertaining.
     rank2_mp3s = ['200.mp3',
                   '200meters.mp3',
                   '400.mp3',
@@ -180,7 +183,6 @@ def convert_mp3(input_path, output_path, filename):
         audio.export(output_path, bitrate='50k', format="mp3")
     else:
         audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
-    #print("Modified audio saved to:", output_path)
 
 def main():
     # pull Waze mp3 file requirements from `prompt_names.txt`
@@ -195,8 +197,11 @@ def main():
     # create an output folder
     make_output_folders()
     
-    # go thru each folder and convert each
+    # go thru each folder and convert each mp3 file
+    
     for input_pack in list_of_output_packs.keys():
+        success_flag = True
+        failed_phrases = []
         # preset base paths for each mp3 file
         base_input_path = os.path.join(current_path, local_path)
         base_input_path = os.path.join(base_input_path, 'input_pack')
@@ -204,6 +209,7 @@ def main():
         base_output_path = os.path.join(current_path, local_path)
         base_output_path = os.path.join(base_output_path, 'output_pack')
         base_output_path = os.path.join(base_output_path, list_of_output_packs[input_pack])
+
         for required_file in required_voices:
             # try converting each mp3 file
             try:
@@ -211,12 +217,20 @@ def main():
                 output_path = os.path.join(base_output_path, required_file)
                 convert_mp3(input_path, output_path, required_file)
             except:
-                print(f'Failed to convert {input_pack} due to {input_path}')
-                print('This could be because this file does not exist in the input file folder.')
+                #print(f'Failed to convert {input_pack} due to {input_path}')
+                #print('This could be because this file does not exist in the input file folder.')
+                success_flag = False
+                failed_phrases.append(input_pack)
                 break
+        # print message and report size for my own knowledge
         num_bytes = round(float(get_folder_size(base_output_path))/1000000, 2)
-
-        print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
+        if success_flag:
+            print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
+        else:
+            print(f"{input_pack} semi-converted. It is {num_bytes}MB.\nThe following did not get converted:")
+            for phrase in failed_phrases:
+                print(f" - {phrase}")
+            
 
 if __name__ == '__main__':
     main()

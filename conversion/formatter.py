@@ -1,3 +1,7 @@
+"""
+for formatting voice root directories to have just mp3 files for conversion.
+"""
+
 import os
 import shutil
 
@@ -25,9 +29,6 @@ first_choice = ['First','Second','Third','Fourth','Fifth','Sixth','Seventh','Kee
 for root, dirs, files in os.walk(input_dir):
     # Create corresponding subfolders in the output directory
     output_subfolder = os.path.join(output_dir, os.path.relpath(root, input_dir))
-
-    
-
     file_name = 'h'
 
     if root == r'conversion\pre_inputs':
