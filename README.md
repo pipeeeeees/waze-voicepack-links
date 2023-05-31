@@ -89,28 +89,33 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 # Popular Community-Made Voices
 | Title                             | Link                                                                      | Language   | Notes                   |
 | --------------------------------- | ------------------------------------------------------------------------- | ---------- | ----------------------- |
-| Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
 | Angry Batman                      |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English    |                         |
-| James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
-| Shizbox (Insulting British Guy)   |[Link](https://www.waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)  | English    |                         |
-| Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
-| Jeff Dunham's Bubba J             |[Link](https://www.waze.com/ul?acvp=143E2169-A6CB-418C-8620-460CF8AA5487)  | English    |                         |       
-| So Horny (SFW)                    |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn       |                         |
+| Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
-| GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
+| Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
+| Drew Lynch                        |[Link](https://www.waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4)  | English    |                         |
+| Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
+| French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
+| GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |        
+| Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |                 |
 | Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | Enlgish    |                         |
-| VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
-| VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
-| Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
-| Nick Kraft                        |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch      |                         |
-| Ronny Retro                       |[Link](https://www.waze.com/ul?acvp=A413B1AC-5C48-4CF5-86A3-1D28B2957C0F)  | Dutch      |                         |
-| NY Mom - "Barbara"                |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English    |                         |
+| Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
+| James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
+| Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
+| Jeff Dunham's Bubba J             |[Link](https://www.waze.com/ul?acvp=143E2169-A6CB-418C-8620-460CF8AA5487)  | English    |                         |
 | Le Warm-Up d’Elliot 🔥            |[Link](https://www.waze.com/ul?acvp=0EA982ED-28E4-4F03-9556-9D65E3438430)  | French     |                         |
 | Manu dans le 6/10 sur NRJ         |[Link](https://www.waze.com/ul?acvp=FA224281-6808-4316-AC2A-5D91F79C50AA)  | French     |                         |
-| French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
+| Mark Pilgrim                      |[Link](https://www.waze.com/ul?acvp=12DE1A6A-831A-4717-A6FC-C7D99633635E)  | English    |                         |
+| Nick Kraft                        |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch      |                         |
+| NY Mom - "Barbara"                |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English    |                         |
 | Philippe&Sandy NOSTALGIE          |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French     |                         |
-| Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
-| Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
+| Ronny Retro                       |[Link](https://www.waze.com/ul?acvp=A413B1AC-5C48-4CF5-86A3-1D28B2957C0F)  | Dutch      |                         |
+| Shizbox (Insulting British Guy)   |[Link](https://www.waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)  | English    |                         |
+| So Horny (SFW)                    |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn       |                         |
+| Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
+| Toiley T. Paper                   |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English    |                         |
+| VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
+| VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 
 
 ## Debugging

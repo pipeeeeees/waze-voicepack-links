@@ -134,7 +134,7 @@ def convert_mp3(input_path, output_path, filename):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '60k'
+    TARGET_BITRATE = '54k'
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
@@ -152,7 +152,7 @@ def convert_mp3(input_path, output_path, filename):
 
     #output_file_path = os.path.join(output_path, "output.mp3")
 
-    rank1_mp3s = ['TickerPoints.mp3', 'Fifth.mp3', 'Sixth.mp3', 'Seventh.mp3']
+    rank1_mp3s = ['TickerPoints.mp3', 'Fifth.mp3', 'Fourth.mp3', 'Sixth.mp3', 'Seventh.mp3']
     rank2_mp3s = ['200.mp3',
                   '200meters.mp3',
                   '400.mp3',
@@ -169,15 +169,14 @@ def convert_mp3(input_path, output_path, filename):
                   'KeepRight.mp3',
                   'Second.mp3',
                   'First.mp3',
-                  'Fourth.mp3',
                   'Straight.mp3',
                   'Third.mp3',
                   'TurnLeft.mp3',
                   'TurnRight.mp3'] 
     if filename in rank1_mp3s:
-        audio.export(output_path, bitrate='44k', format="mp3")
+        audio.export(output_path, bitrate='40k', format="mp3")
     elif filename in rank2_mp3s:
-        audio.export(output_path, bitrate='50k', format="mp3")
+        audio.export(output_path, bitrate='48k', format="mp3")
     else:
         audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
     #print("Modified audio saved to:", output_path)
