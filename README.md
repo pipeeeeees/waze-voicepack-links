@@ -23,6 +23,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
 | Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=b7f530dd-09f9-4256-89a3-2a759554a2e5) | English |Missing All mile phrases    |
 | DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English |                            |
+| DJ Khaled                         |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English |                            |
 | Dog                               |[Link](https://waze.com/ul?acvp=590c035b-986a-4bc7-a665-a3c271017894) | English |                            |
 | Ed Helms                          |[Link](https://waze.com/ul?acvp=241CD4A3-3E35-4EBB-822B-BAC71CB3563A) | English |                            |
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) | English |                            |
@@ -60,7 +61,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Christina Aguilera (Spanish)      |[]() |
 | Kevin Conroy                      |[]() |
 | Roberts Lejasmeijers              |[]() |
-| DJ Khaled                         |[]() |
 | Noir Detective                    |[]() |
 | Ultron (Spanish, The Avengers)    |[]() |
 | Cat                               |[]() |
