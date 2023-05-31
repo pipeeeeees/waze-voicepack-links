@@ -32,6 +32,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English |Missing U-Turn              |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English |Missing U-Turn              |
+| Leona Chin                        |[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
 | Lightning McQueen                 |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
 | Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very relaxing              |
