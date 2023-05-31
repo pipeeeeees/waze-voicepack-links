@@ -3,9 +3,9 @@
 ## How to Download a Voicepack 
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
-3. Select the voice of your choosing in the Waze app by going to `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap on the new voice.
+3. Select the voice of your choosing in the Waze app by going to `My Waze` > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap on the new voice.
 
-If you are experiencing a bug where the custom voice is not playing and is only playing the default voice (usually 'Amy'), scroll down to the `Debugging` section to learn about a possible workaround. 
+If you are experiencing a bug where the custom voice is not playing and is only playing the default voice, scroll down to the `Debugging` section to learn about a possible workaround. 
 <br>
 
 # Waze Official Voices
@@ -27,6 +27,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Ed Helms                          |[Link](https://waze.com/ul?acvp=241CD4A3-3E35-4EBB-822B-BAC71CB3563A) | English |                            |
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) | English |                            |
 | Escharum (Halo)                   |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) | English |                            |
+| Forza Horizon 4 (Maurice LaMarche)|[Link](https://waze.com/ul?acvp=9f7baf1d-16f4-4cb9-9e52-5b8e292aa8fb) | English |                            |
 | Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) | English |                            |
 | Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English |Missing U-Turn              |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
@@ -56,7 +57,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Kevin Conroy                      |[]() |
 | Roberts Lejasmeijers              |[]() |
 | DJ Khaled                         |[]() |
-| Forza Horizon                     |[]() |
+
 | Noir Detective                    |[]() |
 | Madea                             |[]() |
 | Ultron (Spanish, The Avengers)    |[]() |
@@ -96,8 +97,8 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Drew Lynch                        |[Link](https://www.waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4)  | English    |                         |
 | Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
 | French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
-| GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |        
-| Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |                 |
+| GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
+| Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |  
 | Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | Enlgish    |                         |
 | Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
 | James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
@@ -119,7 +120,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 
 
 ## Debugging
-Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > `My Waze` > `Settings` (top left) > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
+Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Repository Objective
 The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. If **you** have a higher quality copy of a voicepack, or are able to share the zip files to a voicepack that does not yet exist in the list above, please see the contribution instructions in `contributing.md`.

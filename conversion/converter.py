@@ -135,7 +135,7 @@ def convert_mp3(input_path, output_path, filename):
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
     TARGET_BITRATE = '60k'
-    TARGET_VOLUME_INCREASE = 3.48 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
+    TARGET_VOLUME_INCREASE = 3.5 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
 
     ## SAMPLE FREQUENCY CONVERSION
     if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
