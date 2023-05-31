@@ -33,7 +33,8 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English |Missing U-Turn              |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
-| Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very relaxing
+| Lightning McQueen                 |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
+| Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very relaxing              |
 | Madea (Tyler Perry)               |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English |                            |
 | Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English |Missing All four mile phrases |
 | Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
