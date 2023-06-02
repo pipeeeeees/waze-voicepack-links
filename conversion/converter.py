@@ -134,7 +134,7 @@ def convert_mp3(input_path, output_path, filename):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '64k'
+    TARGET_BITRATE = '58k'
     TARGET_VOLUME_INCREASE = 3.5 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
 
     ## SAMPLE FREQUENCY CONVERSION
@@ -177,9 +177,9 @@ def convert_mp3(input_path, output_path, filename):
                   'TurnLeft.mp3',
                   'TurnRight.mp3'] 
     if filename in rank1_mp3s:
-        audio.export(output_path, bitrate='42k', format="mp3")
+        audio.export(output_path, bitrate='40k', format="mp3")
     elif filename in rank2_mp3s:
-        audio.export(output_path, bitrate='50k', format="mp3")
+        audio.export(output_path, bitrate='45k', format="mp3")
     else:
         audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
 
@@ -216,8 +216,8 @@ def main():
                 output_path = os.path.join(base_output_path, required_file)
                 convert_mp3(input_path, output_path, required_file)
             except:
-                #print(f'Failed to convert {input_pack} due to {input_path}')
-                #print('This could be because this file does not exist in the input file folder.')
+                print(f'Failed to convert {input_pack} due to {input_path}')
+                print('This could be because this file does not exist in the input file folder.')
                 success_flag = False
                 failed_phrases.append(input_pack)
                 break

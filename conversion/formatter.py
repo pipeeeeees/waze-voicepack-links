@@ -24,7 +24,7 @@ for root, dirs, files in os.walk(output_dir, topdown=False):
         dir_path = os.path.join(root, dir)
         shutil.rmtree(dir_path)
 
-first_choice = ['First','Second','Third','Fourth','Fifth','Sixth','Seventh','KeepLeft','KeepRight','1000','uturn']
+first_choice = ['First','Second','Third','Fourth','Fifth','Sixth','Seventh','KeepLeft','KeepRight','1000','uturn','ExitLeft','ExitRight']
 # Iterate through subfolders in the input directory
 for root, dirs, files in os.walk(input_dir):
     # Create corresponding subfolders in the output directory

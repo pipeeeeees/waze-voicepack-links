@@ -21,7 +21,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor SNR                    |
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
-| Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=b7f530dd-09f9-4256-89a3-2a759554a2e5) | English |Missing All mile phrases    |
+| Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
 | Dizzee Rascal                     |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English |                            |
 | DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English |                            |
 | DJ Khaled                         |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English |                            |
