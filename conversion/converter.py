@@ -134,11 +134,18 @@ def convert_mp3(input_path, output_path, filename):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '58k'
+    TARGET_BITRATE = '50k'
+    SECONDARY_BITRATE = '42K'
+    TERTIARY_BITRATE = '36K'
     TARGET_VOLUME_INCREASE = 3.5 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
 
+    # Get the bitrate using mediainfo
+    metadata = mediainfo(input_path)
+    bitrate = int(metadata["bit_rate"]) // 1000  # Convert to kbps
+    bitrate_str = str(bitrate) + "k"  # Convert to string with 'k' suffix
+
     ## SAMPLE FREQUENCY CONVERSION
-    if int(audio.frame_rate) != TARGET_SAMPLE_RATE:
+    if int(audio.frame_rate) > TARGET_SAMPLE_RATE:
         #old_audio_frame_rate = int(audio.frame_rate)
         # Modify the sample frequency to 44100Hz
         audio = audio.set_frame_rate(44100)
@@ -177,11 +184,12 @@ def convert_mp3(input_path, output_path, filename):
                   'TurnLeft.mp3',
                   'TurnRight.mp3'] 
     if filename in rank1_mp3s:
-        audio.export(output_path, bitrate='40k', format="mp3")
+        audio.export(output_path, bitrate=TERTIARY_BITRATE, format="mp3")
     elif filename in rank2_mp3s:
-        audio.export(output_path, bitrate='45k', format="mp3")
+        audio.export(output_path, bitrate=SECONDARY_BITRATE, format="mp3")
     else:
         audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
+    return bitrate_str
 
 def main():
     # pull Waze mp3 file requirements from `prompt_names.txt`
@@ -200,6 +208,7 @@ def main():
     
     for input_pack in list_of_output_packs.keys():
         success_flag = True
+        high_quality_flag = False
         failed_phrases = []
         # preset base paths for each mp3 file
         base_input_path = os.path.join(current_path, local_path)
@@ -208,13 +217,14 @@ def main():
         base_output_path = os.path.join(current_path, local_path)
         base_output_path = os.path.join(base_output_path, 'output_pack')
         base_output_path = os.path.join(base_output_path, list_of_output_packs[input_pack])
-
         for required_file in required_voices:
             # try converting each mp3 file
             try:
                 input_path = os.path.join(base_input_path, required_file)
                 output_path = os.path.join(base_output_path, required_file)
-                convert_mp3(input_path, output_path, required_file)
+                bitrate = convert_mp3(input_path, output_path, required_file)
+                if bitrate == '320k':
+                    high_quality_flag = True
             except:
                 print(f'Failed to convert {input_pack} due to {input_path}')
                 print('This could be because this file does not exist in the input file folder.')
@@ -224,7 +234,10 @@ def main():
         # print message and report size for my own knowledge
         num_bytes = round(float(get_folder_size(base_output_path))/1000000, 2)
         if success_flag:
-            print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
+            if high_quality_flag:
+                print(f"{input_pack} successfully converted! It is {num_bytes}MB, and was a high quality convert.")
+            else:
+                print(f"{input_pack} successfully converted! It is {num_bytes}MB.")
         else:
             print(f"{input_pack} semi-converted. It is {num_bytes}MB.\nThe following did not get converted:")
             for phrase in failed_phrases:
