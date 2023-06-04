@@ -15,7 +15,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
 | Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) | English |                            |
-| Batman                            |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English |                            |
+| Batman (Kevin Conroy)             |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English |                            |
 | Boy Band                          |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
@@ -52,11 +52,11 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Santa (A)                         |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English |One of a few official Santa voices|
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
 | Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English |Missing U-Turn              |
+| Soccer Commentator                |[Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English |                            |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
 | The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) | English |some annoying mic clicks    |
 | Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
-| UK Football Commentator           |[Link](https://waze.com/ul?acvp=f03c84cd-1159-4d2f-b9e3-dca37261ab05) | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
 
 
@@ -64,7 +64,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Title                             | Link                                                                      |
 | --------------------------------- | ------------------------------------------------------------------------- | 
 | Christina Aguilera (Spanish)      |[]() |
-| Kevin Conroy                      |[]() |
 | Roberts Lejasmeijers              |[]() |
 | Noir Detective                    |[]() |
 | Ultron (Spanish, The Avengers)    |[]() |
