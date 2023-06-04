@@ -15,6 +15,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
 | Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) | English |                            |
+| Batman                            |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English |                            |
 | Boy Band                          |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
@@ -48,6 +49,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English |Missing U-Turn              |
+| Santa (A)                         |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English |One of a few official Santa voices|
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
 | Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English |Missing U-Turn              |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
