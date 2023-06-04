@@ -23,6 +23,13 @@ not_required_voices = []
 list_of_input_packs = []
 list_of_output_packs = {}
 
+TARGET_BITRATE = 64
+SECONDARY_BITRATE = 60
+TERTIARY_BITRATE = 56
+temp_target = TARGET_BITRATE
+temp_second = SECONDARY_BITRATE
+temp_tert = TERTIARY_BITRATE
+
 #set OS independent relative paths and slash flags
 #did this to work locally on my mac, but ffmpeg.exe was too hard to find a mac equivalent... largely due to laziness... this effort was wasted in the end but ill keep it here as I am lazy. I think os has functions to handle this anyway...
 current_path = os.getcwd()
@@ -134,9 +141,12 @@ def convert_mp3(input_path, output_path, filename):
 
     TARGET_SAMPLE_RATE = 44100
     TARGET_AUDIO_CHANNELS = 1 #mono
-    TARGET_BITRATE = '60k'
-    SECONDARY_BITRATE = '50k'
-    TERTIARY_BITRATE = '36K'
+    global TARGET_BITRATE
+    global SECONDARY_BITRATE
+    global TERTIARY_BITRATE 
+    global temp_target
+    global temp_second
+    global temp_tert
     TARGET_VOLUME_INCREASE = 3.5 # decibel increase to get a louder voice (can be attenuated afterwards by the user). I find some voices to be way too quiet at max volume on iOS.
 
     # Get the bitrate using mediainfo
@@ -184,14 +194,19 @@ def convert_mp3(input_path, output_path, filename):
                   'TurnLeft.mp3',
                   'TurnRight.mp3'] 
     if filename in rank1_mp3s:
-        audio.export(output_path, bitrate=TERTIARY_BITRATE, format="mp3")
+        audio.export(output_path, bitrate=(str(temp_tert) + 'k'), format="mp3")
     elif filename in rank2_mp3s:
-        audio.export(output_path, bitrate=SECONDARY_BITRATE, format="mp3")
+        audio.export(output_path, bitrate=(str(temp_second) + 'k'), format="mp3")
     else:
-        audio.export(output_path, bitrate=TARGET_BITRATE, format="mp3")
+        audio.export(output_path, bitrate=(str(temp_target) + 'k'), format="mp3")
     return bitrate_str
 
 def main():
+
+    global temp_target
+    global temp_second
+    global temp_tert
+
     # pull Waze mp3 file requirements from `prompt_names.txt`
     set_mp3_requirements()
 
@@ -217,20 +232,35 @@ def main():
         base_output_path = os.path.join(current_path, local_path)
         base_output_path = os.path.join(base_output_path, 'output_pack')
         base_output_path = os.path.join(base_output_path, list_of_output_packs[input_pack])
-        for required_file in required_voices:
-            # try converting each mp3 file
-            try:
-                input_path = os.path.join(base_input_path, required_file)
-                output_path = os.path.join(base_output_path, required_file)
-                bitrate = convert_mp3(input_path, output_path, required_file)
-                if bitrate == '320k':
-                    high_quality_flag = True
-            except:
-                print(f'Failed to convert {input_pack} due to {input_path}')
-                print('This could be because this file does not exist in the input file folder.')
-                success_flag = False
-                failed_phrases.append(input_pack)
+        num_bytes = 10
+        temp_target = TARGET_BITRATE
+        temp_second = SECONDARY_BITRATE
+        temp_tert = TERTIARY_BITRATE
+        fail_flag = False
+        while num_bytes > 0.79:
+            for required_file in required_voices:
+                # try converting each mp3 file
+                try:
+                    input_path = os.path.join(base_input_path, required_file)
+                    output_path = os.path.join(base_output_path, required_file)
+                    bitrate = convert_mp3(input_path, output_path, required_file)
+                    if bitrate == '320k':
+                        high_quality_flag = True
+                except:
+                    print(f'Failed to convert {input_pack} due to {input_path}')
+                    print('This could be because this file does not exist in the input file folder.')
+                    success_flag = False
+                    failed_phrases.append(input_pack)
+                    fail_flag = True
+                    break
+            if fail_flag:
                 break
+            num_bytes = round(float(get_folder_size(base_output_path))/1000000, 5)
+            if num_bytes > 0.79:
+                temp_target -= 4
+                temp_second = int(float(temp_target)*7.0/8.0)
+                temp_tert = int(float(temp_target)*5.5/8.0)
+
         # print message and report size for my own knowledge
         num_bytes = round(float(get_folder_size(base_output_path))/1000000, 2)
         if success_flag:
