@@ -15,12 +15,13 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
 | Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) | English |                            |
+| Boy Band                          |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish | Missing Crash Reported     |
 | Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English |                            |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
-| Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor SNR                    |
+| Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor audio quality          |
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
 | Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
 | Dizzee Rascal                     |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English |                            |
@@ -43,7 +44,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English |Missing All four mile phrases |
 | Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English |grainy, poor quality        |
-| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English |                            |
+| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English |has some incorrect voice lines|
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English |Missing U-Turn              |
@@ -68,7 +69,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Cat                               |[]() |
 | Ichabod Crane (Sleepy Hollow)     |[]() |
 | Safe Mode Kids                    |[]() |
-| Boy Band                          |[]() |
 | Karamo                            |[]() |
 | Fraggle Rock                      |[]() |
 | PAW Patrol                        |[]() |
