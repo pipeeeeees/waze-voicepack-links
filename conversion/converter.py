@@ -23,9 +23,9 @@ not_required_voices = []
 list_of_input_packs = []
 list_of_output_packs = {}
 
-TARGET_BITRATE = 46
+TARGET_BITRATE = 56
 SECONDARY_BITRATE = int(float(TARGET_BITRATE)*7.0/8.0)
-TERTIARY_BITRATE = int(float(TARGET_BITRATE)*5.2/8.0)
+TERTIARY_BITRATE = int(float(TARGET_BITRATE)*5.5/8.0)
 temp_target = TARGET_BITRATE
 temp_second = SECONDARY_BITRATE
 temp_tert = TERTIARY_BITRATE
@@ -255,8 +255,9 @@ def main():
                     #print('This could be because this file does not exist in the input file folder.')
                     success_flag = False
                     failed_phrases.append(required_file)
-                    #fail_flag = True
-                    #break
+                    if required_file != 'TickerPoints.mp3':
+                        fail_flag = True
+                        break
             if fail_flag:
                 break
             num_bytes = round(float(get_folder_size(base_output_path))/1000000, 5)

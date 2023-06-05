@@ -20,6 +20,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish | Missing Crash Reported     |
+| Catriona Gray                     |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English |                            |
 | Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English |                            |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
 | Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor audio quality          |
@@ -108,7 +109,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
 | Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |  
 | Gollum par Superflame             |[Link](https://www.waze.com/ul?acvp=ece19b2f-553c-4324-9174-4e53a5d2162b)  | French     |                         |
-| Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | Enlgish    |                         |
+| Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | English    |                         |
 | Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
 | James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
