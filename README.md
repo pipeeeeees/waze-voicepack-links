@@ -101,19 +101,23 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
 | Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
 | Drew Lynch                        |[Link](https://www.waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4)  | English    |                         |
+| Eddie Murphy by Superflame        |[Link](https://www.waze.com/ul?acvp=aa2da5f5-2f78-4004-a4fb-18954841da30)  | French     |                         |
 | Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
 | F1 2020                           |[Link](https://www.waze.com/ul?acvp=561c4d75-666b-4f95-b5fa-de7b85646e01)  | English    | From [austinyen56/Waze-F1-VO](https://github.com/austinyen56/Waze-F1-VO) |
 | French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
 | GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
 | Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |  
+| Gollum par Superflame             |[Link](https://www.waze.com/ul?acvp=ece19b2f-553c-4324-9174-4e53a5d2162b)  | French     |                         |
 | Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | Enlgish    |                         |
 | Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
 | James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
 | Jeff Dunham's Bubba J             |[Link](https://www.waze.com/ul?acvp=143E2169-A6CB-418C-8620-460CF8AA5487)  | English    |                         |
+| Julien Lepers by Superflame       |[Link](https://www.waze.com/ul?acvp=a7f83882-6f49-49db-843d-6bf7963c38cc)  | French     |                         |
 | Le Warm-Up d’Elliot 🔥            |[Link](https://www.waze.com/ul?acvp=0EA982ED-28E4-4F03-9556-9D65E3438430)  | French     |                         |
 | Manu dans le 6/10 sur NRJ         |[Link](https://www.waze.com/ul?acvp=FA224281-6808-4316-AC2A-5D91F79C50AA)  | French     |                         |
 | Mark Pilgrim                      |[Link](https://www.waze.com/ul?acvp=12DE1A6A-831A-4717-A6FC-C7D99633635E)  | English    |                         |
+| Morgan Freeman par Superflame     |[Link](https://www.waze.com/ul?acvp=9bb42c28-dc17-4b9c-8f8f-853ed8655247)  | French     |                         |
 | Nick Kraft                        |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch      |                         |
 | NY Mom - "Barbara"                |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English    |                         |
 | Philippe&Sandy NOSTALGIE          |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French     |                         |
