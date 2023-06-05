@@ -23,7 +23,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Catriona Gray                     |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English |                            |
 | Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English |                            |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
-| Cookie Monster (Sesame Street)    |[Link](https://waze.com/ul?acvp=74ae02e2-d817-4384-86ea-f8a5b3a1926a) | English |poor audio quality          |
+| Cookie Monster                    |[Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | English |                            |
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
 | Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
 | Dizzee Rascal                     |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English |                            |
