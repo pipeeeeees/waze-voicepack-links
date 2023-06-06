@@ -14,7 +14,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English |                            |
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
 | Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
-| Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=FE27FDD2-5AE2-4E5E-A502-98A19C94EE1B) | English |                            |
+| Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | English |                            |
 | Batman (Kevin Conroy)             |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English |                            |
 | Boy Band                          |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
