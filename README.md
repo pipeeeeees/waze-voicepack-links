@@ -9,8 +9,8 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 <br>
 
 # Waze Official Voices
-| Title                             | Link                                                                 | Language | Notes            |
-| --------------------------------- | -------------------------------------------------------------------- | -------- | ---------------- |
+| Title                             | Link                                                                 | Language | Notes                     |
+| --------------------------------- | -------------------------------------------------------------------- | -------- | ------------------------- |
 | Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English |                            |
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
 | Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
@@ -34,29 +34,34 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) | English |                            |
 | Escharum (Halo)                   |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) | English |                            |
 | Forza Horizon 4 (Maurice LaMarche)|[Link](https://waze.com/ul?acvp=9f7baf1d-16f4-4cb9-9e52-5b8e292aa8fb) | English |                            |
+| Fraggle Rock Red                  |[Link](https://waze.com/ul?acvp=be9d2814-7392-4d96-839d-546de5867620) | English |                            |
 | Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) | English |                            |
-| Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English |Missing U-Turn              |
+| Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English | Missing U-Turn             |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
-| Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English |Missing U-Turn              |
+| Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English | Missing U-Turn             |
 | Leona Chin                        |[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
 | Lightning McQueen                 |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
 | Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very relaxing              |
 | Madea (Tyler Perry)               |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English |                            |
-| Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English |Missing All four mile phrases |
+| Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English | Missing all mile phrases   |
+| Mimiyuuuh                         |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino|                            |
 | Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
-| Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English |grainy, poor quality        |
-| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English |has some incorrect voice lines|
+| Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English | grainy, poor quality       |
+| Mrs. Claus                        |[Link](https://waze.com/ul?acvp=598f7ddb-864a-4d06-b653-d7caaa30409e) | English |                            |
+| Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English | has incorrect voice lines  |
+| PAW Patrol                        |[Link](https://waze.com/ul?acvp=d8e23270-2b93-41d5-89c8-f2824994d0b4) | English |                            |
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
-| Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English |Missing U-Turn              |
-| Santa (A)                         |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English |One of a few official Santa voices|
+| Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English | Missing U-Turn             |
+| Santa (A)                         |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English |                            |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
-| Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English |Missing U-Turn              |
+| Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English | Missing U-Turn             |
 | Soccer Commentator                |[Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English |                            |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
-| The Grand Tour                    |[Link](https://waze.com/ul?acvp=5485F8E2-FD27-4A7F-91E7-4F1785CDEB56) | English |some annoying mic clicks    |
+| The Grand Tour                    |[Link](https://waze.com/ul?acvp=fcbf97b4-bc6c-4e8f-a95c-c54a3f044e21) | English |                            |
+| The Queen                         |[Link](https://waze.com/ul?acvp=f938fe90-6483-4adc-9956-d64d9d80bb80) | English |                            |
 | Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
 | Toy Story 4                       |[Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
@@ -73,8 +78,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Ichabod Crane (Sleepy Hollow)     |[]() |
 | Safe Mode Kids                    |[]() |
 | Karamo                            |[]() |
-| Fraggle Rock                      |[]() |
-| PAW Patrol                        |[]() |
 | Aries                             |[]() |
 | Taurus                            |[]() |
 | Gemini                            |[]() |
