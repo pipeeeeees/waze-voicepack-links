@@ -4,8 +4,6 @@
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
 3. Select the voice of your choosing in the Waze app by going to `My Waze` > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap on the new voice.
-
-If you are experiencing a bug where the custom voice is not playing and is only playing the default voice, scroll down to the `Debugging` section to learn about a possible workaround. 
 <br>
 
 # Waze Official Voices
@@ -91,7 +89,6 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Aquarious                         |[]() |
 | Pisces                            |[]() |
 | Biz Jargon                        |[]() |
-| Red                               |[]() |
 | Headspace                         |[]() |
 | Zombie                            |[]() |
 | Survivalist                       |[]() |
@@ -127,6 +124,7 @@ If you are experiencing a bug where the custom voice is not playing and is only 
 | Philippe&Sandy NOSTALGIE          |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French     |                         |
 | Ronny Retro                       |[Link](https://www.waze.com/ul?acvp=A413B1AC-5C48-4CF5-86A3-1D28B2957C0F)  | Dutch      |                         |
 | Shizbox (Insulting British Guy)   |[Link](https://www.waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)  | English    |                         |
+| Siri                              |[Link](https://www.waze.com/ul?acvp=c36e6fe2-5179-45c1-888b-d9311231b686)  | English    | [Credits](https://www.reddit.com/user/PaperCutOnPenisHead/) |
 | So Horny (SFW)                    |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn       |                         |
 | Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
 | Toiley T. Paper                   |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English    |                         |
