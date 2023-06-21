@@ -3,7 +3,7 @@
 Thank you for your interest in contributing to the project! I appreciate your help in making the repository better.
 
 ## Ways to Contribute
-1. Fork the repository by clicking on the "Fork" button on the repository's page, making modifications, and doing a pull request.
+1. Fork the repository by clicking on the `Fork` button on the repository page, make modifications, and do a pull request.
 2. Open a new issue or feature request on the repository.
 3. Shoot me a nicely worded email.
 

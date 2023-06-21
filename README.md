@@ -4,9 +4,9 @@
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
 3. Select the voice of your choosing in the Waze app by going to `My Waze` > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap on the new voice.
-<br>
 
-# Waze Official Voices
+# Waze Official Voice List
+This list contains current and former contracted celebrities and voice actors who at one point had their voices officially on the Waze App. Their voices have since been saved and converted into user-made custom voice packs with shareable links of varying quality. 
 | Title                             | Link                                                                 | Language | Notes                     |
 | --------------------------------- | -------------------------------------------------------------------- | -------- | ------------------------- |
 | Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English |                            |
@@ -65,36 +65,7 @@
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
 
 
-# Missing Waze Official Voices
-| Title                             | Link                                                                      |
-| --------------------------------- | ------------------------------------------------------------------------- | 
-| Christina Aguilera (Spanish)      |[]() |
-| Roberts Lejasmeijers              |[]() |
-| Noir Detective                    |[]() |
-| Ultron (Spanish, The Avengers)    |[]() |
-| Cat                               |[]() |
-| Ichabod Crane (Sleepy Hollow)     |[]() |
-| Safe Mode Kids                    |[]() |
-| Karamo                            |[]() |
-| Aries                             |[]() |
-| Taurus                            |[]() |
-| Gemini                            |[]() |
-| Cancer                            |[]() |
-| Leo                               |[]() |
-| Virgo                             |[]() |
-| Libra                             |[]() |
-| Scorpio                           |[]() |
-| Sagittarius                       |[]() |
-| Capricorn                         |[]() |
-| Aquarious                         |[]() |
-| Pisces                            |[]() |
-| Biz Jargon                        |[]() |
-| Headspace                         |[]() |
-| Zombie                            |[]() |
-| Survivalist                       |[]() |
-
-
-# Popular Community-Made Voices
+# Community-Made Voice List
 | Title                             | Link                                                                      | Language   | Notes                   |
 | --------------------------------- | ------------------------------------------------------------------------- | ---------- | ----------------------- |
 | Angry Batman                      |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English    |                         |
@@ -132,8 +103,42 @@
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 
 
+# Missing Waze Official Voices
+| Title                             | Link                                                                      |
+| --------------------------------- | ------------------------------------------------------------------------- | 
+| Christina Aguilera (Spanish)      |[]() |
+| Roberts Lejasmeijers              |[]() |
+| Noir Detective                    |[]() |
+| Ultron (Spanish, The Avengers)    |[]() |
+| Cat                               |[]() |
+| Ichabod Crane (Sleepy Hollow)     |[]() |
+| Safe Mode Kids                    |[]() |
+| Karamo                            |[]() |
+| Aries                             |[]() |
+| Taurus                            |[]() |
+| Gemini                            |[]() |
+| Cancer                            |[]() |
+| Leo                               |[]() |
+| Virgo                             |[]() |
+| Libra                             |[]() |
+| Scorpio                           |[]() |
+| Sagittarius                       |[]() |
+| Capricorn                         |[]() |
+| Aquarious                         |[]() |
+| Pisces                            |[]() |
+| Biz Jargon                        |[]() |
+| Headspace                         |[]() |
+| Zombie                            |[]() |
+| Survivalist                       |[]() |
+
+## Notes
+- If you know of a voicepack that is not in any of the list(s) above, please open a new Issue using the `Issues` tab above and selecting the `New issue` button and I will get back to you shortly. 
+- If you have `mp3` files for a voice you want to turn into a link, please open a new Issue using the `Issues` tab above and selecting the `New issue` button and I will get back to you shortly. 
+- Most of the links currently in the `Waze Official Voice List` have been generated by me including long-lost voice packs and new links that preserve more audio quality. I do not intend on sharing a "how to" on my process just in case Waze disapproves of this behavior; I only intend on providing this service for the Waze community. If anyone at Waze/Google is reading this and wants to hire me, pls do
+- If you'd like to donate me a cup of coffee, I would much appreciate it: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees) ☕
+
 ## Debugging
 Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Repository Objective
-The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. If **you** have a higher quality copy of a voicepack, or are able to share the zip files to a voicepack that does not yet exist in the list above, please see the contribution instructions in `contributing.md`.
+The vision of this repository is to have a comprehensive list of all the highest-quality community-created and no-longer-available Waze celebrity/character voice packs turned sharable links. Not all of the voice pack links are of the highest quality; some might be missing phrases, some are only in kilometers and not miles, and some do not have the best audio quality. My goal as owner of this repository is to foster these lists for the community to enjoy.
