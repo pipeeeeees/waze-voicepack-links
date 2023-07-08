@@ -40,7 +40,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Leona Chin                        |[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
 | Lightning McQueen                 |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
-| Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very relaxing              |
+| Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very Relaxing Voice        |
 | Madea (Tyler Perry)               |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English |                            |
 | Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English | Missing all mile phrases   |
 | Mimiyuuuh                         |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino|                            |
@@ -53,6 +53,8 @@ This list contains current and former contracted celebrities and voice actors wh
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
 | Rob Gronkowski                    |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English | Missing U-Turn             |
 | Santa (A)                         |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English |                            |
+| Santa (B)                         |[Link](https://waze.com/ul?acvp=5feba8af-7cc7-49d1-8559-4ce52f46037b) | English | Mall Santa                 |
+| Santa (C)                         |[Link](https://waze.com/ul?acvp=630db9f8-b98e-4ede-b8cf-60687b3638d7) | English |                            |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
 | Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English | Missing U-Turn             |
 | Soccer Commentator                |[Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English |                            |
@@ -60,6 +62,8 @@ This list contains current and former contracted celebrities and voice actors wh
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
 | The Grand Tour                    |[Link](https://waze.com/ul?acvp=fcbf97b4-bc6c-4e8f-a95c-c54a3f044e21) | English |                            |
 | The Queen                         |[Link](https://waze.com/ul?acvp=f938fe90-6483-4adc-9956-d64d9d80bb80) | English |                            |
+| The Riddler                       |[Link](https://waze.com/ul?acvp=1c6554c6-d161-411b-92a0-81bab0ea5b01) | English |                            |
+| The Sea Beast (Netflix)           |[Link](https://waze.com/ul?acvp=776a571d-ea00-4c96-9c50-73cd8030d0cd) | English |                            |
 | Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
 | Toy Story 4                       |[Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
@@ -104,6 +108,7 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 # Missing Waze Official Voices
+This list contains voice packs that are known to exist, but do not have links yet. If you fancy any one of these below and would like a link made ASAP, open an issue and I will make it a priority. See `Notes` below for further instructions on how to open a new issue.
 | Title                             | Link                                                                      |
 | --------------------------------- | ------------------------------------------------------------------------- | 
 | Christina Aguilera (Spanish)      |[]() |
@@ -135,7 +140,7 @@ This list contains current and former contracted celebrities and voice actors wh
 - If you know of a voicepack that is not in any of the list(s) above, please open a new Issue using the `Issues` tab above and selecting the `New issue` button and I will get back to you shortly. 
 - If you have `mp3` files for a voice you want to turn into a link, please open a new Issue using the `Issues` tab above and selecting the `New issue` button and I will get back to you shortly. 
 - Most of the links currently in the `Waze Official Voice List` have been generated by me including long-lost voice packs and new links that preserve more audio quality. I do not intend on sharing a "how to" on my process just in case Waze disapproves of this behavior; I only intend on providing this service for the Waze community. If anyone at Waze/Google is reading this and wants to hire me, pls do
-- If you'd like to donate me a cup of coffee, I would much appreciate it: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees) ☕
+- Creating packs takes a non-trivial amount of time; a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees) ☕
 
 ## Debugging
 Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
