@@ -76,6 +76,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
 | Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
+| Donald Trump                      |[Link](https://www.waze.com/ul?acvp=49687817-7D66-4670-8CBD-2362B44BA08A)  | English    |                         |
 | Drew Lynch                        |[Link](https://www.waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4)  | English    |                         |
 | Eddie Murphy by Superflame        |[Link](https://www.waze.com/ul?acvp=aa2da5f5-2f78-4004-a4fb-18954841da30)  | French     |                         |
 | Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
@@ -103,6 +104,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | So Horny (SFW)                    |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn       |                         |
 | Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
 | Toiley T. Paper                   |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English    |                         |
+| Union County Traffic Officers Association |[Link](https://www.waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877) | English | New Jersey          |
 | VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 
