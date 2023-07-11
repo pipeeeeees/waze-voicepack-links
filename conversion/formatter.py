@@ -1,7 +1,3 @@
-"""
-for formatting voice root directories to have just mp3 files for conversion.
-"""
-
 import os
 import shutil
 
@@ -36,8 +32,6 @@ for root, dirs, files in os.walk(input_dir):
     elif len(root.split('\\')) == 3:
         os.makedirs(output_subfolder, exist_ok=True)
     elif len(root.split('\\')) == 4:
-        #print(root)
-        #print(root.split("\\"))
         file_name = root.split("\\")[-1] + '.mp3'
         if len(files) == 1 and files[0] == '1.mp3':
             copy_file_with_new_name(root + '\\' + '1.mp3', file_name, output_dir + '\\' + root.split("\\")[2])
