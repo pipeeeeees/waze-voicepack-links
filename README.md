@@ -23,7 +23,6 @@ This list contains current and former contracted celebrities and voice actors wh
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
 | Cookie Monster                    |[Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | English |                            |
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
-| Dexter Morgan (Michael C. Hall)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
 | Dizzee Rascal                     |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English |                            |
 | DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English |                            |
 | DJ Khaled                         |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English |                            |
@@ -39,15 +38,16 @@ This list contains current and former contracted celebrities and voice actors wh
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English | Missing U-Turn             |
 | Leona Chin                        |[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
 | Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
-| Lightning McQueen                 |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
 | Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English | Very Relaxing Voice        |
 | Madea (Tyler Perry)               |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English |                            |
 | Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English | Missing all mile phrases   |
+| Michael C. Hall (Dexter Morgan)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
 | Mimiyuuuh                         |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino|                            |
-| Morgan Freeman                    |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
+| Morgan Freeman (London Has Fallen)|[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English | grainy, poor quality       |
 | Mrs. Claus                        |[Link](https://waze.com/ul?acvp=598f7ddb-864a-4d06-b653-d7caaa30409e) | English |                            |
 | Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English | has incorrect voice lines  |
+| Owen Wilson (Lightning McQueen)   |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
 | PAW Patrol                        |[Link](https://waze.com/ul?acvp=d8e23270-2b93-41d5-89c8-f2824994d0b4) | English |                            |
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
@@ -104,6 +104,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | So Horny (SFW)                    |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn       |                         |
 | Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
 | Toiley T. Paper                   |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English    |                         |
+| TomTom Jane                       |[Link](https://www.waze.com/ul?acvp=6614e239-d4a1-409c-a1e9-348c960f1b32)  | English    | By [fnuerpod](https://github.com/pipeeeeees/waze-voicepack-links/issues/10)
 | Union County Traffic Officers Association |[Link](https://www.waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877) | English | New Jersey          |
 | VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
