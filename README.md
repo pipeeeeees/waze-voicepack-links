@@ -32,6 +32,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Escharum (Halo)                   |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) | English |                            |
 | Forza Horizon 4 (Maurice LaMarche)|[Link](https://waze.com/ul?acvp=9f7baf1d-16f4-4cb9-9e52-5b8e292aa8fb) | English |                            |
 | Fraggle Rock Red                  |[Link](https://waze.com/ul?acvp=be9d2814-7392-4d96-839d-546de5867620) | English |                            |
+| Hasan Minhaj                      |[Link](https://waze.com/ul?acvp=351bc8e6-1ea0-4f6b-a6b5-f85156ac803e) | English |                            |
 | Honkai Star Rail                  |[Link](https://waze.com/ul?acvp=42249dfe-7d83-4c43-855c-a7807b681279) | English |                            |
 | Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English | Missing U-Turn             |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
