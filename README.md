@@ -58,7 +58,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Santa (B)                         |[Link](https://waze.com/ul?acvp=5feba8af-7cc7-49d1-8559-4ce52f46037b) | English | Mall Santa                 |
 | Santa (C)                         |[Link](https://waze.com/ul?acvp=630db9f8-b98e-4ede-b8cf-60687b3638d7) | English |                            |
 | Shaquille O'Neal                  |[Link](https://waze.com/ul?acvp=01a7fcd0-daed-4d1a-8807-1ae202ee7219) | English |                            |
-| Steph Curry                       |[Link](https://waze.com/ul?acvp=16a9c62d-d946-4f0a-bcee-3af44add9a5b) | English |                            |
+| Stephen (Steph) Curry             |[Link](https://waze.com/ul?acvp=16a9c62d-d946-4f0a-bcee-3af44add9a5b) | English |                            |
 | Stephen Colbert                   |[Link](https://waze.com/ul?acvp=910CBAA5-5E79-4447-A28A-07EA47CC8B76) | English | Missing U-Turn             |
 | Soccer Commentator                |[Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English |                            |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
@@ -85,7 +85,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
 | F1 2020                           |[Link](https://www.waze.com/ul?acvp=561c4d75-666b-4f95-b5fa-de7b85646e01)  | English    | From [austinyen56/Waze-F1-VO](https://github.com/austinyen56/Waze-F1-VO) |
 | French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
-| Ghostface (TikTok Voiceover)      |[Link](https://www.waze.com/ul?acvp=a93e8187-0a15-4aa4-9db0-8be18646a8ef)  | English    | By [u/shableek1](https://www.reddit.com/user/shableek1/)|
+| Ghostface (TikTok Voiceover)      |[Link](https://www.waze.com/ul?acvp=a93e8187-0a15-4aa4-9db0-8be18646a8ef)  | English    |                         |
 | GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
 | Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |  
 | Gollum par Superflame             |[Link](https://www.waze.com/ul?acvp=ece19b2f-553c-4324-9174-4e53a5d2162b)  | French     |                         |
