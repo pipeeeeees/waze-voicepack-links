@@ -85,6 +85,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Englishman - "Sir William"        |[Link](https://www.waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F)  | English    |                         |
 | F1 2020                           |[Link](https://www.waze.com/ul?acvp=561c4d75-666b-4f95-b5fa-de7b85646e01)  | English    | From [austinyen56/Waze-F1-VO](https://github.com/austinyen56/Waze-F1-VO) |
 | French Romance - "Julien"         |[Link](https://www.waze.com/ul?acvp=13AC513C-D003-414A-8A2B-05BA1CA9F01E)  | French     |                         |
+| Geralt (The Witcher)              |[Link](https://www.waze.com/ul?acvp=499471ac-044b-495c-b8f4-a55e18c6c36d)  | Polish     | By @Mroxer (Discord)    |
 | Ghostface (TikTok Voiceover)      |[Link](https://www.waze.com/ul?acvp=a93e8187-0a15-4aa4-9db0-8be18646a8ef)  | English    |                         |
 | GLaDOS                            |[Link](https://www.waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0)  | English    |                         |
 | Gollum & Smeagol                  |[Link](https://www.waze.com/ul?acvp=E8501E12-C11D-46D5-9A40-EC36246A253A)  | English    |                         |  
@@ -109,7 +110,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Sranang Wegwijzer                 |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese |                         |
 | Toiley T. Paper                   |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English    |                         |
 | TomTom Jane                       |[Link](https://www.waze.com/ul?acvp=6614e239-d4a1-409c-a1e9-348c960f1b32)  | English    | By [fnuerpod](https://github.com/pipeeeeees/waze-voicepack-links/issues/10)|
-| Union Co. Traffic Officers Assoc. |[Link](https://www.waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877)  | English    | New Jersey              |
+| Union Co. Traffic Officers Assoc. |[Link](https://www.waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877)  | English    |                         |
 | VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 

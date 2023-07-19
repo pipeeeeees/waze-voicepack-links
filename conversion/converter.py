@@ -213,6 +213,7 @@ def main():
                     if bitrate == '320k':
                         high_quality_flag = True
                 except:
+                    continue
                     print(f'Failed to convert {input_pack} due to {input_path}')
                     success_flag = False
                     failed_phrases.append(required_file)
@@ -221,6 +222,7 @@ def main():
                         break
             if fail_flag:
                 break
+            #print(f"started at {round(float(get_folder_size(base_input_path))/1000000, 5)}MB")
             num_bytes = round(float(get_folder_size(base_output_path))/1000000, 5)
             break
 
