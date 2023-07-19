@@ -25,8 +25,8 @@ list_of_input_packs = []
 list_of_output_packs = {}
 
 TARGET_BITRATE = 64
-SECONDARY_BITRATE = int(float(TARGET_BITRATE)*7.0/8.0)
-TERTIARY_BITRATE = int(float(TARGET_BITRATE)*5.0/8.0)
+SECONDARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
+TERTIARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
 temp_target = TARGET_BITRATE
 temp_second = SECONDARY_BITRATE
 temp_tert = TERTIARY_BITRATE
