@@ -76,6 +76,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Title                             | Link                                                                      | Language   | Notes                   |
 | --------------------------------- | ------------------------------------------------------------------------- | ---------- | ----------------------- |
 | Angry Batman                      |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English    |                         |
+| Auron                             |[Link](https://www.waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e)  | Spanish    | By @l4t0r (Discord)     |
 | Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
 | Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
