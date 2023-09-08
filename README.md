@@ -93,6 +93,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Gollum par Superflame             |[Link](https://www.waze.com/ul?acvp=ece19b2f-553c-4324-9174-4e53a5d2162b)  | French     |                         |
 | Grand Theft Auto IV               |[Link](https://www.waze.com/ul?acvp=EFCCF4A5-2146-4649-AB24-B7F02944D55F)  | English    |                         |
 | Homer by Superflame               |[Link](https://www.waze.com/ul?acvp=37ae250d-c7ca-4d8b-9a2d-e4200fc40244)  | French     |                         |
+| Hubcap Jones                      |[Link](https://www.waze.com/ul?acvp=A4258269-6A7B-46BB-83D0-2D89DE0886DA)  | English    | By @MikeTheBard on X    |
 | James Veitch (English Comedian)   |[Link](https://www.waze.com/ul?acvp=5D75A1F4-50BC-4EDE-AEFA-753B50C64FC0)  | English    |                         |
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
 | Jeff Dunham's Bubba J             |[Link](https://www.waze.com/ul?acvp=143E2169-A6CB-418C-8620-460CF8AA5487)  | English    |                         |
