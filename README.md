@@ -120,8 +120,10 @@ This list contains current and former contracted celebrities and voice actors wh
 | VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 
+
 ## Buy me a coffee ☕
 Maintaining this list takes a non-trivial amount of time; a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
+
 
 ## Attribution Requirements
 If you use or reference content from this repository, whether it's code, documentation, or other resources, you are required to provide proper attribution to this repository. This includes mentioning the source of the content and indicating any modifications made.
@@ -130,8 +132,10 @@ Please make sure to adhere to the licensing terms specified in the [GNU General 
 
 Thank you for respecting the licensing and contributing to open-source practices.
 
-## Have mp3 files and like clear audio?
+
+## Have mp3 files?
 I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
+
 
 ## Debugging
 Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
