@@ -78,8 +78,9 @@ This list contains current and former contracted celebrities and voice actors wh
 | Angry Batman                      |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English    |                         |
 | Auron                             |[Link](https://www.waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e)  | Spanish    | By @l4t0r (Discord)     |
 | Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
-| Chalmette HeyBrah                 |[Link](https://www.waze.com/ul?acvp=DB9B1866-26E8-4D05-BF81-A07F62342D18&fbclid=IwAR2z6fsJDuEWLI5Wqr2815qej5iFQmRKdv2Ib1izuj8WVvqpQ5YUPDOPtyM) | English-ish | Miles only. By [Shane Ansardi](https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html)
+| Chalmette HeyBrah                 |[Link](https://www.waze.com/ul?acvp=DB9B1866-26E8-4D05-BF81-A07F62342D18) | English-ish | Miles only. By [Shane Ansardi](https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html)
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
+| Dawk Waze                         |[Link](https://www.waze.com/ul?acvp=84E8EAA5-B0C7-46C6-9BE9-886E06BAF14F)  | English    | Vietnamese Accent       |
 | Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
 | Donald Trump                      |[Link](https://www.waze.com/ul?acvp=49687817-7D66-4670-8CBD-2362B44BA08A)  | English    | "DonnieGPS3000"         |
 | Drew Lynch                        |[Link](https://www.waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4)  | English    |                         |
@@ -99,7 +100,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Jeff Dunham's 'Achmed TDT'        |[Link](https://www.waze.com/ul?acvp=FEABF983-93B9-4B03-8314-5BFD5B91497D)  | English    |                         |
 | Jeff Dunham's Bubba J             |[Link](https://www.waze.com/ul?acvp=143E2169-A6CB-418C-8620-460CF8AA5487)  | English    |                         |
 | Julien Lepers by Superflame       |[Link](https://www.waze.com/ul?acvp=a7f83882-6f49-49db-843d-6bf7963c38cc)  | French     |                         |
-| Le Warm-Up d’Elliot 🔥            |[Link](https://www.waze.com/ul?acvp=0EA982ED-28E4-4F03-9556-9D65E3438430)  | French     |                         |
+| Le Warm-Up d’Elliot               |[Link](https://www.waze.com/ul?acvp=0EA982ED-28E4-4F03-9556-9D65E3438430)  | French     |                         |
 | Manu dans le 6/10 sur NRJ         |[Link](https://www.waze.com/ul?acvp=FA224281-6808-4316-AC2A-5D91F79C50AA)  | French     |                         |
 | Mark Pilgrim                      |[Link](https://www.waze.com/ul?acvp=12DE1A6A-831A-4717-A6FC-C7D99633635E)  | English    |                         |
 | Morgan Freeman par Superflame     |[Link](https://www.waze.com/ul?acvp=9bb42c28-dc17-4b9c-8f8f-853ed8655247)  | French     |                         |
