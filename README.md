@@ -1,6 +1,6 @@
 # Waze Voicepack Links
 
-Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created by myself, [@pipeeeeees](https://github.com/pipeeeeees), in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (rather than one-author reddit posts from 2016 or ad-laden website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. Feel free to fork and pull request to contribute!
+Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created by myself, [@pipeeeeees](https://github.com/pipeeeeees), in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (rather than one-author reddit posts from 2016 or ad-laden website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. 
 
 ## How to Download a Voicepack 
 1. On your mobile device, have the Waze app installed.
