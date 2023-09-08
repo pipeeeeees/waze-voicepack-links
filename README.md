@@ -78,7 +78,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Angry Batman                      |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English    |                         |
 | Auron                             |[Link](https://www.waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e)  | Spanish    | By @l4t0r (Discord)     |
 | Benny Su                          |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch      |                         |
-| Chalmette HeyBrah                 |[Link](https://www.waze.com/ul?acvp=DB9B1866-26E8-4D05-BF81-A07F62342D18&fbclid=IwAR2z6fsJDuEWLI5Wqr2815qej5iFQmRKdv2Ib1izuj8WVvqpQ5YUPDOPtyM) | English-ish | [Shane Ansardi](https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html)
+| Chalmette HeyBrah                 |[Link](https://www.waze.com/ul?acvp=DB9B1866-26E8-4D05-BF81-A07F62342D18&fbclid=IwAR2z6fsJDuEWLI5Wqr2815qej5iFQmRKdv2Ib1izuj8WVvqpQ5YUPDOPtyM) | English-ish | Miles only. By [Shane Ansardi](https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html)
 | Country Boy                       |[Link](https://www.waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6)  | English    | No metric distances     |
 | Dale Earnhart Jr.                 |[Link](https://t.co/zwCme0zaYi)                                            | English    |                         |
 | Donald Trump                      |[Link](https://www.waze.com/ul?acvp=49687817-7D66-4670-8CBD-2362B44BA08A)  | English    | "DonnieGPS3000"         |
@@ -106,6 +106,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Nick Kraft                        |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch      |                         |
 | NY Mom - "Barbara"                |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English    |                         |
 | Philippe&Sandy NOSTALGIE          |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French     |                         |
+| Queen Katmai                      |[Link](https://www.waze.com/ul?acvp=b02e0cb9-effe-437d-bd26-e2014a97aa23&fbclid=IwAR0CQksGYE-9vx92ixKl-FUEL2ELprz9rFF1mlGamM1CSrj3NJJtvbuYan8) | English | Meters only |
 | Ronny Retro                       |[Link](https://www.waze.com/ul?acvp=A413B1AC-5C48-4CF5-86A3-1D28B2957C0F)  | Dutch      |                         |
 | Shizbox (Insulting British Guy)   |[Link](https://www.waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)  | English    |                         |
 | Siri                              |[Link](https://www.waze.com/ul?acvp=c36e6fe2-5179-45c1-888b-d9311231b686)  | English    | [Credits](https://www.reddit.com/user/PaperCutOnPenisHead/)|
