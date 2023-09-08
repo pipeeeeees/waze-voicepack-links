@@ -106,7 +106,6 @@ This list contains current and former contracted celebrities and voice actors wh
 | Nick Kraft                        |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch      |                         |
 | NY Mom - "Barbara"                |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English    |                         |
 | Philippe&Sandy NOSTALGIE          |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French     |                         |
-| Queen Katmai                      |[Link](https://www.waze.com/ul?acvp=b02e0cb9-effe-437d-bd26-e2014a97aa23&fbclid=IwAR0CQksGYE-9vx92ixKl-FUEL2ELprz9rFF1mlGamM1CSrj3NJJtvbuYan8) | English | Meters only |
 | Ronny Retro                       |[Link](https://www.waze.com/ul?acvp=A413B1AC-5C48-4CF5-86A3-1D28B2957C0F)  | Dutch      |                         |
 | Shizbox (Insulting British Guy)   |[Link](https://www.waze.com/ul?acvp=ca207b6b-e835-4c0a-9df7-cdba1fa7db69)  | English    |                         |
 | Siri                              |[Link](https://www.waze.com/ul?acvp=c36e6fe2-5179-45c1-888b-d9311231b686)  | English    | [Credits](https://www.reddit.com/user/PaperCutOnPenisHead/)|
@@ -118,34 +117,6 @@ This list contains current and former contracted celebrities and voice actors wh
 | VTM: onderweg met Tine            |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |                         |
 | VTM: onderweg met Guga            |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |                         |
 
-
-# Missing Waze Official Voices
-This list contains voice packs that are known to exist, but do not have links yet. If you fancy any one of these below and would like a link made ASAP, open an issue and I will make it a priority. See `Notes` below for further instructions on how to open a new issue.
-| Title                             | Link                                                                      |
-| --------------------------------- | ------------------------------------------------------------------------- | 
-| Christina Aguilera (Spanish)      |[]() |
-| Roberts Lejasmeijers              |[]() |
-| Noir Detective                    |[]() |
-| Ultron (Spanish, The Avengers)    |[]() |
-| Cat                               |[]() |
-| Ichabod Crane (Sleepy Hollow)     |[]() |
-| Karamo                            |[]() |
-| Aries                             |[]() |
-| Taurus                            |[]() |
-| Gemini                            |[]() |
-| Cancer                            |[]() |
-| Leo                               |[]() |
-| Virgo                             |[]() |
-| Libra                             |[]() |
-| Scorpio                           |[]() |
-| Sagittarius                       |[]() |
-| Capricorn                         |[]() |
-| Aquarious                         |[]() |
-| Pisces                            |[]() |
-| Biz Jargon                        |[]() |
-| Headspace                         |[]() |
-| Zombie                            |[]() |
-| Survivalist                       |[]() |
 
 ## Notes
 - If you know of a voicepack that is not in any of the list(s) above, please open a new Issue using the `Issues` tab above and selecting the `New issue` button and I will get back to you shortly. 
