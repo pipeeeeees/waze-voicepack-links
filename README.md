@@ -1,6 +1,6 @@
 # Waze Voicepack Links
 
-Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created by myself, @pipeeeeees, in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (instead of one-authored reddit posts from 2016 or ad-laden out-of-date website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. Feel free to fork and pull request to contribute!
+Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created by myself, [@pipeeeeees](https://github.com/pipeeeeees), in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (rather than one-author reddit posts from 2016 or ad-laden website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. Feel free to fork and pull request to contribute!
 
 ## How to Download a Voicepack 
 1. On your mobile device, have the Waze app installed.
@@ -123,15 +123,15 @@ This list contains current and former contracted celebrities and voice actors wh
 ## Buy me a coffee ☕
 Maintaining this list takes a non-trivial amount of time; a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
 
-## Have mp3 files and like clear audio?
-I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
-
-## Debugging
-Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
-
 ## Attribution Requirements
 If you use or reference content from this repository, whether it's code, documentation, or other resources, you are required to provide proper attribution to this repository. This includes mentioning the source of the content and indicating any modifications made.
 
 Please make sure to adhere to the licensing terms specified in the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) for proper usage and distribution of the content.
 
 Thank you for respecting the licensing and contributing to open-source practices.
+
+## Have mp3 files and like clear audio?
+I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
+
+## Debugging
+Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
