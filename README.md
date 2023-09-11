@@ -13,21 +13,21 @@ This list contains current and former contracted celebrities and voice actors wh
 | --------------------------------- | -------------------------------------------------------------------- | -------- | ------------------------- |
 | Aerobic Instructor 80's           |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English |                            |
 | Andy Field (FNAF)                 |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English |                            |
-| Armie Hammer                      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
+| Armie Hammer (Jackson Storm, Cars 3)|[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English |                            |
 | Arnold Schwarzenegger (Terminator)|[Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | English |                            |
 | Batman (Kevin Conroy)             |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English |                            |
 | Boy Band                          |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English |                            |
 | Boy George                        |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English |                            |
 | C-3PO (Star Wars)                 |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish | Missing Crash Reported     |
-| Catriona Gray                     |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English |                            |
+| Catriona Gray (BDO)               |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English |                            |
 | Christina Aguilera (English)      |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English |                            |
 | Colonel Sanders (KFC)             |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English |                            |
 | Cookie Monster                    |[Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | English |                            |
 | Cupid                             |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English |                            |
 | Dizzee Rascal                     |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English |                            |
 | DJ 70's                           |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English |                            |
-| DJ Khaled                         |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English |                            |
+| DJ Khaled (by Deezer)             |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English |                            |
 | Dog                               |[Link](https://waze.com/ul?acvp=590c035b-986a-4bc7-a665-a3c271017894) | English |                            |
 | Ed Helms                          |[Link](https://waze.com/ul?acvp=241CD4A3-3E35-4EBB-822B-BAC71CB3563A) | English |                            |
 | Elvis Presley                     |[Link](https://waze.com/ul?acvp=a743c4e4-a1ca-433f-b989-96bbeff0f84b) | English |                            |
@@ -39,18 +39,18 @@ This list contains current and former contracted celebrities and voice actors wh
 | Jay Leno                          |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English | Missing U-Turn             |
 | Kehlani                           |[Link](https://waze.com/ul?acvp=3f61193b-3aa4-4b36-a988-5de7763add24) | English |                            |
 | Kevin Hart                        |[Link](https://waze.com/ul?acvp=7D8213FA-2FD5-41D5-A26E-2ADC971E65F7) | English | Missing U-Turn             |
-| Leona Chin                        |[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
-| Liam Neeson                       |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
+| Leona Chin (Road Safety Ambassador)|[Link](https://waze.com/ul?acvp=1c85e0f4-f3d1-4142-a4c5-eae882bc88b4) | English |                            |
+| Liam Neeson (The Commuter)        |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English |                            |
 | Lincoln Canada                    |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English |                            |
 | Madea (Tyler Perry)               |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English |                            |
 | Master Chief (Halo)               |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English | Missing all mile phrases   |
 | Michael C. Hall (Dexter Morgan)   |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English |                            |
-| Mimiyuuuh                         |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino|                            |
+| Mimiyuuuh (Lazada)                |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino|                            |
 | Morgan Freeman (London Has Fallen)|[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English |                            |
 | Mr. T                             |[Link](https://waze.com/ul?acvp=3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC) | English | Poor audio quality         |
 | Mrs. Claus                        |[Link](https://waze.com/ul?acvp=598f7ddb-864a-4d06-b653-d7caaa30409e) | English |                            |
 | Neil Patrick Harris               |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English | Contains incorrect voice lines |
-| Owen Wilson (Lightning McQueen)   |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
+| Owen Wilson (Lightning McQueen, Cars 3)|[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English |                            |
 | PAW Patrol                        |[Link](https://waze.com/ul?acvp=d8e23270-2b93-41d5-89c8-f2824994d0b4) | English |                            |
 | Phil Miller (Last Man On Earth)   |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English |                            |
 | Pop Star 90's                     |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English |                            |
@@ -65,12 +65,12 @@ This list contains current and former contracted celebrities and voice actors wh
 | Soccer Commentator                |[Link](https://waze.com/ul?acvp=bb69ca3a-4d67-4d2d-bbe8-dfd47f46e5f7) | English |                            |
 | T-Pain                            |[Link](https://waze.com/ul?acvp=69967265-f165-4663-a464-6ef44a04460b) | English |                            |
 | Terry Crews                       |[Link](https://waze.com/ul?acvp=98c34c03-cd33-49a1-88f9-686dd2d1e387) | English |                            |
-| The Grand Tour                    |[Link](https://waze.com/ul?acvp=fcbf97b4-bc6c-4e8f-a95c-c54a3f044e21) | English |                            |
+| The Grand Tour (Clarkson, Hammond & May)|[Link](https://waze.com/ul?acvp=fcbf97b4-bc6c-4e8f-a95c-c54a3f044e21) | English |                            |
 | The Queen                         |[Link](https://waze.com/ul?acvp=f938fe90-6483-4adc-9956-d64d9d80bb80) | English |                            |
 | The Riddler                       |[Link](https://waze.com/ul?acvp=1c6554c6-d161-411b-92a0-81bab0ea5b01) | English |                            |
 | The Sea Beast (Netflix)           |[Link](https://waze.com/ul?acvp=776a571d-ea00-4c96-9c50-73cd8030d0cd) | English |                            |
 | Tony Fernandes (AirAsia)          |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English |                            |
-| Toy Story 4                       |[Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English |                            |
+| Toy Story 4 (Buzz and Woody)      |[Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English |                            |
 | Vlade Divac                       |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English |                            |
 
 
