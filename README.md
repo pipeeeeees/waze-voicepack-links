@@ -1,6 +1,6 @@
 # Waze Voicepack Links
 
-Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created by myself, [pipeeeeees](https://github.com/pipeeeeees), in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (rather than out-of-date reddit posts or ad-laden website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. I also create shareable high-quality custom voicepacks from `.mp3` files with the `.py` scripts in this repository. Many of the links below were created this way to preserve audio quality.  
+Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created in an effort to consolidate all shareable GPS voice links into one list that can receive continuous community updates (rather than out-of-date reddit posts or ad-laden website articles). I regularly add new links to this list as well as update existing links if new, higher quality versions of voices are discovered. I also create shareable high-quality custom voicepacks from `.mp3` files with the `.py` scripts in this repository. Many of the links below were created this way to preserve audio quality.  
 
 ## How to Download a Voicepack 
 1. On your mobile device, have the Waze app installed.
@@ -122,7 +122,7 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 ## Have mp3 files?
-I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
+I can create voice packs from `.mp3` files. The advantage of using `.mp3` files to create packs is preservation of audio quality. By default, Waze compresses the in-app recordings made with your device microphone and they can sound muffled. While my method also involves some file compression to fit all files within a certain size limit, the audio quality is far superior. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
 
 ## Cup of Joe ☕
 If you wish to support me and this list, a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
