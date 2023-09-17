@@ -122,7 +122,7 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 ## Have mp3 files?
-I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
+I can create voice packs from `.mp3` files. The advantage of using `.mp3` files to create packs is preservation of audio quality. By default, Waze compresses the in-app recordings made with your device microphone and they can sound muffled. While my method also involves some file compression to fit all files within a certain size limit, the audio quality is far superior. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
 
 ## Cup of Joe ☕
 If you wish to support me and this list, a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
