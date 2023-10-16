@@ -18,15 +18,19 @@ import os, shutil
 from pydub import AudioSegment
 from pydub.utils import mediainfo
 
-AudioSegment.converter = "ffmpeg"
+current_directory = os.path.dirname(os.path.abspath(__file__))
+ffmpeg_path = os.path.join(current_directory, "ffmpeg.exe")
+
+AudioSegment.converter = ffmpeg_path
+
 required_voices = []
 not_required_voices = []
 list_of_input_packs = []
 list_of_output_packs = {}
 
-TARGET_BITRATE = 64
-SECONDARY_BITRATE = int(float(TARGET_BITRATE)*7.5/8.0)
-TERTIARY_BITRATE = int(float(TARGET_BITRATE)*7.0/8.0)
+TARGET_BITRATE = 52
+SECONDARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
+TERTIARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
 temp_target = TARGET_BITRATE
 temp_second = SECONDARY_BITRATE
 temp_tert = TERTIARY_BITRATE

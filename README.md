@@ -110,6 +110,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Manu dans le 6/10 sur NRJ                 |[Link](https://www.waze.com/ul?acvp=FA224281-6808-4316-AC2A-5D91F79C50AA)  | French        |                                                                   |
 | Mark Pilgrim                              |[Link](https://www.waze.com/ul?acvp=12DE1A6A-831A-4717-A6FC-C7D99633635E)  | English       |                                                                   |
 | Morgan Freeman par Superflame             |[Link](https://www.waze.com/ul?acvp=9bb42c28-dc17-4b9c-8f8f-853ed8655247)  | French        |                                                                   |
+| Nandor, The Relentless                    |[Link](https://www.waze.com/ul?acvp=5b890d52-2e02-4cec-ac37-75314224610d)  | English       | By [Ty-Ap](https://github.com/Ty-Ap) on Github
 | Nick Kraft                                |[Link](https://www.waze.com/ul?acvp=3527498E-C14A-4565-927C-2B78EBE56D0E)  | Dutch         |                                                                   |
 | NY Mom - "Barbara"                        |[Link](https://www.waze.com/ul?acvp=B210AE95-5945-41A9-95C2-AB59DD563974)  | English       |                                                                   |
 | Philippe&Sandy NOSTALGIE                  |[Link](https://www.waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B)  | French        |                                                                   |
