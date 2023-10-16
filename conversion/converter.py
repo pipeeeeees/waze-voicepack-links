@@ -26,6 +26,9 @@ TARGET_AUDIO_CHANNELS = 1  # mono
 TARGET_VOLUME_INCREASE = 3.5
 TARGET_FOLDER_SIZE = 0.8
 
+root = os.path.dirname(os.path.abspath(__file__))
+required_files = open(os.path.join(root, 'mp3_filenames.txt'), "r").read().split()
+
 def get_folder_size(folder_path):
     total_size = 0
     for dirpath, dirnames, filenames in os.walk(folder_path):
@@ -64,8 +67,6 @@ def convert_mp3_parallel(args):
     convert_mp3(input_path, output_path, filename, max_bitrate)
 
 def main():
-    root = os.path.dirname(os.path.abspath(__file__))
-
     input_pack_path = os.path.join(root, 'input_pack')
     output_pack_path = os.path.join(root, 'output_pack')
 
@@ -95,15 +96,16 @@ def main():
 
             for filename in os.listdir(input_folder):
                 if filename.endswith('.mp3'):
-                    input_path = os.path.join(input_folder, filename)
-                    output_path = os.path.join(output_folder, filename)
+                    if filename in required_files:
+                        input_path = os.path.join(input_folder, filename)
+                        output_path = os.path.join(output_folder, filename)
 
-                    # Check if the input file exists
-                    if not os.path.exists(input_path):
-                        print(f"Input file missing: {input_path}")
-                        continue
+                        # Check if the input file exists
+                        if not os.path.exists(input_path):
+                            print(f"Input file missing: {input_path}")
+                            continue
 
-                    input_files.append((input_path, output_path, filename, current_bitrate))
+                        input_files.append((input_path, output_path, filename, current_bitrate))
 
             # Use multiprocessing pool to convert files in parallel
             pool.starmap(convert_mp3, input_files)

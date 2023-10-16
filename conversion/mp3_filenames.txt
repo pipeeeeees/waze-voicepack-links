@@ -1,4 +1,3 @@
-% Required
 200.mp3
 200meters.mp3
 400.mp3
@@ -42,19 +41,3 @@ TickerPoints.mp3
 TurnLeft.mp3
 TurnRight.mp3
 uturn.mp3
-% Not Needed
-within.mp3
-reminder.mp3
-rec_start.mp3
-rec_end.mp3
-ping.mp3
-ping2.mp3
-message_ticker.mp3
-m.mp3
-ft.mp3
-Exit.mp3
-click_long.mp3
-click.mp3
-bonus.mp3
-alert_1.mp3
-1000.mp3
