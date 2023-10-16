@@ -18,6 +18,9 @@ This list contains current and former contracted celebrities and voice actors wh
 | Batman (Kevin Conroy)                     |[Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | English        |                                       |
 | Boy Band                                  |[Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | English        |                                       |
 | Boy George                                |[Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | English        |                                       |
+| British, Brummie Accent                   |[Link](https://waze.com/ul?acvp=0aa9bd57-5f6d-4ccb-a975-945b6411ecb0) | English        |                                       |
+| British, Cockney Accent                   |[Link](https://waze.com/ul?acvp=188f9e23-dc30-46e3-8a15-6225f2e2f770) | English        |                                       |  
+| British, Mancunian Accent                 |[Link](https://waze.com/ul?acvp=c9db976c-a160-42a9-af76-fb5c731a5bad) | English        |                                       |
 | C-3PO (Star Wars)                         |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English        |                                       |
 | C-3PO (Star Wars)                         |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish        | Missing Crash Reported                |
 | Catriona Gray (BDO)                       |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English        |                                       |

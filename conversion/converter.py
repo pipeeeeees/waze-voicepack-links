@@ -28,7 +28,7 @@ not_required_voices = []
 list_of_input_packs = []
 list_of_output_packs = {}
 
-TARGET_BITRATE = 52
+TARGET_BITRATE = 64
 SECONDARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
 TERTIARY_BITRATE = int(float(TARGET_BITRATE)*8.0/8.0)
 temp_target = TARGET_BITRATE
