@@ -123,6 +123,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | So Horny (SFW)                            |[Link](https://www.waze.com/ul?acvp=08780708-C473-4C22-B2E9-4B66B3C79DE1)  | Horn          |                                                                   |
 | Sranang Wegwijzer                         |[Link](https://www.waze.com/ul?acvp=439bf242-0487-4ea6-a13b-0e54cbb5a39a)  | Surinamese    |                                                                   |
 | Toiley T. Paper                           |[Link](https://www.waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9)  | English       |                                                                   |
+| Tom Cruise (A.I. Generated)               |[Link](https://www.waze.com/ul?acvp=81785741-4e08-4b3b-b260-f5e2b79c08dc)  | English       | By [arctic-alexa](https://github.com/arctic-alexa/TC-Waze-Voice) on GitHub|
 | TomTom Jane                               |[Link](https://www.waze.com/ul?acvp=6614e239-d4a1-409c-a1e9-348c960f1b32)  | English       | By [fnuerpod](https://github.com/pipeeeeees/waze-voicepack-links/issues/10) on GitHub|
 | Union Co. Traffic Officers Assoc.         |[Link](https://www.waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877)  | English       |                                                                   |
 | Voix de Dédé Saint-Prix                   |[Link](https://www.waze.com/ul?acvp=63A1A6E2-D115-48E5-BF60-977B0F6D0FFD)  | French        |                                                                   |
@@ -131,7 +132,15 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 ## Have mp3 files?
-I can create voice packs from `.mp3` files. The advantage of using `.mp3` files to create packs is preservation of audio quality. By default, Waze compresses the in-app recordings made with your device microphone and they can sound muffled. While my method also involves some file compression to fit all files within a certain size limit, the audio quality is far superior. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen below `% Required` [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/prompt_names.txt). 
+I can create voice packs from `.mp3` files. The advantage of using files to create packs rather than using the in-app microphone is the preservation of audio quality. By default, Waze heavily compresses the in-app recordings making them sound muffled. While the file upload method may also involve some file compression to fit the aggregate filesize within a certain size limit, the audio quality is far superior to the in-app recording method. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. If possible, format the filenames as seen [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/mp3_filenames.txt). 
+- Note that `200.mp3` is the callout for 0.1 miles, `400.mp3` for a quarter of a mile, `800.mp3` for half a mile, and `1500.mp3` for a mile. `TickerPoints.mp3` is for rerouting (does not need to be provided if the default chime is OK with you). The rest should be self evident.
+
+## Stance on A.I. Generated Voicepacks
+Given the recent proliferation of A.I. voice generation tools in the hands of the public, we are starting to see a small influx of A.I. generated Waze navigation voicepacks. These are often created without the explicit permission of the person these voices belong to. As a result, these voices can unfairly misrepresent the voice actor, which is a clear ethical concern.
+
+The purpose of this repository is to act as an archive of the internet's Waze voicepacks. To address the ethical concerns surrounding A.I. generated voicepacks, we have established the following guidelines:
+- Any known A.I. voicepacks will be labeled as such in the 'Title' column of the lists above. If you find a voice in the lists above to be A.I. generated but not correctly labeled, please open an issue or a pull request with the corrected title.
+- If the voice actor for an A.I. generated voicepack would like to have a pack they're portrayed in removed from this list, the request will be honored. Please open a new issue or contact me directly via `Discord` @pipeeeeees
 
 ## Cup of Joe ☕
 If you wish to support me and this list, a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
