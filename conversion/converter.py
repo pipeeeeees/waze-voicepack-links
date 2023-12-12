@@ -23,7 +23,7 @@ from multiprocessing import Pool
 TARGET_BITRATE = 64
 TARGET_SAMPLE_RATE = 44100
 TARGET_AUDIO_CHANNELS = 1  # mono
-TARGET_VOLUME_INCREASE = 6.0
+TARGET_VOLUME_INCREASE = 5.0
 TARGET_FOLDER_SIZE = 0.8
 
 root = os.path.dirname(os.path.abspath(__file__))

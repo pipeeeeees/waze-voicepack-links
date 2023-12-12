@@ -12,6 +12,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Title                                     | Link                                                                 | Language       | Notes                                 |
 | ----------------------------------------- | -------------------------------------------------------------------- | -------------- | -------------------------             |
 | Aerobic Instructor 80's                   |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English        |                                       |
+| Alien                                     |[Link](https://waze.com/ul?acvp=6086eb80-ee87-4841-93ae-1f212817293d) | English        |                                       |
 | Andy Field (FNAF)                         |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English        |                                       |
 | Armie Hammer (Jackson Storm, Cars 3)      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English        |                                       |
 | Arnold Schwarzenegger (Terminator)        |[Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | English        |                                       |
@@ -24,7 +25,8 @@ This list contains current and former contracted celebrities and voice actors wh
 | C-3PO (Star Wars)                         |[Link](https://waze.com/ul?acvp=7EE59258-28AF-46D4-99F0-FE24808F04E0) | English        |                                       |
 | C-3PO (Star Wars)                         |[Link](https://waze.com/ul?acvp=65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43) | Spanish        | Missing Crash Reported                |
 | Catriona Gray (BDO)                       |[Link](https://waze.com/ul?acvp=2c029ee1-060c-44e3-a831-48eac91c68a5) | English        |                                       |
-| Christina Aguilera (English)              |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English        |                                       |
+| Christina Aguilera                        |[Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | English        |                                       |
+| Christina Aquilera                        |[Link](https://waze.com/ul?acvp=11d32e15-4ccf-49ad-a3eb-82c280a90210) | Spanish        |                                       |
 | Colonel Sanders (KFC)                     |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English        |                                       |
 | Cookie Monster                            |[Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | English        |                                       |
 | Cupid                                     |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English        |                                       |
@@ -47,6 +49,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Lincoln Canada                            |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English        |                                       |
 | Madea (Tyler Perry)                       |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English        |                                       |
 | Master Chief (Halo)                       |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English        | Missing all mile phrases              |
+| Matilda                                   |[Link](https://waze.com/ul?acvp=cd7a6851-bfb0-4f7d-ad13-545509acca74) | English        | Australian Accent                     |
 | Michael C. Hall (Dexter Morgan)           |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English        |                                       |
 | Mimiyuuuh (Lazada)                        |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino       |                                       |
 | Morgan Freeman (London Has Fallen)        |[Link](https://waze.com/ul?acvp=559355fc-0e30-47ac-b6e8-a915c77840ce) | English        |                                       |
@@ -57,7 +60,10 @@ This list contains current and former contracted celebrities and voice actors wh
 | PAW Patrol                                |[Link](https://waze.com/ul?acvp=d8e23270-2b93-41d5-89c8-f2824994d0b4) | English        |                                       |
 | Phil Miller (Last Man On Earth)           |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English        |                                       |
 | Pop Star 90's                             |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English        |                                       |
+| Randy                                     |[Link](https://waze.com/ul?acvp=1ce7c9b0-a1ba-496e-8933-9a1ff8dadff1) | English        |                                       |
 | Rob Gronkowski                            |[Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English        | Missing U-Turn                        |
+| Roberts Lejameihers                       |[Link](https://waze.com/ul?acvp=0091c532-7974-4dc2-b500-5a11b0f29b5c) | Latvian        |                                       | 
+| Ross                                      |[Link](https://waze.com/ul?acvp=8d6918c9-0679-4caf-8f39-7e3cd3757d7f) | Enlgish        | Australian Accent                     |
 | Safe Mode Kids                            |[Link](https://waze.com/ul?acvp=beca7b55-329c-4cb5-b067-101758a46984) | English        |                                       |
 | Santa (A)                                 |[Link](https://waze.com/ul?acvp=ff872578-d951-4a8d-980e-93ad472c2fd5) | English        |                                       |
 | Santa (B)                                 |[Link](https://waze.com/ul?acvp=5feba8af-7cc7-49d1-8559-4ce52f46037b) | English        | Mall Santa                            |
