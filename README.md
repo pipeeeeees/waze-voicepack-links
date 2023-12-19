@@ -48,7 +48,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Liam Neeson (The Commuter)                |[Link](https://waze.com/ul?acvp=996e7c80-7922-4b5e-93b3-39beff864f3c) | English        |                                       |
 | Lincoln Canada                            |[Link](https://waze.com/ul?acvp=19a85755-d7ff-43e8-8b4c-74780f7cf0ce) | English        |                                       |
 | Madea (Tyler Perry)                       |[Link](https://waze.com/ul?acvp=583004cf-2ee5-430d-bdb5-03c612fdd2ec) | English        |                                       |
-| Master Chief (Halo)                       |[Link](https://waze.com/ul?acvp=4f3415ff-b6d1-4c05-bfaf-7b88cdd01a88) | English        | Missing all mile phrases              |
+| Master Chief (Halo)                       |[Link](https://waze.com/ul?acvp=80e1fa58-109a-4f0a-b4ad-dce65154c53d) | English        |                                       |
 | Matilda                                   |[Link](https://waze.com/ul?acvp=cd7a6851-bfb0-4f7d-ad13-545509acca74) | English        | Australian Accent                     |
 | Michael C. Hall (Dexter Morgan)           |[Link](https://waze.com/ul?acvp=5a5af23c-c2ee-4e90-9676-bb5d45e60894) | English        |                                       |
 | Mimiyuuuh (Lazada)                        |[Link](https://waze.com/ul?acvp=c426fd75-3347-4d6a-bced-7a31a7e1cac3) | Filipino       |                                       |
