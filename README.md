@@ -31,6 +31,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Colonel Sanders (KFC)                     |[Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | English        |                                       |
 | Cookie Monster                            |[Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | English        |                                       |
 | Cupid                                     |[Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | English        |                                       |
+| Dian Sastrowardoyo (Asian Games Promo)    |[Link](https://waze.com/ul?acvp=2927b233-4902-45ba-8a4d-b13b2efc270c) | English        |                                       |
 | Dizzee Rascal                             |[Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | English        |                                       |
 | DJ 70's                                   |[Link](https://waze.com/ul?acvp=656e7daf-a963-43d6-9c86-e9c32d83dbe5) | English        |                                       |
 | DJ Khaled (by Deezer)                     |[Link](https://waze.com/ul?acvp=d57d7544-712a-4b6a-856c-915df7e7bff7) | English        |                                       |
