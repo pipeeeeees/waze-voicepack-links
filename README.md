@@ -13,6 +13,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | ----------------------------------------- | -------------------------------------------------------------------- | -------------- | -------------------------             |
 | Aerobic Instructor 80's                   |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English        |                                       |
 | Alien                                     |[Link](https://waze.com/ul?acvp=6086eb80-ee87-4841-93ae-1f212817293d) | English        |                                       |
+| Altimet (Malaysian Rapper)                |[Link](https://waze.com/ul?acvp=c64ed3e0-e66a-4a36-91d0-38584fb1e0a0) | English        |                                       |
 | Andy Field (FNAF)                         |[Link](https://waze.com/ul?acvp=ed951015-c73c-439f-9bbb-0393f0cd4f05) | English        |                                       |
 | Armie Hammer (Jackson Storm, Cars 3)      |[Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | English        |                                       |
 | Arnold Schwarzenegger (Terminator)        |[Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | English        |                                       |
