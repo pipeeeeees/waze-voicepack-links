@@ -91,6 +91,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | ----------------------------------------- | ------------------------------------------------------------------------- | ----------    | -----------------------                                           |
 | Angry Batman                              |[Link](https://www.waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208)  | English       |                                                                   |
 | Auron                                     |[Link](https://www.waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e)  | Spanish       | By [@l4t0r](https://twitter.com/mikethebard) on Discord           |
+| Austin Powers                             |[Link](https://www.waze.com/ul?acvp=63828e08-6255-43f8-94ca-8347b7aa6c4d)  | English       | By [chrisjudevine](https://github.com/pipeeeeees/waze-voicepack-links/issues/25) on GitHub|
 | B1 Battle Droid                           |[Link](https://www.waze.com/ul?acvp=bdf8f53f-22ad-4595-a1f8-8194f0e099ff)  | English       | By [@TMW-29](https://github.com/pipeeeeees/waze-voicepack-links/issues/21) on GitHub|
 | Benny Su                                  |[Link](https://www.waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF)  | Dutch         |                                                                   |
 | Bernie                                    |[Link](https://www.waze.com/ul?acvp=72FC2EF0-D885-4492-BB9C-26BF26A124EC)  |               |                                                                   |
