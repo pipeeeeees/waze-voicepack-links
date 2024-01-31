@@ -60,6 +60,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Mrs. Claus                                |[Link](https://waze.com/ul?acvp=598f7ddb-864a-4d06-b653-d7caaa30409e) | English        |                                       |
 | Neil Patrick Harris                       |[Link](https://waze.com/ul?acvp=f5988bf2-a5b3-416c-bd40-5c652829369b) | English        | Contains incorrect voice lines        |
 | Owen Wilson (Lightning McQueen, Cars 3)   |[Link](https://waze.com/ul?acvp=a1ec68a0-e166-4e47-ad00-4d7c4a24ff8e) | English        |                                       |
+| Pamela Paz (LatAm)                        |[Link](https://waze.com/ul?acvp=16a785e7-6944-4a11-bb2b-4f98de329ce1) | Spanish        |                                       |
 | PAW Patrol                                |[Link](https://waze.com/ul?acvp=d8e23270-2b93-41d5-89c8-f2824994d0b4) | English        |                                       |
 | Phil Miller (Last Man On Earth)           |[Link](https://waze.com/ul?acvp=B1DC04B3-9D04-4DA6-BD0C-471A6D8BD841) | English        |                                       |
 | Pop Star 90's                             |[Link](https://waze.com/ul?acvp=b27ae132-e0fa-457f-91de-b6797cba6183) | English        |                                       |
