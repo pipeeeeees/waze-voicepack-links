@@ -152,21 +152,11 @@ I can create voice packs from `.mp3` files. The advantage of using files to crea
 - Note that `200.mp3` is the callout for 0.1 miles, `400.mp3` for a quarter of a mile, `800.mp3` for half a mile, and `1500.mp3` for a mile. `TickerPoints.mp3` is for rerouting (does not need to be provided if the default chime is OK with you). The rest should be self evident.
 
 ## Stance on A.I. Generated Voicepacks
-Given the recent proliferation of A.I. voice generation tools in the hands of the public, we are starting to see a small influx of A.I. generated Waze navigation voicepacks. These are often created without the explicit permission of the person these voices belong to. As a result, these voices can unfairly misrepresent the voice actor, which is a clear ethical concern.
+Given the recent proliferation of A.I. voice generation tools in the hands of the public, we are starting to see an influx of A.I. generated Waze navigation voicepacks. These are often created without the explicit permission of the person these voices belong to and can be a violation of IP. This is a clear concern.
 
-The purpose of this repository is to act as an archive of the internet's Waze voicepacks. To address the ethical concerns surrounding A.I. generated voicepacks, we have established the following guidelines:
+The purpose of this repository is to act as an archive of the internet's Waze voicepacks while providing tools to create permanent shareable Waze voicepack links. As the creator of this repository, I do not own the voice content stored on Waze's servers - only the files and text in this repository. To address the ethical concerns surrounding A.I. generated voicepacks, I have established the following guidelines:
 - Any known A.I. voicepacks will be labeled as such in the 'Title' column of the lists above. If you find a voice in the lists above to be A.I. generated but not correctly labeled, please open an issue or a pull request with the corrected title.
-- If the voice actor for an A.I. generated voicepack would like to have a pack they're portrayed in removed from this list, the request will be honored. Please open a new issue or contact me directly via `Discord` @pipeeeeees
-
-## Cup of Joe ☕
-If you wish to support me and this list, a coffee would be much appreciated: `Venmo` [@pipeeeeees](https://account.venmo.com/u/pipeeeeees)
+- If the voice actor or IP owner for an A.I. generated voicepack in the list above would like to have a pack removed from this list, the request will be honored. Please open a new issue with the request and I will get back to you. 
 
 ## Debugging
 Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
-
-## Attribution Requirements
-If you use or reference content from this repository, whether it's code, documentation, or other resources, you are required to provide proper attribution to this repository. This includes mentioning the source of the content and indicating any modifications made.
-
-Please make sure to adhere to the licensing terms specified in the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) for proper usage and distribution of the content.
-
-Thank you for respecting the licensing and contributing to open-source practices.
