@@ -9,7 +9,7 @@ In general, these settings help reduce file size:
 
 requires `ffmpeg.exe` in the conversion directory on windows. download from here: https://github.com/BtbN/FFmpeg-Builds/releases
 
-I used `ffmpeg-master-latest-win64-gpl.zip` for my Windows 10 64 bit machine
+I used `ffmpeg-master-latest-win64-gpl.zip` for my Windows 64 bit machine
 
 Android directory of interest: root/data/user/0/com.waze/waze/custom_prompts_temp
 """
