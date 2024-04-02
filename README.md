@@ -145,6 +145,9 @@ This list contains current and former contracted celebrities and voice actors wh
 | Voix de Dédé Saint-Prix                   |[Link](https://www.waze.com/ul?acvp=63A1A6E2-D115-48E5-BF60-977B0F6D0FFD)  | French     |[mp3 files](https://voice-prompts-ipv6.waze.com/63A1A6E2-D115-48E5-BF60-977B0F6D0FFD.tar.gz)|                                                                   |
 | VTM: onderweg met Tine                    |[Link](https://www.waze.com/ul?acvp=F56B13E4-F259-4345-B563-9F167F562799)  | Dutch      |[mp3 files](https://voice-prompts-ipv6.waze.com/F56B13E4-F259-4345-B563-9F167F562799.tar.gz)|                                                                   |
 | VTM: onderweg met Guga                    |[Link](https://www.waze.com/ul?acvp=1AA0B62B-E73F-460C-8223-79ADB6BA9F39)  | Dutch      |[mp3 files](https://voice-prompts-ipv6.waze.com/1AA0B62B-E73F-460C-8223-79ADB6BA9F39.tar.gz)|                                                                   |
+                            
+                             |
+| Fortyone Usec3 EFT                   |[Link](https://waze.com/ul?acvp=8b2df075-ebc8-42b9-85e0-3b50b5f3275a)  | Dutch      |[mp3 files](https://voice-prompts-ipv6.waze.com/8b2df075-ebc8-42b9-85e0-3b50b5f3275a.tar.gz)|   By Jeffreyy2                                                             |
 
 
 ## Have mp3 files?
