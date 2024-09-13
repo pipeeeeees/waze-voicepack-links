@@ -4,3 +4,5 @@
 *.exe
 *.zip
 *.png
+*.pyc
+*.gz

@@ -22,9 +22,9 @@ from multiprocessing import Pool
 
 TARGET_BITRATE = 64
 TARGET_SAMPLE_RATE = 44100
-TARGET_AUDIO_CHANNELS = 1  # mono
-TARGET_VOLUME_INCREASE = 5.0
-TARGET_FOLDER_SIZE = 0.8
+TARGET_AUDIO_CHANNELS = 1   # mono
+TARGET_VOLUME_INCREASE = 7.0
+TARGET_FOLDER_SIZE = 0.795  # in MB
 
 root = os.path.dirname(os.path.abspath(__file__))
 required_files = open(os.path.join(root, 'mp3_filenames.txt'), "r").read().split()
