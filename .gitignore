@@ -6,3 +6,5 @@
 *.png
 *.pyc
 *.gz
+dex.py
+conversion/format_setter.py
