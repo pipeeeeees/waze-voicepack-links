@@ -8,3 +8,4 @@
 *.gz
 dex.py
 conversion/format_setter.py
+*.venv
