@@ -23,7 +23,7 @@ from multiprocessing import Pool
 TARGET_BITRATE = 64
 TARGET_SAMPLE_RATE = 44100
 TARGET_AUDIO_CHANNELS = 1   # mono
-TARGET_VOLUME_INCREASE = 7.0
+TARGET_VOLUME_INCREASE = 17.0
 TARGET_FOLDER_SIZE = 0.795  # in MB
 
 root = os.path.dirname(os.path.abspath(__file__))
@@ -79,7 +79,7 @@ def main():
         input_folder = os.path.join(input_pack_path, input_folder_name)
 
         # Skip processing zip files
-        if input_folder_name.endswith('.zip'):
+        if input_folder_name.endswith('.zip') or input_folder_name.startswith('.'):
             continue
 
         output_folder = os.path.join(output_pack_path, f"{input_folder_name}_FORMATTED")
@@ -94,7 +94,8 @@ def main():
             pool = Pool()  # Create a multiprocessing pool
             input_files = []
 
-            for filename in os.listdir(input_folder):
+            sub_dirs = os.listdir(input_folder)
+            for filename in sub_dirs:
                 if filename.endswith('.mp3'):
                     if filename in required_files:
                         input_path = os.path.join(input_folder, filename)
