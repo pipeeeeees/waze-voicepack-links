@@ -84,6 +84,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | The Sea Beast (Netflix, Maisie & Blue)    |[Link](https://waze.com/ul?acvp=776a571d-ea00-4c96-9c50-73cd8030d0cd) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/776a571d-ea00-4c96-9c50-73cd8030d0cd.tar.gz)|                                       |
 | Tony Fernandes (AirAsia)                  |[Link](https://waze.com/ul?acvp=75353987-5055-4C6D-98F6-18AA4496BD9C) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/75353987-5055-4C6D-98F6-18AA4496BD9C.tar.gz)|                                       |
 | Toy Story 4 (Buzz and Woody)              |[Link](https://waze.com/ul?acvp=505fc8e5-e37d-4488-9698-00973b6abbe6) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/505fc8e5-e37d-4488-9698-00973b6abbe6.tar.gz)|                                       |
+| Venom                                     |[Link](https://waze.com/ul?acvp=d5ab8251-3168-4da9-b062-babcb8607347) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/d5ab8251-3168-4da9-b062-babcb8607347.tar.gz)|                                       |
 | Vlade Divac                               |[Link](https://waze.com/ul?acvp=d7974d6e-5ed5-4807-83c0-8e4d678ac3f8) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/d7974d6e-5ed5-4807-83c0-8e4d678ac3f8.tar.gz)|                                       |
 
 
