@@ -2,13 +2,16 @@
 
 Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created in an effort to consolidate all shareable Waze voice links into one list that can receive continuous community updates (rather than out-of-date reddit posts or ad-laden website articles). 
 
-## How to Download a Voicepack 
+## How to Download a Voicepack
+
 1. On your mobile device, have the Waze app installed.
 2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
 3. Select the voice of your choosing in the Waze app by going to `My Waze` > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap on the new voice.
 
 # Waze Official Voice List
+
 This list contains current and former contracted celebrities and voice actors who at one point had their voices officially on the Waze App. Their voices have since been saved and converted into user-made custom voice packs with shareable links of varying quality. 
+
 | Title                                     | Link                                                                 | Language | `.mp3` Files                                                                               | Notes                                 |
 | ----------------------------------------- | -------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------ | -------------------------             |
 | Aerobic Instructor 80's                   |[Link](https://waze.com/ul?acvp=25490e25-4f56-4c76-a82c-0e77b6c49031) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/25490e25-4f56-4c76-a82c-0e77b6c49031.tar.gz)|                                       |
@@ -41,6 +44,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Escharum (Halo)                           |[Link](https://waze.com/ul?acvp=3f81ff34-466c-4aba-b984-25406a02e3d1) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/3f81ff34-466c-4aba-b984-25406a02e3d1.tar.gz)|                                       |
 | Forza Horizon 4 (Maurice LaMarche)        |[Link](https://waze.com/ul?acvp=9f7baf1d-16f4-4cb9-9e52-5b8e292aa8fb) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/9f7baf1d-16f4-4cb9-9e52-5b8e292aa8fb.tar.gz)|                                       |
 | Fraggle Rock Red                          |[Link](https://waze.com/ul?acvp=be9d2814-7392-4d96-839d-546de5867620) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/be9d2814-7392-4d96-839d-546de5867620.tar.gz)|                                       |
+| Glasgow - Jim                             |[Link](https://waze.com/ul?acvp=d600f88e-cfdf-46ea-9a5a-8d9c5d3a22c4) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/d600f88e-cfdf-46ea-9a5a-8d9c5d3a22c4.tar.gz)|                                       |
 | Hasan Minhaj                              |[Link](https://waze.com/ul?acvp=351bc8e6-1ea0-4f6b-a6b5-f85156ac803e) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/351bc8e6-1ea0-4f6b-a6b5-f85156ac803e.tar.gz)|                                       |
 | Honkai Star Rail (March 7th)              |[Link](https://waze.com/ul?acvp=04277f8e-078e-43ad-8de9-05a757c2b574) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/04277f8e-078e-43ad-8de9-05a757c2b574.tar.gz)|                                       |
 | Jay Leno                                  |[Link](https://waze.com/ul?acvp=1F511A6F-6DF3-46E0-858D-53E6D489A0FE) | English  |[mp3 files](https://voice-prompts-ipv6.waze.com/1F511A6F-6DF3-46E0-858D-53E6D489A0FE.tar.gz)| Missing U-Turn                        |
@@ -89,6 +93,7 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 # Community-Made Voice List
+
 | Title                               | Link                                                                      | Language   | `.mp3` Files                                                                               | Notes                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ | -----------------------                                           |
 | Afroditi (Greek)                    |[Link](https://waze.com/ul?acvp=095cd118-ee81-4b63-8121-0bfc757f9c0b)      | Greek      |[mp3 files](https://voice-prompts-ipv6.waze.com/095cd118-ee81-4b63-8121-0bfc757f9c0b.tar.gz)| By [alexmorak](https://github.com/pipeeeeees/waze-voicepack-links/issues/74)|
