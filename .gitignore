@@ -7,6 +7,6 @@
 *.pyc
 *.gz
 dex.py
-conversion/format_setter.py
 *.venv
 *.wav
+helper_files/README.md

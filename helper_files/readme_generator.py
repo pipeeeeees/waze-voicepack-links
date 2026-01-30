@@ -42,6 +42,7 @@ def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
         # if the vp has the "author" field, include it in the notes
         author = vp.get("author", "")
         author_link = vp.get("author_link", "")
+        json_notes = vp.get("notes", "")
         if author:
             if author_link:
                 notes = f"By [{author}]({author_link})"
@@ -49,6 +50,8 @@ def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
                 notes = f"By {author}"
         else:
             notes = ""
+        if json_notes:
+            notes += f" {json_notes}"
 
         markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files]({files_link}) | {notes} |\n"
     
@@ -70,6 +73,12 @@ Welcome to the largest public repository of Waze custom GPS voices on the intern
 This list contains current and former contracted celebrities and voice actors who at one point had their voices officially on the Waze App. Their voices have since been saved and converted into user-made custom voice packs with shareable links of varying quality. 
 """
 
+community_list_intro_string = """
+# Waze Community Voice List
+
+This list contains user-created voice packs made by the Waze community. These voices are often created using the in-app microphone recording feature or by uploading `.mp3` files to Waze's servers. The quality of these voice packs can vary greatly depending on the source of the audio files used to create them.
+"""
+
 outro_string = """
 ## Have mp3 files?
 I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. Please format the filenames as seen [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/mp3_filenames.txt). 
@@ -84,15 +93,13 @@ The purpose of this repository is to act as an archive of the internet's Waze vo
 - Any known A.I. voicepacks will be labeled as such in the 'Title' column of the lists above. If you find a voice in the lists above to be A.I. generated but not correctly labeled, please open an issue or a pull request with the corrected title.
 - If the voice actor or IP owner for an A.I. generated voicepack in the list above would like to have a pack removed from this list, the request will be honored. Please open a new issue with the request and I or a contributor will get back to you. 
 
-## Debugging
-Some users on Android devices (specifically Android 13, but could be others as well) are reporting that only the default voice plays for their custom voicepacks. To resolve this, many have found changing the default voice for each custom voicepack does the trick. To do this, go to the Waze App > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap `i` on the custom voice pack that will not play > Scroll to the bottom and change `Default voice` to something different. Credits to reddit user u/Canadoc for finding this temporary fix. The link to the comment thread can be found [here](https://www.reddit.com/r/waze/comments/122wwx7/comment/jdu25jx/?utm_source=share&utm_medium=web2x&context=3).
 """
 
 def generate_readme(waze_vps_json):
     official_table = generate_official_voicepacks_markdown_table(waze_vps_json)
     community_table = generate_community_voicepacks_markdown_table(waze_vps_json)
 
-    readme_content = f"{intro_string}\n{official_table}\n\n{community_table}\n{outro_string}"
+    readme_content = f"{intro_string}\n{official_table}\n{community_list_intro_string}\n{community_table}\n{outro_string}"
     
     # generate README.md file in cwd / helper_files directory (remove old one if it exists)
     cwd = os.getcwd()

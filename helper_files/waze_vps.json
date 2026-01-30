@@ -69,7 +69,7 @@
         "name": "C-3PO (Star Wars)",
         "language": "Spanish",
         "uuid": "65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43",
-        "notes": "Missing Crash Reported"
+        "notes": "Missing crash reported"
     },
     {
         "name": "Catriona Gray (BDO)",
@@ -422,12 +422,14 @@
     {
         "name": "Apulian dialect Michael",
         "language": "Italian",
-        "uuid": "0144811d-1715-4f4f-a417-204de6b1620e"
+        "uuid": "0144811d-1715-4f4f-a417-204de6b1620e",
+        "notes": "From Mottola-TA town"
     },
     {
         "name": "Apulian dialect Mafalda",
         "language": "Italian",
-        "uuid": "d8b225db-45ae-4e95-8712-b2645ed7ab3b"
+        "uuid": "d8b225db-45ae-4e95-8712-b2645ed7ab3b",
+        "notes": "From Mottola-TA town"
     },
     {
         "name": "Auron",
@@ -472,7 +474,8 @@
         "language": "English",
         "uuid": "DB9B1866-26E8-4D05-BF81-A07F62342D18",
         "author": "Shane Ansardi",
-        "author_link": "https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html"
+        "author_link": "https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html",
+        "notes": "of Louisiana. Miles only"
     },
     {
         "name": "Cortana",
@@ -491,7 +494,8 @@
     {
         "name": "Country Boy",
         "language": "English",
-        "uuid": "EA18DB51-98A4-4474-97C0-9810CC4CD0A6"
+        "uuid": "EA18DB51-98A4-4474-97C0-9810CC4CD0A6",
+        "notes": "Miles only"
     },
     {
         "name": "Daniel (Greek Language)",
@@ -503,18 +507,20 @@
     {
         "name": "Dawk Waze",
         "language": "English",
-        "uuid": "84E8EAA5-B0C7-46C6-9BE9-886E06BAF14F"
+        "uuid": "84E8EAA5-B0C7-46C6-9BE9-886E06BAF14F",
+        "notes": "Vietnamese accent"
     },
     {
         "name": "Dale Earnhart Jr.",
         "language": "English",
-        "uuid": "",
-        "notes": "original README uses a t.co link; mp3 files not provided"
+        "uuid": "7C8A2C3F-7A4B-4A1D-8C2E-5B3F4A2C3F7A"
     },
     {
         "name": "Disco Elysium",
         "language": "English",
-        "uuid": "634b0fdf-c1d6-4422-9fee-bacf2d98484a"
+        "uuid": "634b0fdf-c1d6-4422-9fee-bacf2d98484a",
+        "author": "Source",
+        "author_link": "https://www.reddit.com/r/DiscoElysium/comments/1knmrrz/custom_voice_pack_for_waze/"
     },
     {
         "name": "Donald Trump",
@@ -650,7 +656,8 @@
     {
         "name": "James Earl Jones (A.I. Generated)",
         "language": "English",
-        "uuid": "f1e48c91-e724-4d3e-8299-2aa642def7d6"
+        "uuid": "f1e48c91-e724-4d3e-8299-2aa642def7d6",
+        "notes": "The voice actor of Darth Vader"
     },
     {
         "name": "James McCaffrey's Max Payne (A.I. Generated)",
@@ -681,7 +688,8 @@
     {
         "name": "JARVIS v 4.1",
         "language": "English",
-        "uuid": "3194e787-e2d0-48ff-bbe7-b12daf925a5f"
+        "uuid": "3194e787-e2d0-48ff-bbe7-b12daf925a5f",
+        "notes": "Missing many voicelines"
     },
     {
         "name": "Jeff Dunham's 'Achmed TDT'",
