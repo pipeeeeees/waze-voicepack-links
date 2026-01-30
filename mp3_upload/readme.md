@@ -20,11 +20,14 @@ An example of a pack being compressed down to below the 0.8MB limit by reducing 
 An example of a successful upload from the script
 
 # How to upload your own mp3 files to make a Waze voicepack link
-1. Place your mp3 pack(s) in the `mp3-upload/input-packs/` folder
-- each "pack" is a folder containing all of the mp3 files you want to upload together. The folder name will be used as the name of the uploaded voicepack
-2. Configure your python environment using the `requirements.txt` file
-3. Install ffmpeg on your system if you don't have it already - this is used for file compression and validation
-4. Run the `mp3_upload/main.py` script using the configured python environment and follow the progress through each step. If everything is successful, you will see a link to your uploaded voicepack in the console output
+
+These steps assume you have intermediate knowledge of python and python environments. If you are new to python, do not fret. ChatGPT or Claude can help you through the setup process.
+
+1. Clone this repository to your computer
+2. Place your mp3 pack(s) in the `mp3-upload/input-packs/` folder. The pack is simply a folder whose name is the desired voicepack name and contains all the mp3 files inside it. Ensure that the mp3 files are named according to the `valid-waze-mp3-names.txt` file found [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/mp3_upload/valid_waze_filenames.txt). Scroll down to the next section of this readme for a full list of valid filenames and their meanings
+3. Configure your python environment using the `requirements.txt` file. I used python 3.12.8 at time of writing. YMMV on other versions. Virtual environment is of course always recommended. 
+4. Install ffmpeg on your system if you don't have it already. ffmpeg is an open-source computer tool for handling, modifying, and converting audio and video files. Instructions for installation can be found [here](https://ffmpeg.org/download.html). Ensure that ffmpeg is accessible from your system PATH so that the python script can call it
+5. Run the `mp3_upload/main.py` script using the configured python environment and follow the progress through each of the three steps outlined at the top of this document. If everything is successful, you will see a link to your uploaded voicepack in the console output
 
 # `valid-waze-mp3-names.txt` filenames and their meanings
 
