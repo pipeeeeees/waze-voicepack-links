@@ -11,6 +11,9 @@ FILES_URI_SUFFIX = ".tar.gz"
 def generate_official_voicepacks_markdown_table(waze_vps_json) -> str:
     waze_vps = json.loads(waze_vps_json)
     official_voicepacks = waze_vps.get("Official Voicepacks", [])
+
+    # sort official voicepacks by name (case-insensitive) before rendering
+    official_voicepacks = sorted(official_voicepacks, key=lambda vp: (vp.get("name") or "").lower())
     
     markdown_table = "| Name | Link | Language | mp3 files | Notes |\n"
     markdown_table += "|------|----------|----------|-----------|-------|\n"
@@ -29,6 +32,9 @@ def generate_official_voicepacks_markdown_table(waze_vps_json) -> str:
 def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
     waze_vps = json.loads(waze_vps_json)
     community_voicepacks = waze_vps.get("Community Voicepacks", [])
+
+    # sort community voicepacks by name (case-insensitive) before rendering
+    community_voicepacks = sorted(community_voicepacks, key=lambda vp: (vp.get("name") or "").lower())
     
     markdown_table = "| Name | Link | Language | mp3 files | Notes |\n"
     markdown_table += "|------|----------|----------|-----------|-------|\n"
