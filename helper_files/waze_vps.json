@@ -68,7 +68,8 @@
     {
         "name": "C-3PO (Star Wars)",
         "language": "Spanish",
-        "uuid": "65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43"
+        "uuid": "65BD7D6B-DF3B-4649-B5E0-E5796F8E0B43",
+        "notes": "Missing Crash Reported"
     },
     {
         "name": "Catriona Gray (BDO)",
@@ -168,7 +169,8 @@
     {
         "name": "Jay Leno",
         "language": "English",
-        "uuid": "1F511A6F-6DF3-46E0-858D-53E6D489A0FE"
+        "uuid": "1F511A6F-6DF3-46E0-858D-53E6D489A0FE",
+        "notes": "Missing U-Turn"
     },
     {
         "name": "Kehlani",
@@ -178,7 +180,8 @@
     {
         "name": "Kevin Hart",
         "language": "English",
-        "uuid": "7D8213FA-2FD5-41D5-A26E-2ADC971E65F7"
+        "uuid": "7D8213FA-2FD5-41D5-A26E-2ADC971E65F7",
+        "notes": "Missing U-Turn"
     },
     {
         "name": "Leona Chin (Road Safety Ambassador)",
@@ -208,7 +211,8 @@
     {
         "name": "Matilda",
         "language": "English",
-        "uuid": "cd7a6851-bfb0-4f7d-ad13-545509acca74"
+        "uuid": "cd7a6851-bfb0-4f7d-ad13-545509acca74",
+        "notes": "Australian Accent"
     },
     {
         "name": "Michael C. Hall (Dexter Morgan)",
@@ -228,12 +232,14 @@
     {
         "name": "\"Move\" Puns",
         "language": "English",
-        "uuid": "2634ae6a-3e2c-47c8-a45d-042d771e69bc"
+        "uuid": "2634ae6a-3e2c-47c8-a45d-042d771e69bc",
+        "notes": "Unsure of actual title"
     },
     {
         "name": "Mr. T",
         "language": "English",
-        "uuid": "3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC"
+        "uuid": "3D852AE0-9EB4-4BBA-995E-A403CB7FAEDC",
+        "notes": "Poor audio quality"
     },
     {
         "name": "Mrs. Claus",
@@ -243,7 +249,8 @@
     {
         "name": "Neil Patrick Harris",
         "language": "English",
-        "uuid": "f5988bf2-a5b3-416c-bd40-5c652829369b"
+        "uuid": "f5988bf2-a5b3-416c-bd40-5c652829369b",
+        "notes": "Contains incorrect voice lines"
     },
     {
         "name": "Owen Wilson (Lightning McQueen, Cars 3)",
@@ -278,7 +285,8 @@
     {
         "name": "Rob Gronkowski",
         "language": "English",
-        "uuid": "82E7E1A4-9164-418C-BE1F-C6D7F1070150"
+        "uuid": "82E7E1A4-9164-418C-BE1F-C6D7F1070150",
+        "notes": "Missing U-Turn"
     },
     {
         "name": "Roberts Lejameihers",
@@ -288,7 +296,8 @@
     {
         "name": "Ross",
         "language": "Enlgish",
-        "uuid": "8d6918c9-0679-4caf-8f39-7e3cd3757d7f"
+        "uuid": "8d6918c9-0679-4caf-8f39-7e3cd3757d7f",
+        "notes": "Australian Accent"
     },
     {
         "name": "Safe Mode Kids",
@@ -303,7 +312,8 @@
     {
         "name": "Santa (B)",
         "language": "English",
-        "uuid": "5feba8af-7cc7-49d1-8559-4ce52f46037b"
+        "uuid": "5feba8af-7cc7-49d1-8559-4ce52f46037b",
+        "notes": "Mall Santa"
     },
     {
         "name": "Santa (C)",
@@ -323,7 +333,8 @@
     {
         "name": "Stephen Colbert",
         "language": "English",
-        "uuid": "910CBAA5-5E79-4447-A28A-07EA47CC8B76"
+        "uuid": "910CBAA5-5E79-4447-A28A-07EA47CC8B76",
+        "notes": "Missing U-Turn"
     },
     {
         "name": "Soccer Commentator",
