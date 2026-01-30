@@ -390,6 +390,36 @@
         "name": "Vlade Divac",
         "language": "English",
         "uuid": "d7974d6e-5ed5-4807-83c0-8e4d678ac3f8"
+    },
+    {
+        "name": "Paddington in Peru",
+        "language": "English",
+        "uuid": "950eb143-b9b9-49db-90f6-fad2e803c7cf"
+    },
+    {
+        "name": "Lilly Singh",
+        "language": "English",
+        "uuid": "c73e7224-c115-4238-8493-586547f81db3"
+    },
+    {
+        "name": "Stoick the Vast",
+        "language": "English",
+        "uuid": "9aadc10c-6dab-4114-8260-8095d7ba60d7"
+    },
+    { 
+        "name": "Chaka Khan",
+        "language": "English",
+        "uuid": "9594026e-1c56-45b6-acac-436c73fae7d7"
+    },
+    {
+        "name": "The Munchkins - Wizard of Oz",
+        "language": "English",
+        "uuid": "65687f17-13ca-41a9-a9ea-bde426df0511"
+    },
+    {
+        "name": "Now You See Me",
+        "language": "English",
+        "uuid": "6b3e533d-4241-45f7-91fd-e5a05222d662"
     }
 ],
 "Community Voicepacks": [
