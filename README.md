@@ -131,8 +131,8 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Bernie | [Link](https://waze.com/ul?acvp=72FC2EF0-D885-4492-BB9C-26BF26A124EC) |  | [mp3 files](https://voice-prompts-ipv6.waze.com/72FC2EF0-D885-4492-BB9C-26BF26A124EC.tar.gz) |  |
 | BT-7274 Titanfall 2 (A.I. Generated) | [Link](https://waze.com/ul?acvp=9c6426c9-daca-4fd5-ac68-a271d239c995) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/9c6426c9-daca-4fd5-ac68-a271d239c995.tar.gz) | By [Not-Nathani](https://github.com/pipeeeeees/waze-voicepack-links/issues/52) |
 | Chalmette HeyBrah | [Link](https://waze.com/ul?acvp=DB9B1866-26E8-4D05-BF81-A07F62342D18) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/DB9B1866-26E8-4D05-BF81-A07F62342D18.tar.gz) | By [Shane Ansardi](https://www.nola.com/entertainment_life/arts/meet-the-man-behind-the-chalmette-heybrah-driving-app-voice/article_3924e834-3187-11ee-b9e8-ab34f5cd6329.html) of Louisiana. Miles only |
-| Cortana | [Link](https://waze.com/ul?acvp=7cdd97cb-549e-45d2-b408-fe6a6c32453e) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/7cdd97cb-549e-45d2-b408-fe6a6c32453e.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
-| Cortana (Alternate) | [Link](https://waze.com/ul?acvp=6094a015-c947-4c63-8137-9679fb884681) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/6094a015-c947-4c63-8137-9679fb884681.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
+| Cortana | [Link](https://waze.com/ul?acvp=7cdd97cb-549e-45d2-b408-fe6a6c32453e) | Spanish | [mp3 files](https://voice-prompts-ipv6.waze.com/7cdd97cb-549e-45d2-b408-fe6a6c32453e.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
+| Cortana (Alternate) | [Link](https://waze.com/ul?acvp=6094a015-c947-4c63-8137-9679fb884681) | Spanish | [mp3 files](https://voice-prompts-ipv6.waze.com/6094a015-c947-4c63-8137-9679fb884681.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
 | Country Boy | [Link](https://waze.com/ul?acvp=EA18DB51-98A4-4474-97C0-9810CC4CD0A6) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/EA18DB51-98A4-4474-97C0-9810CC4CD0A6.tar.gz) |  Miles only |
 | Daniel (Greek Language) | [Link](https://waze.com/ul?acvp=9738b347-b15d-4b40-ab67-d1c574406ae7) | Greek | [mp3 files](https://voice-prompts-ipv6.waze.com/9738b347-b15d-4b40-ab67-d1c574406ae7.tar.gz) | By [alexmorak](https://github.com/pipeeeeees/waze-voicepack-links/issues/70) |
 | Dawk Waze | [Link](https://waze.com/ul?acvp=84E8EAA5-B0C7-46C6-9BE9-886E06BAF14F) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/84E8EAA5-B0C7-46C6-9BE9-886E06BAF14F.tar.gz) |  Vietnamese accent |
@@ -208,8 +208,9 @@ This list contains user-created voice packs made by the Waze community. These vo
 
 
 ## Have mp3 files?
-I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. Please format the filenames as seen [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/mp3_filenames.txt). 
-- Note that `200.mp3` is the callout for 0.1 miles, `400.mp3` for a quarter of a mile, `800.mp3` for half a mile, and `1500.mp3` for a mile. `TickerPoints.mp3` is for rerouting (does not need to be provided if the default chime is OK with you). The rest should be self evident.
+See these [instructions](https://github.com/pipeeeeees/waze-voicepack-links/tree/main/mp3_upload#how-to-upload-your-own-mp3-files-to-make-a-waze-voicepack-link) on how to upload using this repository.
+
+The Android Emulator method is no longer recommended due to its complexity and manual effort required. 
 
 The advantage of using files to create packs rather than using the in-app microphone is the preservation of audio quality. By default, Waze heavily compresses the in-app recordings making them sound muffled. While the file upload method may also involve some file compression on the server side, the audio quality is far superior to the in-app recording method. 
 
