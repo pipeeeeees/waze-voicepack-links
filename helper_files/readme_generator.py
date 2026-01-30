@@ -58,16 +58,40 @@ def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
     return markdown_table
 
 intro_string = """
-# Waze Voicepack Links
+# 🎙️ Waze Voicepack Links
 
-Welcome to the largest public repository of Waze custom GPS voices on the internet. This project was created in an effort to consolidate all shareable Waze voice links into one list that can receive continuous community updates (rather than out-of-date reddit posts or ad-laden website articles). 
+A community-maintained archive of classic and custom Waze GPS voices — all in one place.
 
-## How to Download a Voicepack
+Bring back your favorite characters, celebrities, and custom voice packs that have disappeared from the official app over the years.
 
-1. On your mobile device, have the Waze app installed.
-2. On the same mobile device, click on one of the links below beside the voicepack title of your choice.
-3. Select the voice of your choosing in the Waze app by going to `My Waze` > Tap on the white button with three lines in the top left corner > `Settings` > `Voice & Sound` > `Waze voice` > Tap on the new voice.
+![Waze Voice List](assets/waze_voice_list.png)
 
+---
+
+## 🚗 What Is This?
+
+This repository collects publicly shareable Waze voicepack links so they don’t get lost in old Reddit threads, dead websites, or outdated blog posts.
+
+If you’ve ever thought:
+
+> “Where did my favorite Waze voice go?”
+
+This is for you.
+
+Our goal is to keep these voices:
+- Easy to find
+- Easy to install
+- Community-maintained
+- Always up to date
+
+---
+
+## 📲 How to Install a Voicepack
+
+1. Install the **Waze app** on your phone.
+2. Open this repository **on the same device**.
+3. Tap a voice link from the list.
+4. Waze will open and download the voice.
 # Waze Official Voice List
 
 This list contains current and former contracted celebrities and voice actors who at one point had their voices officially on the Waze App. Their voices have since been saved and converted into user-made custom voice packs with shareable links of varying quality. 

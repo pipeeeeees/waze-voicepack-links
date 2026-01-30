@@ -1,0 +1,10 @@
+blackboxprotobuf==1.0.1
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+protobuf==3.10.0
+pydub==0.25.1
+requests==2.32.3
+setuptools==75.2.0
+six==1.16.0
+urllib3==2.2.3
