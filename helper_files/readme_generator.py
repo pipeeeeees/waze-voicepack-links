@@ -31,7 +31,7 @@ def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
     community_voicepacks = waze_vps.get("Community Voicepacks", [])
     
     markdown_table = "| Name | Link | Language | mp3 files | Notes |\n"
-    markdown_table += "|------|----------|----------|-----------|\n"
+    markdown_table += "|------|----------|----------|-----------|-------|\n"
     
     for vp in community_voicepacks:
         name = vp.get("name", "N/A")

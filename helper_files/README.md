@@ -94,7 +94,7 @@ This list contains current and former contracted celebrities and voice actors wh
 
 
 | Name | Link | Language | mp3 files | Notes |
-|------|----------|----------|-----------|
+|------|----------|----------|-----------|-------|
 | Afroditi (Greek) | [Link](https://waze.com/ul?acvp=095cd118-ee81-4b63-8121-0bfc757f9c0b) | Greek | [mp3 files](https://voice-prompts-ipv6.waze.com/095cd118-ee81-4b63-8121-0bfc757f9c0b.tar.gz) | By [alexmorak](https://github.com/pipeeeeees/waze-voicepack-links/issues/74) |
 | Alex Morgan (A.I. Generated) | [Link](https://waze.com/ul?acvp=900defe4-61db-42f3-8687-d4f5716c859f) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/900defe4-61db-42f3-8687-d4f5716c859f.tar.gz) | By [Rebb218](https://github.com/pipeeeeees/waze-voicepack-links/issues/38) |
 | Angry Batman | [Link](https://waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/AA20F70F-58AB-4357-82A2-D06A275F1208.tar.gz) |  |
