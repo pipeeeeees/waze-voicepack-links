@@ -159,7 +159,8 @@
     {
         "name": "Hasan Minhaj",
         "language": "English",
-        "uuid": "351bc8e6-1ea0-4f6b-a6b5-f85156ac803e"
+        "uuid": "351bc8e6-1ea0-4f6b-a6b5-f85156ac803e",
+        "blog": "https://blog.google/waze/hasan-minhaj-takes-the-front-seat-in-new-waze-experience/"
     },
     {
         "name": "Honkai Star Rail (March 7th)",
@@ -384,7 +385,8 @@
     {
         "name": "Venom",
         "language": "English",
-        "uuid": "d5ab8251-3168-4da9-b062-babcb8607347"
+        "uuid": "d5ab8251-3168-4da9-b062-babcb8607347",
+        "blog": "https://blog.google/waze/drive-with-venom-the-last-dance-on-waze/"
     },
     {
         "name": "Vlade Divac",
@@ -400,27 +402,32 @@
     {
         "name": "Lilly Singh",
         "language": "English",
-        "uuid": "c73e7224-c115-4238-8493-586547f81db3"
+        "uuid": "c73e7224-c115-4238-8493-586547f81db3",
+        "blog": "https://blog.google/feed/drive-with-lilly-singh-on-waze/"
     },
     {
         "name": "Stoick the Vast",
         "language": "English",
-        "uuid": "9aadc10c-6dab-4114-8260-8095d7ba60d7"
+        "uuid": "9aadc10c-6dab-4114-8260-8095d7ba60d7",
+        "blog": "https://blog.google/waze/drive-with-how-to-train-your-dragon-on-waze/"
     },
     { 
         "name": "Chaka Khan",
         "language": "English",
-        "uuid": "9594026e-1c56-45b6-acac-436c73fae7d7"
+        "uuid": "9594026e-1c56-45b6-acac-436c73fae7d7",
+        "blog": "https://blog.google/waze/drive-with-chaka-khan-on-waze/"
     },
     {
         "name": "The Munchkins - Wizard of Oz",
         "language": "English",
-        "uuid": "65687f17-13ca-41a9-a9ea-bde426df0511"
+        "uuid": "65687f17-13ca-41a9-a9ea-bde426df0511",
+        "blog": "https://blog.google/waze/drive-with-the-wizard-of-oz-on-waze/"
     },
     {
         "name": "Now You See Me",
         "language": "English",
-        "uuid": "6b3e533d-4241-45f7-91fd-e5a05222d662"
+        "uuid": "6b3e533d-4241-45f7-91fd-e5a05222d662",
+        "blog": "https://blog.google/waze/waze-now-you-see-me/"
     }
 ],
 "Community Voicepacks": [
