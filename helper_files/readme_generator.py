@@ -23,6 +23,9 @@ def generate_official_voicepacks_markdown_table(waze_vps_json) -> str:
         language = vp.get("language", "N/A")
         uuid = vp.get("uuid", "N/A")
         notes = vp.get("notes", "")
+        blog = vp.get("blog", "")
+        if blog:
+            notes = f"[Blog Post]({blog}) " + notes
         share_link = f"{SHARE_BASE_URI}{uuid}"
         files_link = f"{FILES_BASE_URI}{uuid}{FILES_URI_SUFFIX}"
         markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files]({files_link}) | {notes} |\n"
