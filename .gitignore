@@ -8,3 +8,4 @@ dex.py
 *.venv
 *.wav
 helper_files/README.md
+voices/
