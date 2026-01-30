@@ -3,19 +3,19 @@ This folder contains scripts and tools for uploading MP3 files to a server or cl
 
 1. **File Ingestion** - this step involves looking through each pack and checking that each pack contains valid mp3 files. A valid mp3 file in this context is any file that is not corrupted (measured by compatibility with ffmpeg) and matches a name within the `valid-waze-mp3-names.txt` file
 
-![ingestion](./assets/ingestion.png)
+![ingestion](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/assets/ingestion.png)
 
 An example of a pack being ingested by the script. In this example, the pack contains at least one valid mp3 file so it is considered valid overall. It is missing some voice files which will be blank in the final upload, but this can be intentional so it's just a warning. All extra mp3 files not in the `valid-waze-mp3-names.txt` file are ignored. 
 
 2. **File Compression** - if needed, the mp3 files will be compressed to meet size requirements for upload. This step is automatically run if the total file size of the pack exceeds the maximum allowed size for upload: 0.8MB. This filesize limit is determined by Waze. Compression is done using ffmpeg with settings that reduce file size while maintaining the highest possible audio quality
 
-![compression](./assets/compression.png)
+![compression](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/assets/compression.png)
 
 An example of a pack being compressed down to below the 0.8MB limit by reducing the bitrate of each mp3 file in the pack (in KB) using a binary search approach, multiprocessing to speed up the process, and checking the total size after each compression iteration
 
 3. **File Upload** - once the files have been ingested and compressed (if needed), upload to Waze's backend is attempted
 
-![upload](./assets/upload.png)
+![upload](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/assets/upload.png)
 
 An example of a successful upload from the script
 

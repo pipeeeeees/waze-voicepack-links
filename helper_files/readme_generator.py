@@ -100,8 +100,9 @@ This list contains user-created voice packs made by the Waze community. These vo
 
 outro_string = """
 ## Have mp3 files?
-I can create voice packs from `.mp3` files. If you have `.mp3` files for voices not yet on this list, please open an issue and share the files. Please format the filenames as seen [here](https://github.com/pipeeeeees/waze-voicepack-links/blob/main/conversion/mp3_filenames.txt). 
-- Note that `200.mp3` is the callout for 0.1 miles, `400.mp3` for a quarter of a mile, `800.mp3` for half a mile, and `1500.mp3` for a mile. `TickerPoints.mp3` is for rerouting (does not need to be provided if the default chime is OK with you). The rest should be self evident.
+See these [instructions](https://github.com/pipeeeeees/waze-voicepack-links/tree/main/mp3_upload#how-to-upload-your-own-mp3-files-to-make-a-waze-voicepack-link) on how to upload using this repository.
+
+The Android Emulator method is no longer recommended due to its complexity and manual effort required. 
 
 The advantage of using files to create packs rather than using the in-app microphone is the preservation of audio quality. By default, Waze heavily compresses the in-app recordings making them sound muffled. While the file upload method may also involve some file compression on the server side, the audio quality is far superior to the in-app recording method. 
 
