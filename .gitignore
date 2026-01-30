@@ -1,9 +1,7 @@
-
 *.mp3
 .DS_Store
 *.exe
 *.zip
-*.png
 *.pyc
 *.gz
 dex.py
