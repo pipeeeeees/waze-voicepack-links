@@ -1,7 +1,7 @@
 import json
 import os
 
-with open('helper_files/waze_vps.json', 'r') as f:
+with open('helper_files/waze_vps.json', 'r', encoding='utf-8') as f:
     waze_vps_json = f.read()
 
 SHARE_BASE_URI = "https://waze.com/ul?acvp="
@@ -143,7 +143,7 @@ def generate_readme(waze_vps_json):
     readme_path = os.path.join(cwd, 'helper_files/README.md')
     if os.path.exists(readme_path):
         os.remove(readme_path)
-    with open(readme_path, 'w') as f:
+    with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(readme_content)
     
 
