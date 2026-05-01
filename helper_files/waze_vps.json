@@ -998,6 +998,13 @@
         "language": "Polish",
         "uuid": "53072723-bb77-424c-b6d1-cdd3fcaaa4d8",
         "author": "Krzosik"
+    },
+    {
+        "name": "Harvey Specter (AI Generated, Suits Style)",
+        "language": "English",
+        "uuid": "81508d6e-f2b3-4dc0-8fe1-41924aa862f2",
+        "author": "tmp483",
+        "author_link": "https://github.com/tmp483/waze-voicepack-links/tree/main"
     }
 ]
 }
