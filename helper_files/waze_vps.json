@@ -1018,5 +1018,11 @@
         "uuid": "e94d32c5-2cfa-4005-829c-4dace425c190",
         "author": "Ismat Sadigov"
     },
+        {
+        "name": "Ada (AI Generated)",
+        "language": "Azerbaijani",
+        "uuid": "629b72f8-f2b2-4a9d-89cc-1ab8524fced6",
+        "author": "Ismat Sadigov MEZHH"
+    },
 ]
 }
