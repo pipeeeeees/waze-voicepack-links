@@ -1008,6 +1008,10 @@
     },
     {
         "uuid": "d1ebbd26-a0fa-4d40-9afa-dd5578d87ce9",
+        "name": "Rory Mercury",
+        "language": "English",
+        "author": "desertrat2024",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/pull/185/",
         "set_name": "Rory Mercury",
         "owner": "1|global|894298598",
         "revision": 0,
