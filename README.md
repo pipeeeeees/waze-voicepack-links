@@ -128,6 +128,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 
 | Name | Link | Language | mp3 files | Notes |
 |------|----------|----------|-----------|-------|
+| Ada (AI Generated) | [Link](https://waze.com/ul?acvp=8ac49d05-63b7-4a29-a6d9-97e6cf60b91a) | Azerbaijani | [mp3 files](https://voice-prompts-ipv6.waze.com/8ac49d05-63b7-4a29-a6d9-97e6cf60b91a.tar.gz) | By Ismat Sadigov MEZHH |
 | Afroditi (Greek) | [Link](https://waze.com/ul?acvp=095cd118-ee81-4b63-8121-0bfc757f9c0b) | Greek | [mp3 files](https://voice-prompts-ipv6.waze.com/095cd118-ee81-4b63-8121-0bfc757f9c0b.tar.gz) | By [alexmorak](https://github.com/pipeeeeees/waze-voicepack-links/issues/74) |
 | Alex Morgan (A.I. Generated) | [Link](https://waze.com/ul?acvp=900defe4-61db-42f3-8687-d4f5716c859f) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/900defe4-61db-42f3-8687-d4f5716c859f.tar.gz) | By [Rebb218](https://github.com/pipeeeeees/waze-voicepack-links/issues/38) |
 | Angry Batman | [Link](https://waze.com/ul?acvp=AA20F70F-58AB-4357-82A2-D06A275F1208) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/AA20F70F-58AB-4357-82A2-D06A275F1208.tar.gz) |  |
@@ -137,6 +138,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Auron | [Link](https://waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e) | Spanish | [mp3 files](https://voice-prompts-ipv6.waze.com/3482511f-aa36-4cd1-9997-4dade0c7c62e.tar.gz) | By [l4t0r](https://twitter.com/mikethebard) |
 | Austin Powers | [Link](https://waze.com/ul?acvp=63828e08-6255-43f8-94ca-8347b7aa6c4d) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/63828e08-6255-43f8-94ca-8347b7aa6c4d.tar.gz) | By [chrisjudevine](https://github.com/pipeeeeees/waze-voicepack-links/issues/25) |
 | B1 Battle Droid | [Link](https://waze.com/ul?acvp=bdf8f53f-22ad-4595-a1f8-8194f0e099ff) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/bdf8f53f-22ad-4595-a1f8-8194f0e099ff.tar.gz) | By [TMW-29](https://github.com/pipeeeeees/waze-voicepack-links/issues/21) |
+| Banu (AI Generated) | [Link](https://waze.com/ul?acvp=e94d32c5-2cfa-4005-829c-4dace425c190) | Azerbaijani | [mp3 files](https://voice-prompts-ipv6.waze.com/e94d32c5-2cfa-4005-829c-4dace425c190.tar.gz) | By Ismat Sadigov |
 | Benny Su | [Link](https://waze.com/ul?acvp=DF17F068-9834-4D4C-9BD3-B0F29066F3FF) | Dutch | [mp3 files](https://voice-prompts-ipv6.waze.com/DF17F068-9834-4D4C-9BD3-B0F29066F3FF.tar.gz) |  |
 | Bernie | [Link](https://waze.com/ul?acvp=72FC2EF0-D885-4492-BB9C-26BF26A124EC) |  | [mp3 files](https://voice-prompts-ipv6.waze.com/72FC2EF0-D885-4492-BB9C-26BF26A124EC.tar.gz) |  |
 | BT-7274 Titanfall 2 (A.I. Generated) | [Link](https://waze.com/ul?acvp=9c6426c9-daca-4fd5-ac68-a271d239c995) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/9c6426c9-daca-4fd5-ac68-a271d239c995.tar.gz) | By [Not-Nathani](https://github.com/pipeeeeees/waze-voicepack-links/issues/52) |
@@ -213,6 +215,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Toiley T. Paper | [Link](https://waze.com/ul?acvp=534A5EF2-C32E-483E-9B6A-81B922CD71E9) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/534A5EF2-C32E-483E-9B6A-81B922CD71E9.tar.gz) |  |
 | Tom Cruise (A.I. Generated) | [Link](https://waze.com/ul?acvp=81785741-4e08-4b3b-b260-f5e2b79c08dc) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/81785741-4e08-4b3b-b260-f5e2b79c08dc.tar.gz) | By [arctic-alexa](https://github.com/arctic-alexa/TC-Waze-Voice) |
 | TomTom Jane | [Link](https://waze.com/ul?acvp=6614e239-d4a1-409c-a1e9-348c960f1b32) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/6614e239-d4a1-409c-a1e9-348c960f1b32.tar.gz) | By [fnuerpod](https://github.com/pipeeeeees/waze-voicepack-links/issues/10) |
+| Tural optimized | [Link](https://waze.com/ul?acvp=0a0bef28-409b-4bff-a565-40b1401590fe) | Azerbaijani | [mp3 files](https://voice-prompts-ipv6.waze.com/0a0bef28-409b-4bff-a565-40b1401590fe.tar.gz) | By Ismat Sadigov |
 | Union Co. Traffic Officers Assoc. | [Link](https://waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/CB6BA079-93EB-46E4-A8F0-C6BC78EEC877.tar.gz) |  |
 | Vivek Ponnusamy (Samir, you're breaking the car!) | [Link](https://waze.com/ul?acvp=b2ddf4b7-0884-441b-96ab-e3b82a5b76bd) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/b2ddf4b7-0884-441b-96ab-e3b82a5b76bd.tar.gz) | By [tutaf](https://github.com/pipeeeeees/waze-voicepack-links/issues/60) |
 | Voix de Dédé Saint-Prix | [Link](https://waze.com/ul?acvp=63A1A6E2-D115-48E5-BF60-977B0F6D0FFD) | French | [mp3 files](https://voice-prompts-ipv6.waze.com/63A1A6E2-D115-48E5-BF60-977B0F6D0FFD.tar.gz) |  |

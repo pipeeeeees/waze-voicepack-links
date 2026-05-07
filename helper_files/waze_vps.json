@@ -1005,6 +1005,24 @@
         "uuid": "81508d6e-f2b3-4dc0-8fe1-41924aa862f2",
         "author": "tmp483",
         "author_link": "https://github.com/tmp483/waze-voicepack-links/tree/main"
+    },
+    {
+        "name": "Tural optimized",
+        "language": "Azerbaijani",
+        "uuid": "0a0bef28-409b-4bff-a565-40b1401590fe",
+        "author": "Ismat Sadigov"
+    },
+    {
+        "name": "Banu (AI Generated)",
+        "language": "Azerbaijani",
+        "uuid": "e94d32c5-2cfa-4005-829c-4dace425c190",
+        "author": "Ismat Sadigov"
+    },
+        {
+        "name": "Ada (AI Generated)",
+        "language": "Azerbaijani",
+        "uuid": "8ac49d05-63b7-4a29-a6d9-97e6cf60b91a",
+        "author": "Ismat Sadigov MEZHH"
     }
 ]
 }
