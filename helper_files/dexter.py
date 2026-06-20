@@ -8,6 +8,8 @@ import mp3_language_detector
 
 from os.path import exists
 from urllib.request import urlretrieve
+import shutil
+import zipfile
 
 base_url_dexter = "https://dexter.waze.com/"
 
@@ -61,17 +63,25 @@ def main(download_all=False):
         if voice_data and i <= max(item["index"] for item in voice_data):
             continue
 
-        if (exists(path)):
-            pass
+        # Check if this pack was already extracted to downloaded_packs/<i>
+        extracted_dir = os.path.join(helper_files_dir, "downloaded_packs", str(i))
+        if exists(extracted_dir):
+            continue
+
         else:
             print(f"Downloading: {i}.zip")
             try:
-                # urlretrive to helper_files/downloaded_packs/
-                urlretrieve(url, os.path.join(helper_files_dir, "downloaded_packs", f"{i}.zip"))
+                # ensure download directory exists
+                os.makedirs(os.path.join(helper_files_dir, "downloaded_packs"), exist_ok=True)
+                # urlretrieve to helper_files/downloaded_packs/
+                zip_path = os.path.join(helper_files_dir, "downloaded_packs", f"{i}.zip")
+                urlretrieve(url, zip_path)
                 print(f"Downloaded: {i}.zip")
-
-                # unzip the file in place
-                os.system(f"unzip -o {os.path.join(helper_files_dir, 'downloaded_packs', f'{i}.zip')} -d {os.path.join(helper_files_dir, 'downloaded_packs', str(i))}")
+                # unzip the file in place (cross-platform)
+                extracted_path = os.path.join(helper_files_dir, 'downloaded_packs', str(i))
+                os.makedirs(extracted_path, exist_ok=True)
+                with zipfile.ZipFile(zip_path, 'r') as zf:
+                    zf.extractall(extracted_path)
                 print(f"Unzipped: {i}.zip")
 
                 # deduce primary language of the unzipped pack
@@ -82,17 +92,21 @@ def main(download_all=False):
                 with open(voice_index_file, "r+") as f:
                     data = json.load(f)
                     data.append({"index": i, "language": primary_language, "name": ""})
-                    data = sorted(data, key=lambda x: x["index"])
+                    data = sorted(data, key=lambda x: x["index"]) 
                     f.seek(0)
                     json.dump(data, f, indent=4)
+                    f.truncate()
 
                 # delete the zip file after successful download and extraction
                 os.remove(os.path.join(helper_files_dir, "downloaded_packs", f"{i}.zip"))
 
                 # if the primary language is not "en", delete the extracted folder
                 if primary_language != "en" and not download_all:
-                    os.system(f"rm -rf {os.path.join(helper_files_dir, 'downloaded_packs', str(i))}")
-                    print(f"Deleted non-English pack: {i}.zip")
+                    try:
+                        shutil.rmtree(extracted_path)
+                        print(f"Deleted non-English pack: {i}.zip")
+                    except FileNotFoundError:
+                        pass
                     
             # if there is nothing to download just log it in the json
             except urllib.error.URLError as e:
