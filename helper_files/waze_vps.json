@@ -1023,6 +1023,13 @@
         "language": "Azerbaijani",
         "uuid": "8ac49d05-63b7-4a29-a6d9-97e6cf60b91a",
         "author": "Ismat Sadigov MEZHH"
+    },
+    {
+        "name": "HAL9000 (Very Calm)",
+        "language": "English",
+        "uuid": "ccb8cdbd-dc4e-4ade-9999-3978555221bb",
+        "author": "nodefive",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/187"
     }
 ]
 }
