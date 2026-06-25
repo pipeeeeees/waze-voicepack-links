@@ -1007,6 +1007,18 @@
         "author_link": "https://github.com/tmp483/waze-voicepack-links/tree/main"
     },
     {
+        "uuid": "6e513d97-4285-42e2-9a61-e9b53baf7215",
+        "name": "Rory Mercury",
+        "language": "English",
+        "author": "desertrat2024",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/pull/185/",
+        "set_name": "Rory Mercury",
+        "owner": "1|global|894298598",
+        "revision": 0,
+        "is_uploaded": 2,
+        "has_new_version": 0
+    },
+    {
         "name": "Tural optimized",
         "language": "Azerbaijani",
         "uuid": "0a0bef28-409b-4bff-a565-40b1401590fe",
