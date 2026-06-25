@@ -8,71 +8,81 @@ SHARE_BASE_URI = "https://waze.com/ul?acvp="
 FILES_BASE_URI = "https://voice-prompts-ipv6.waze.com/"
 FILES_URI_SUFFIX = ".tar.gz"
 
+def generate_voicepacks_markdown_table(voicepacks) -> str:
+    # Group voicepacks by language
+    grouped = {}
+    for vp in voicepacks:
+        lang = vp.get("language", "").strip()
+        if not lang:
+            lang = "Other"
+        if lang not in grouped:
+            grouped[lang] = []
+        grouped[lang].append(vp)
+
+    # Sort languages: alphabetical, but put "Other" at the end if it exists
+    sorted_languages = sorted(grouped.keys(), key=lambda l: (l == "Other", l))
+
+    markdown_sections = []
+    for lang in sorted_languages:
+        # sort voicepacks within this language by name (case-insensitive)
+        voicepacks_sorted = sorted(grouped[lang], key=lambda vp: (vp.get("name") or "").lower())
+        
+        section = f"## {lang}\n"
+        section += "| Name | Link | mp3 files | Notes |\n"
+        section += "|------|------|-----------|-------|\n"
+        
+        for vp in voicepacks_sorted:
+            name = vp.get("name", "N/A")
+            uuid = vp.get("uuid", "N/A")
+            share_link = f"{SHARE_BASE_URI}{uuid}"
+            files_link = f"{FILES_BASE_URI}{uuid}{FILES_URI_SUFFIX}"
+            
+            # Additional mp3 note if present
+            mp3_files_additional_note = vp.get("mp3_files_additional_note", "")
+            
+            # Construct notes
+            notes = ""
+            
+            # Check for blog
+            blog = vp.get("blog", "")
+            if blog:
+                notes += f"[Blog Post]({blog}) "
+                
+            # Check for authors
+            author = vp.get("author", "")
+            author_link = vp.get("author_link", "")
+            author_2 = vp.get("author_2", "")
+            author_2_link = vp.get("author_2_link", "")
+            
+            if author:
+                if author_link:
+                    notes += f"By [{author}]({author_link})"
+                else:
+                    notes += f"By {author}"
+                if author_2_link:
+                    notes += f" and [{author_2}]({author_2_link})"
+                elif author_2:
+                    notes += f" and {author_2}"
+            
+            json_notes = vp.get("notes", "")
+            if json_notes:
+                if notes and not notes.endswith(" "):
+                    notes += " "
+                notes += json_notes
+                
+            section += f"| {name} | [Link]({share_link}) | [mp3 files{mp3_files_additional_note}]({files_link}) | {notes} |\n"
+            
+        markdown_sections.append(section)
+        
+    return "\n".join(markdown_sections)
+
 def generate_official_voicepacks_markdown_table(waze_vps_json) -> str:
     waze_vps = json.loads(waze_vps_json)
-    official_voicepacks = waze_vps.get("Official Voicepacks", [])
-
-    # sort official voicepacks by name (case-insensitive) before rendering
-    official_voicepacks = sorted(official_voicepacks, key=lambda vp: (vp.get("name") or "").lower())
-    
-    markdown_table = "| Name | Link | Language | mp3 files | Notes |\n"
-    markdown_table += "|------|----------|----------|-----------|-------|\n"
-    
-    for vp in official_voicepacks:
-        name = vp.get("name", "N/A")
-        language = vp.get("language", "N/A")
-        uuid = vp.get("uuid", "N/A")
-        notes = vp.get("notes", "")
-        blog = vp.get("blog", "")
-        if blog:
-            notes = f"[Blog Post]({blog}) " + notes
-        share_link = f"{SHARE_BASE_URI}{uuid}"
-        files_link = f"{FILES_BASE_URI}{uuid}{FILES_URI_SUFFIX}"
-        markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files]({files_link}) | {notes} |\n"
-    
-    return markdown_table
+    return generate_voicepacks_markdown_table(waze_vps.get("Official Voicepacks", []))
 
 def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
     waze_vps = json.loads(waze_vps_json)
-    community_voicepacks = waze_vps.get("Community Voicepacks", [])
-
-    # sort community voicepacks by name (case-insensitive) before rendering
-    community_voicepacks = sorted(community_voicepacks, key=lambda vp: (vp.get("name") or "").lower())
-    
-    markdown_table = "| Name | Link | Language | mp3 files | Notes |\n"
-    markdown_table += "|------|----------|----------|-----------|-------|\n"
-    
-    for vp in community_voicepacks:
-        name = vp.get("name", "N/A")
-        language = vp.get("language", "N/A")
-        uuid = vp.get("uuid", "N/A")
-        share_link = f"{SHARE_BASE_URI}{uuid}"
-        files_link = f"{FILES_BASE_URI}{uuid}{FILES_URI_SUFFIX}"
-        # if the vp has the "author" field, include it in the notes
-        author = vp.get("author", "")
-        author_link = vp.get("author_link", "")
-        author_2 = vp.get("author_2", "")
-        author_2_link = vp.get("author_2_link", "")
-        mp3_files_additional_note = vp.get("mp3_files_additional_note", "")
-        json_notes = vp.get("notes", "")
-        if author:
-            if author_link:
-                notes = f"By [{author}]({author_link})"
-            else:
-                notes = f"By {author}"
-            if author_2_link:
-                notes += f" and [{author_2}]({author_2_link})"
-            elif author_2:
-                notes += f" and {author_2}"
-        else:
-            notes = ""
-        
-        if json_notes:
-            notes += f" {json_notes}"
-
-        markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files{mp3_files_additional_note}]({files_link}) | {notes} |\n"
-    
-    return markdown_table
+    return generate_voicepacks_markdown_table(waze_vps.get("Community Voicepacks", []))
 
 intro_string = """# Waze Voicepack Links
 
@@ -138,9 +148,11 @@ def generate_readme(waze_vps_json):
 
     readme_content = f"{intro_string}\n{official_table}\n{community_list_intro_string}\n{community_table}\n{outro_string}"
     
-    # generate README.md file in cwd / helper_files directory (remove old one if it exists)
-    cwd = os.getcwd()
-    readme_path = os.path.join(cwd, 'helper_files/README.md')
+    # generate README.md file in the root directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+    readme_path = os.path.join(root_dir, 'README.md')
+    
     if os.path.exists(readme_path):
         os.remove(readme_path)
     with open(readme_path, 'w', encoding='utf-8') as f:
