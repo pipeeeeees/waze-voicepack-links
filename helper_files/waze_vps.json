@@ -1018,11 +1018,18 @@
         "uuid": "e94d32c5-2cfa-4005-829c-4dace425c190",
         "author": "Ismat Sadigov"
     },
-        {
+    {
         "name": "Ada (AI Generated)",
         "language": "Azerbaijani",
         "uuid": "8ac49d05-63b7-4a29-a6d9-97e6cf60b91a",
         "author": "Ismat Sadigov MEZHH"
+    },
+    {
+        "name": "Quandale Dingle",
+        "language": "English",
+        "uuid": "d50d5d44-2359-4d7f-b5c4-0de11bd1a51b",
+        "author": "Oamigo3",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/191"
     }
 ]
 }
