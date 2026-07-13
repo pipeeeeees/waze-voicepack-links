@@ -25,15 +25,32 @@ TARGET_SAMPLE_RATE = 44100
 TARGET_AUDIO_CHANNELS = 1        # mono
 TARGET_VOLUME_INCREASE = 7.0     # dB
 TARGET_FOLDER_SIZE = 0.795       # MB
+VALID_FILENAMES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'valid_waze_filenames.txt')
 
 # ============================
 # Helpers
 # ============================
 
-def get_folder_size(folder_path):
+
+def load_valid_waze_filenames(path=None):
+    path = path or VALID_FILENAMES_FILE
+    with open(path, 'r') as f:
+        return {line.strip() for line in f if line.strip()}
+
+
+VALID_WAZE_FILENAMES = load_valid_waze_filenames()
+
+
+def is_valid_waze_mp3(filename):
+    return filename.endswith('.mp3') and filename in VALID_WAZE_FILENAMES
+
+
+def get_folder_size(folder_path, valid_filenames=None):
     total = 0
     for root, _, files in os.walk(folder_path):
         for f in files:
+            if valid_filenames is not None and not (f.endswith('.mp3') and f in valid_filenames):
+                continue
             total += os.path.getsize(os.path.join(root, f))
     return total / (1024 * 1024)
 
@@ -84,18 +101,19 @@ def compress_pack(pack_path, output_root):
 
         tasks = []
         for filename in os.listdir(pristine_path):
-            if filename.endswith('.mp3'):
-                src = os.path.join(pristine_path, filename)
-                dst = os.path.join(working_path, filename)
-                tasks.append((src, dst, bitrate))
+            if not is_valid_waze_mp3(filename):
+                continue
+            src = os.path.join(pristine_path, filename)
+            dst = os.path.join(working_path, filename)
+            tasks.append((src, dst, bitrate))
 
         with Pool() as pool:
             pool.map(_convert_worker, tasks)
 
-        return get_folder_size(working_path)
+        return get_folder_size(working_path, valid_filenames=VALID_WAZE_FILENAMES)
 
     # Initial size check
-    initial_size = get_folder_size(pristine_path)
+    initial_size = get_folder_size(pristine_path, valid_filenames=VALID_WAZE_FILENAMES)
     if initial_size <= TARGET_FOLDER_SIZE:
         shutil.copytree(pristine_path, working_path)
         print(f" - 📦 Already within limit ({initial_size:.2f} MB)")
