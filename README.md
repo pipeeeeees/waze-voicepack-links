@@ -236,6 +236,11 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Philippe&Sandy NOSTALGIE | [Link](https://waze.com/ul?acvp=4844F906-EFBB-478A-A35B-13CF0319DC3B) | [mp3 files](https://voice-prompts-ipv6.waze.com/4844F906-EFBB-478A-A35B-13CF0319DC3B.tar.gz) |  |
 | Voix de Dédé Saint-Prix | [Link](https://waze.com/ul?acvp=63A1A6E2-D115-48E5-BF60-977B0F6D0FFD) | [mp3 files](https://voice-prompts-ipv6.waze.com/63A1A6E2-D115-48E5-BF60-977B0F6D0FFD.tar.gz) |  |
 
+## German
+| Name | Link | mp3 files | Notes |
+|------|------|-----------|-------|
+| Siri | [Link](https://waze.com/ul?acvp=f7f1c9d0-478a-4b68-a602-2bbc88ee6929) | [mp3 files](https://voice-prompts-ipv6.waze.com/f7f1c9d0-478a-4b68-a602-2bbc88ee6929.tar.gz) | German female voice 2 |
+
 ## Greek
 | Name | Link | mp3 files | Notes |
 |------|------|-----------|-------|
