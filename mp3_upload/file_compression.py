@@ -14,6 +14,9 @@ import os
 import shutil
 import time
 from multiprocessing import Pool
+from ffmpeg_utils import configure_ffmpeg_for_pydub
+
+configure_ffmpeg_for_pydub()
 from pydub import AudioSegment
 
 # ============================

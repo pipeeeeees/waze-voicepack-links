@@ -9,6 +9,9 @@ This module handles the ingestion and validation of MP3 files for upload. It
 """
 
 import os
+from ffmpeg_utils import configure_ffmpeg_for_pydub
+
+configure_ffmpeg_for_pydub()
 from pydub import AudioSegment
 
 def ingest_mp3_packs(input_directory, valid_filenames_file):
