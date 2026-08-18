@@ -177,7 +177,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Donald Trump | [Link](https://waze.com/ul?acvp=49687817-7D66-4670-8CBD-2362B44BA08A) | [mp3 files](https://voice-prompts-ipv6.waze.com/49687817-7D66-4670-8CBD-2362B44BA08A.tar.gz) |  |
 | Drew Lynch | [Link](https://waze.com/ul?acvp=80670078-fd21-481f-aa4d-9e96c3d4dba4) | [mp3 files](https://voice-prompts-ipv6.waze.com/80670078-fd21-481f-aa4d-9e96c3d4dba4.tar.gz) |  |
 | Englishman - "Sir William" | [Link](https://waze.com/ul?acvp=562F94E3-4913-4AA6-B0C9-BDAA4B86321F) | [mp3 files](https://voice-prompts-ipv6.waze.com/562F94E3-4913-4AA6-B0C9-BDAA4B86321F.tar.gz) |  |
-| F1 2020 | [Link](https://waze.com/ul?acvp=561c4d75-666b-4f95-b5fa-de7b85646e01) | [mp3 files](https://voice-prompts-ipv6.waze.com/561c4d75-666b-4f95-b5fa-de7b85646e01.tar.gz) | By [austinyen56](https://github.com/austinyen56/Waze-F1-VO) |
+| F1 2020 | [Link](https://waze.com/ul?acvp=ee1b5f92-af3f-4e3e-a184-66759cd59709) | [mp3 files](https://voice-prompts-ipv6.waze.com/ee1b5f92-af3f-4e3e-a184-66759cd59709.tar.gz) | By [austinyen56](https://github.com/austinyen56/Waze-F1-VO) |
 | Fortyone Usec3 EFT | [Link](https://waze.com/ul?acvp=8b2df075-ebc8-42b9-85e0-3b50b5f3275a) | [mp3 files](https://voice-prompts-ipv6.waze.com/8b2df075-ebc8-42b9-85e0-3b50b5f3275a.tar.gz) | By [@140er](https://discord.com/) |
 | Ghostface (TikTok Voiceover) | [Link](https://waze.com/ul?acvp=a93e8187-0a15-4aa4-9db0-8be18646a8ef) | [mp3 files](https://voice-prompts-ipv6.waze.com/a93e8187-0a15-4aa4-9db0-8be18646a8ef.tar.gz) |  |
 | GLaDOS | [Link](https://waze.com/ul?acvp=D965C10B-781D-4A2F-9D22-46052EDC66A0) | [mp3 files](https://voice-prompts-ipv6.waze.com/D965C10B-781D-4A2F-9D22-46052EDC66A0.tar.gz) |  |
