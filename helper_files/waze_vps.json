@@ -1,1 +1,19 @@
-PLACEHOLDER_JSON
+{
+"Official Voicepacks": [
+    {
+        "name": "Aerobic Instructor 80s",
+        "language": "English",
+        "uuid": "25490e25-4f56-4c76-a82c-0e77b6c49031",
+        "blog": "https://blog.google/waze/drive-back-to-the-70-80s-and-90s/"
+    }
+],
+"Community Voicepacks": [
+    {
+        "name": "AraNasty",
+        "language": "English",
+        "uuid": "30762c2e-79b3-4cbc-93ce-8ba3f194ae56",
+        "author": "swagstylehub-cell",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/208"
+    }
+]
+}
