@@ -53,7 +53,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Chaka Khan | [Link](https://waze.com/ul?acvp=9594026e-1c56-45b6-acac-436c73fae7d7) | [mp3 files](https://voice-prompts-ipv6.waze.com/9594026e-1c56-45b6-acac-436c73fae7d7.tar.gz) | [Blog Post](https://blog.google/waze/drive-with-chaka-khan-on-waze/)  |
 | Christina Aguilera | [Link](https://waze.com/ul?acvp=57972da3-2992-44e4-a915-bafe3d45cf07) | [mp3 files](https://voice-prompts-ipv6.waze.com/57972da3-2992-44e4-a915-bafe3d45cf07.tar.gz) |  |
 | Colonel Sanders (KFC) | [Link](https://waze.com/ul?acvp=64fe16b4-2654-4372-b03c-4c204d4744d8) | [mp3 files](https://voice-prompts-ipv6.waze.com/64fe16b4-2654-4372-b03c-4c204d4744d8.tar.gz) |  |
-| Cookie Monster | [Link](https://waze.com/ul?acvp=e5573cae-b627-41f6-8d85-4c781e64aaaa) | [mp3 files](https://voice-prompts-ipv6.waze.com/e5573cae-b627-41f6-8d85-4c781e64aaaa.tar.gz) |  |
+| Cookie Monster | [Link](https://waze.com/ul?acvp=4c2dd36e-d40c-41a3-a23a-668bd65331ca) | [mp3 files](https://voice-prompts-ipv6.waze.com/4c2dd36e-d40c-41a3-a23a-668bd65331ca.tar.gz) |  |
 | Cupid | [Link](https://waze.com/ul?acvp=9400427c-f69b-4be2-bdbf-6ee9f34789c2) | [mp3 files](https://voice-prompts-ipv6.waze.com/9400427c-f69b-4be2-bdbf-6ee9f34789c2.tar.gz) |  |
 | Dian Sastrowardoyo (Asian Games Promo) | [Link](https://waze.com/ul?acvp=2927b233-4902-45ba-8a4d-b13b2efc270c) | [mp3 files](https://voice-prompts-ipv6.waze.com/2927b233-4902-45ba-8a4d-b13b2efc270c.tar.gz) |  |
 | Dizzee Rascal | [Link](https://waze.com/ul?acvp=2c566b13-6a2a-4881-819b-8db54453bcfb) | [mp3 files](https://voice-prompts-ipv6.waze.com/2c566b13-6a2a-4881-819b-8db54453bcfb.tar.gz) |  |
