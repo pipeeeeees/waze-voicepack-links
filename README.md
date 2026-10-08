@@ -223,7 +223,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Tom Cruise (A.I. Generated) | [Link](https://waze.com/ul?acvp=81785741-4e08-4b3b-b260-f5e2b79c08dc) | [mp3 files](https://voice-prompts-ipv6.waze.com/81785741-4e08-4b3b-b260-f5e2b79c08dc.tar.gz) | By [arctic-alexa](https://github.com/arctic-alexa/TC-Waze-Voice) |
 | TomTom Jane | [Link](https://waze.com/ul?acvp=6614e239-d4a1-409c-a1e9-348c960f1b32) | [mp3 files](https://voice-prompts-ipv6.waze.com/6614e239-d4a1-409c-a1e9-348c960f1b32.tar.gz) | By [fnuerpod](https://github.com/pipeeeeees/waze-voicepack-links/issues/10) |
 | Union Co. Traffic Officers Assoc. | [Link](https://waze.com/ul?acvp=CB6BA079-93EB-46E4-A8F0-C6BC78EEC877) | [mp3 files](https://voice-prompts-ipv6.waze.com/CB6BA079-93EB-46E4-A8F0-C6BC78EEC877.tar.gz) |  |
-| Vivek Ponnusamy (Samir, you're breaking the car!) | [Link](https://waze.com/ul?acvp=b2ddf4b7-0884-441b-96ab-e3b82a5b76bd) | [mp3 files](https://voice-prompts-ipv6.waze.com/b2ddf4b7-0884-441b-96ab-e3b82a5b76bd.tar.gz) | By [tutaf](https://github.com/pipeeeeees/waze-voicepack-links/issues/60) |
+| Vivek Ponnusamy (Samir, you're breaking the car!) | [Link](https://waze.com/ul?acvp=705451aa-da10-4559-9f40-cff2707f7402) | [mp3 files](https://voice-prompts-ipv6.waze.com/705451aa-da10-4559-9f40-cff2707f7402.tar.gz) | By [tutaf](https://github.com/pipeeeeees/waze-voicepack-links/issues/60); recreated by Doudski |
 
 ## French
 | Name | Link | mp3 files | Notes |
