@@ -5,7 +5,7 @@ A community-maintained archive of classic and custom Waze GPS voices — all in 
 
 Bring back your favorite characters, celebrities, and custom voice packs that have disappeared from the official app over the years.
 
-## UPDATE - October 2027
+## UPDATE - October 2026
 
 Within the last few days, many users have reported issues with adding / downloading the majority of Waze voicepacks uploaded using the Voice Recorder feature. It appears that Waze has made a change to the way these voicepacks are retreived from their servers, and as a result **most** of the previously working links below are no longer functional.
 
