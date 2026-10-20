@@ -50,7 +50,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Armie Hammer (Jackson Storm, Cars 3) | [Link](https://waze.com/ul?acvp=b35569c3-02ec-4c2e-9671-69a693ccb468) | [mp3 files](https://voice-prompts-ipv6.waze.com/b35569c3-02ec-4c2e-9671-69a693ccb468.tar.gz) |  |
 | Arnold Schwarzenegger (Terminator) | [Link](https://waze.com/ul?acvp=2c87c51a-2646-41ad-9cc8-f119cacc0521) | [mp3 files](https://voice-prompts-ipv6.waze.com/2c87c51a-2646-41ad-9cc8-f119cacc0521.tar.gz) |  |
 | BAM - Batman's Car | [Link](https://waze.com/ul?acvp=3bff58cc-cb95-494c-aa60-24a47f978f5b) | [mp3 files](https://voice-prompts-ipv6.waze.com/3bff58cc-cb95-494c-aa60-24a47f978f5b.tar.gz) |  |
-| Batman (Kevin Conroy) | [Link](https://waze.com/ul?acvp=25aff279-476a-4031-a957-0ae982996ae1) | [mp3 files](https://voice-prompts-ipv6.waze.com/25aff279-476a-4031-a957-0ae982996ae1.tar.gz) |  |
+| Batman (Kevin Conroy) | [Link](https://waze.com/ul?acvp=51dc342c-b8f7-4be6-bd8e-fb8ea20b604e) | [mp3 files](https://voice-prompts-ipv6.waze.com/51dc342c-b8f7-4be6-bd8e-fb8ea20b604e.tar.gz) |  |
 | Boy Band | [Link](https://waze.com/ul?acvp=bb79bd55-be60-48b9-bf7f-170e31931ed8) | [mp3 files](https://voice-prompts-ipv6.waze.com/bb79bd55-be60-48b9-bf7f-170e31931ed8.tar.gz) |  |
 | Boy George | [Link](https://waze.com/ul?acvp=7c06133e-73e7-40e9-9e65-f1317c10863c) | [mp3 files](https://voice-prompts-ipv6.waze.com/7c06133e-73e7-40e9-9e65-f1317c10863c.tar.gz) |  |
 | British, Brummie Accent | [Link](https://waze.com/ul?acvp=0aa9bd57-5f6d-4ccb-a975-945b6411ecb0) | [mp3 files](https://voice-prompts-ipv6.waze.com/0aa9bd57-5f6d-4ccb-a975-945b6411ecb0.tar.gz) |  |
