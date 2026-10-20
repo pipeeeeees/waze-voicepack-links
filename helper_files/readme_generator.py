@@ -90,6 +90,14 @@ A community-maintained archive of classic and custom Waze GPS voices — all in 
 
 Bring back your favorite characters, celebrities, and custom voice packs that have disappeared from the official app over the years.
 
+## UPDATE - October 2026
+
+Within the last few days, many users have reported issues with adding / downloading the majority of Waze voicepacks uploaded using the Voice Recorder feature. It appears that Waze has made a change to the way these voicepacks are retreived from their servers, and as a result **most** of the previously working links below are no longer functional.
+
+There is no known reason, explanation, or workaround for this change at the moment. You can read more about it here:
+- https://www.reddit.com/r/waze/comments/1x4eg3s/custom_voices_gone/
+- https://github.com/pipeeeeees/waze-voicepack-links/issues/215
+
 ## 🚗 What Is This?
 
 This repository collects publicly shareable Waze voicepack links so they don’t get lost in old Reddit threads, dead websites, or outdated blog posts.

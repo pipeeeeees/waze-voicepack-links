@@ -95,7 +95,7 @@
     {
         "name": "Cookie Monster",
         "language": "English",
-        "uuid": "e5573cae-b627-41f6-8d85-4c781e64aaaa"
+        "uuid": "4c2dd36e-d40c-41a3-a23a-668bd65331ca"
     },
     {
         "name": "Cupid",
@@ -617,7 +617,7 @@
     {
         "name": "F1 2020",
         "language": "English",
-        "uuid": "561c4d75-666b-4f95-b5fa-de7b85646e01",
+        "uuid": "ee1b5f92-af3f-4e3e-a184-66759cd59709",
         "author": "austinyen56",
         "author_link": "https://github.com/austinyen56/Waze-F1-VO"
     },
@@ -694,7 +694,7 @@
         "language": "English",
         "uuid": "9e677a27-8421-41d7-9486-dce48fceca2c",
         "author": "Julchensid2303",
-        "author_link": "https://github.com/julchensid2303/waze-voicepack-links/issues"
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/54"
     },
     {
         "name": "Homer by Superflame",
@@ -982,7 +982,8 @@
         "language": "English",
         "uuid": "705451aa-da10-4559-9f40-cff2707f7402",
         "author": "tutaf",
-        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/60"
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/60",
+        "notes": "; recreated by Doudski"
     },
     {
         "name": "Voix de Dédé Saint-Prix",
