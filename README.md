@@ -290,6 +290,11 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Geralt (The Witcher) | [Link](https://waze.com/ul?acvp=2e19b711-3830-4ca2-8f40-4243e1189889) | [mp3 files](https://voice-prompts-ipv6.waze.com/2e19b711-3830-4ca2-8f40-4243e1189889.tar.gz) | By [@Mroxer](https://discord.com/) |
 | Krzysztof Hołowczyc | [Link](https://waze.com/ul?acvp=53072723-bb77-424c-b6d1-cdd3fcaaa4d8) | [mp3 files](https://voice-prompts-ipv6.waze.com/53072723-bb77-424c-b6d1-cdd3fcaaa4d8.tar.gz) | By Krzosik |
 
+## Russian
+| Name | Link | mp3 files | Notes |
+|------|------|-----------|-------|
+| Vasiliy Utkin | [Link](https://waze.com/ul?acvp=922c4a3c-008a-43bd-9e97-f9b8823ba2f8) | [mp3 files](https://voice-prompts-ipv6.waze.com/922c4a3c-008a-43bd-9e97-f9b8823ba2f8.tar.gz) | By [atem32](https://github.com/pipeeeeees/waze-voicepack-links/issues/231) 39/43 prompts, mile distances excluded. |
+
 ## Singlish
 | Name | Link | mp3 files | Notes |
 |------|------|-----------|-------|
@@ -301,6 +306,7 @@ This list contains user-created voice packs made by the Waze community. These vo
 | Auron | [Link](https://waze.com/ul?acvp=3482511f-aa36-4cd1-9997-4dade0c7c62e) | [mp3 files](https://voice-prompts-ipv6.waze.com/3482511f-aa36-4cd1-9997-4dade0c7c62e.tar.gz) | By [l4t0r](https://twitter.com/mikethebard) |
 | Cortana | [Link](https://waze.com/ul?acvp=7cdd97cb-549e-45d2-b408-fe6a6c32453e) | [mp3 files](https://voice-prompts-ipv6.waze.com/7cdd97cb-549e-45d2-b408-fe6a6c32453e.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
 | Cortana (Alternate) | [Link](https://waze.com/ul?acvp=6094a015-c947-4c63-8137-9679fb884681) | [mp3 files](https://voice-prompts-ipv6.waze.com/6094a015-c947-4c63-8137-9679fb884681.tar.gz) | By [Hosshoffman](https://github.com/pipeeeeees/waze-voicepack-links/issues/151) |
+| La Pantera (Spanish Rapper) | [Link](https://waze.com/ul?acvp=1c4846f7-ee99-4542-8835-7a2bb3bee6dd) | [mp3 files](https://voice-prompts-ipv6.waze.com/1c4846f7-ee99-4542-8835-7a2bb3bee6dd.tar.gz) | By [pabloburgos](https://github.com/pipeeeeees/waze-voicepack-links/issues/230) |
 | Seshomaru(esp Lat) | [Link](https://waze.com/ul?acvp=26D1036A-DB04-4824-AA1F-E02B5650060A) | [mp3 files](https://voice-prompts-ipv6.waze.com/26D1036A-DB04-4824-AA1F-E02B5650060A.tar.gz) | By [carlosandrescortes](https://github.com/pipeeeeees/waze-voicepack-links/issues/79) |
 
 ## Surinamese

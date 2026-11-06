@@ -786,6 +786,13 @@
         "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/70"
     },
     {
+        "name": "La Pantera (Spanish Rapper)",
+        "language": "Spanish",
+        "uuid": "1c4846f7-ee99-4542-8835-7a2bb3bee6dd",
+        "author": "pabloburgos",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/230"
+    },
+    {
         "name": "Le Warm-Up d’Elliot",
         "language": "French",
         "uuid": "0EA982ED-28E4-4F03-9556-9D65E3438430"
@@ -983,6 +990,14 @@
         "name": "Union Co. Traffic Officers Assoc.",
         "language": "English",
         "uuid": "CB6BA079-93EB-46E4-A8F0-C6BC78EEC877"
+    },
+    {
+        "name": "Vasiliy Utkin",
+        "language": "Russian",
+        "uuid": "922c4a3c-008a-43bd-9e97-f9b8823ba2f8",
+        "author": "atem32",
+        "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/231",
+        "notes": "39/43 prompts, mile distances excluded."
     },
     {
         "name": "Vivek Ponnusamy (Samir, you're breaking the car!)",
